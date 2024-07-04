@@ -1,0 +1,6 @@
+*.pyc
+*.txt
+AuthKey
+
+thermometer_logs/
+__pycache__/
