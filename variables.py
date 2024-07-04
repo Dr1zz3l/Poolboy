@@ -22,8 +22,10 @@ thermometer_ids = {
     }
 thermometer_max_temp_loggings = 3
 
-probe_measure_start = 540 #measure probe values measurement starts after... sec.
+probe_measure_start = 420 #540 #measure probe values measurement starts after... sec.
 probe_measure_time = 60 #measure probe values for ...sec and then take average
 probe_wait_between_pumps = 60 #wait this long between pumping chlorine and acid
 probe_ORP_10_min_val = 680 #690 #if ORP under this val, pump chlorine for 10 min
 probe_ORP_5_min_val = 730 #710 #if ORP only under this val, pump chlorine for 5 min
+probe_pH_10_min_val = 7.2 #if pH over this val, pump acid for 10 min
+probe_pH_5_min_val = 7.1 #if pH over this val, pump acid for 5 min

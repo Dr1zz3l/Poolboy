@@ -30,14 +30,16 @@ class probes(threading.Thread):
         self.vars.solar_blocked = False
         log.note("unblocked solar", "probe")
         while True:
-            new_hour = datetime.datetime.now().hour != self.current_hour
-            is_daytime = self.vars.pool_start_time <= datetime.datetime.now().hour < self.vars.pool_stop_time
-            good_hour_modulo = datetime.datetime.now().hour%self.vars.pool_modulo_value == self.vars.pool_modulo_result
+            now = datetime.datetime.now()
+            new_hour = now.hour != self.current_hour
+            is_daytime = self.vars.pool_start_time <= now.hour < self.vars.pool_stop_time
+            good_hour_modulo = now.hour%self.vars.pool_modulo_value == self.vars.pool_modulo_result
+            not_first_cycle = (now.hour - self.vars.pool_start_time) >= self.vars.pool_modulo_value
 
-            if new_hour and is_daytime and good_hour_modulo:
-                log.note(datetime.datetime.now().strftime("%Hh %Mm %Ss"), "probe", 2)
+            if new_hour and is_daytime and good_hour_modulo and not_first_cycle:
+                log.note(now.strftime("%Hh %Mm %Ss"), "probe", 2)
                 log.note("start hourly cycle", "probe")
-                self.current_hour = datetime.datetime.now().hour
+                self.current_hour = now.hour
                 self.block_solar(True)
                 time.sleep(10) #give pool_class time to turn on pump
 
@@ -49,6 +51,7 @@ class probes(threading.Thread):
                 log.note(datetime.datetime.now().strftime("%Hh %Mm %Ss"), "probe")
                 time.sleep(self.vars.probe_measure_start) #wait until measurment starts to settle values
                 log.note(datetime.datetime.now().strftime("%Hh %Mm %Ss"), "probe")
+                
                 t_0 = time.time() #timer
                 ORP_values = []
                 pH_values = []
@@ -78,8 +81,8 @@ class probes(threading.Thread):
                     continue #jump to beginning of loop
 
                 if ORP_t > 0: self.pump_chlorine(ORP_t)
-                time.sleep(self.vars.probe_wait_between_pumps)
 
+                time.sleep(self.vars.probe_wait_between_pumps)
                 if not pump.pool_on(): #abort cycle if pool_pump is off
                     log.note("pool pump didn't turn on, abort this cycle 3", "probe")
                     continue #jump to beginning of loop
@@ -113,7 +116,12 @@ class probes(threading.Thread):
             return 0
     
     def pH_correction_time(self, val): #determine how long the pump needs to run
-        return 0
+        if val > self.vars.probe_pH_10_min_val:
+            return 10*60
+        elif val > self.vars.probe_pH_5_min_val:
+            return 5*60
+        else:
+            return 0
 
     def pump_chlorine(self, dt): #pump on/off
         log.note("pumping chlorine for %ss"%str(dt), "probe")
