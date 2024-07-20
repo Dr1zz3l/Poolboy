@@ -36,7 +36,7 @@ class solar(threading.Thread):
                     log.note("replenishing solar", "solar")
                     start_time = time.time()
                     pump.solar(True)
-                    while not self.vars.solar_blocked and time.time()-start_time < self.vars.solar_max_circulation_time and avg - temperatures["pool"] > self.vars.solar_cutoff_temp_delta:
+                    while not self.vars.solar_blocked and time.time()-start_time < self.vars.solar_max_circulation_time and avg - temperatures["pool"] > self.vars.solar_cutoff_temp_delta and temperatures["pool"] < self.vars.solar_max_pool_temp:
                         temperatures = self.thermometer.read()
                         avg = (temperatures["solar_schuppen"]+temperatures["solar_sauna"])/2
                         log.note("Solar Sauna: %s, Solar Schuppen: %s, Pool: %s"%(str(round(temperatures["solar_sauna"],1)), str(round(temperatures["solar_schuppen"],1)), str(round(temperatures["pool"],1))), "solar") 
