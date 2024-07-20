@@ -1,0 +1,6850 @@
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	solar class output
+		pool class output
+			probe output
+				pump output
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+				19h 30m 02s
+				POOL: False
+
+		19h 30m 32s
+	19h 30m
+		blocked: True, is_daytime: True, good_hour_modulo: False
+	solar wakeup
+	blocked
+	pool probably blocked from startup
+	blocking pool: False
+
+		pool blocked: False
+
+		19h 30m 33s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+			found d._module ORP
+			found d._module pH
+			unblocked solar
+	finished main loop
+	19h 41m
+	solar wakeup
+	running main loop
+	solar temp average: 32.0 C
+	pool temp: 27.1 C
+	finished main loop
+	19h 52m
+	solar wakeup
+	running main loop
+	solar temp average: 31.2 C
+	pool temp: 27.0 C
+	finished main loop
+
+			20h 00m 00s
+			start hourly cycle
+
+		20h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		new hour, reset values
+		absolute runtime this hour: 0
+		new hour, reset values
+		pool pump needs to be turned on
+				20h 00m 00s
+				POOL: True
+			20h 00m 20s
+	20h 03m
+	solar wakeup
+	blocked
+	finished main loop
+			20h 07m 20s
+			20h 08m 20s
+			ORP: 445.3837837837837
+			pH: 6.979800000000002
+			pumping chlorine for 300s
+				20h 08m 20s
+				CHLORINE: True
+				20h 09m 02s
+				CHLORINE: True
+				20h 10m 02s
+				CHLORINE: True
+				20h 11m 01s
+				CHLORINE: True
+				20h 12m 01s
+				CHLORINE: True
+				20h 13m 01s
+				CHLORINE: True
+				20h 13m 20s
+				CHLORINE: False
+	20h 14m
+	solar wakeup
+	running main loop
+	solar temp average: 27.8 C
+	pool temp: 26.8 C
+	finished main loop
+	20h 25m
+	solar wakeup
+	running main loop
+	solar temp average: 26.5 C
+	pool temp: 26.6 C
+	finished main loop
+		pool pump reached max runtime
+
+		already ran for 1801 seconds
+				20h 30m 01s
+				POOL: False
+	20h 36m
+	solar wakeup
+	running main loop
+	solar temp average: 25.8 C
+	pool temp: 26.4 C
+	finished main loop
+	20h 47m
+	solar wakeup
+	running main loop
+	solar temp average: 25.1 C
+	pool temp: 26.2 C
+	finished main loop
+	20h 58m
+	solar wakeup
+	running main loop
+	solar temp average: 24.4 C
+	pool temp: 26.1 C
+	finished main loop
+
+		21h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: False
+	21h 09m
+	solar wakeup
+	running main loop
+	solar temp average: 23.8 C
+	pool temp: 25.9 C
+	finished main loop
+	21h 20m
+	solar wakeup
+	running main loop
+	solar temp average: 23.5 C
+	pool temp: 25.8 C
+	finished main loop
+	21h 31m
+	solar wakeup
+	running main loop
+	solar temp average: 23.2 C
+	pool temp: 25.7 C
+	finished main loop
+	21h 42m
+	solar wakeup
+	running main loop
+	solar temp average: 22.8 C
+	pool temp: 25.6 C
+	finished main loop
+	21h 53m
+	solar wakeup
+	running main loop
+	solar temp average: 22.4 C
+	pool temp: 25.4 C
+	finished main loop
+
+		22h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: True
+	22h 04m
+	solar wakeup
+	not daytime
+	finished main loop
+	22h 15m
+	solar wakeup
+	not daytime
+	finished main loop
+	22h 26m
+	solar wakeup
+	not daytime
+	finished main loop
+	22h 37m
+	solar wakeup
+	not daytime
+	finished main loop
+	22h 48m
+	solar wakeup
+	not daytime
+	finished main loop
+	22h 59m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		23h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: False
+	23h 10m
+	solar wakeup
+	not daytime
+	finished main loop
+	23h 21m
+	solar wakeup
+	not daytime
+	finished main loop
+	23h 32m
+	solar wakeup
+	not daytime
+	finished main loop
+	23h 43m
+	solar wakeup
+	not daytime
+	finished main loop
+	23h 54m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		00h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: True
+	00h 05m
+	solar wakeup
+	not daytime
+	finished main loop
+	00h 16m
+	solar wakeup
+	not daytime
+	finished main loop
+	00h 27m
+	solar wakeup
+	not daytime
+	finished main loop
+	00h 38m
+	solar wakeup
+	not daytime
+	finished main loop
+	00h 49m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		01h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: False
+	01h 00m
+	solar wakeup
+	not daytime
+	finished main loop
+	01h 11m
+	solar wakeup
+	not daytime
+	finished main loop
+	01h 22m
+	solar wakeup
+	not daytime
+	finished main loop
+	01h 33m
+	solar wakeup
+	not daytime
+	finished main loop
+	01h 44m
+	solar wakeup
+	not daytime
+	finished main loop
+	01h 55m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		02h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: True
+	02h 06m
+	solar wakeup
+	not daytime
+	finished main loop
+	02h 17m
+	solar wakeup
+	not daytime
+	finished main loop
+	02h 28m
+	solar wakeup
+	not daytime
+	finished main loop
+	02h 39m
+	solar wakeup
+	not daytime
+	finished main loop
+	02h 50m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		03h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: False
+	03h 01m
+	solar wakeup
+	not daytime
+	finished main loop
+	03h 12m
+	solar wakeup
+	not daytime
+	finished main loop
+	03h 23m
+	solar wakeup
+	not daytime
+	finished main loop
+	03h 34m
+	solar wakeup
+	not daytime
+	finished main loop
+	03h 45m
+	solar wakeup
+	not daytime
+	finished main loop
+	03h 56m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		04h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: True
+	04h 07m
+	solar wakeup
+	not daytime
+	finished main loop
+	04h 18m
+	solar wakeup
+	not daytime
+	finished main loop
+	04h 29m
+	solar wakeup
+	not daytime
+	finished main loop
+	04h 40m
+	solar wakeup
+	not daytime
+	finished main loop
+	04h 51m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		05h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: False
+	05h 02m
+	solar wakeup
+	not daytime
+	finished main loop
+	05h 13m
+	solar wakeup
+	not daytime
+	finished main loop
+	05h 24m
+	solar wakeup
+	not daytime
+	finished main loop
+	05h 35m
+	solar wakeup
+	not daytime
+	finished main loop
+	05h 46m
+	solar wakeup
+	not daytime
+	finished main loop
+	05h 57m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		06h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: True
+	06h 08m
+	solar wakeup
+	not daytime
+	finished main loop
+	06h 19m
+	solar wakeup
+	not daytime
+	finished main loop
+	06h 30m
+	solar wakeup
+	not daytime
+	finished main loop
+	06h 41m
+	solar wakeup
+	not daytime
+	finished main loop
+	06h 52m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		07h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: False
+	07h 03m
+	solar wakeup
+	not daytime
+	finished main loop
+	07h 14m
+	solar wakeup
+	not daytime
+	finished main loop
+	07h 25m
+	solar wakeup
+	not daytime
+	finished main loop
+	07h 36m
+	solar wakeup
+	not daytime
+	finished main loop
+	07h 47m
+	solar wakeup
+	not daytime
+	finished main loop
+	07h 58m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		08h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		new hour, reset values
+		absolute runtime this hour: 1800.8592686653137
+		new hour, reset values
+		pool pump needs to be turned on
+				08h 00m 01s
+				POOL: True
+	08h 09m
+	solar wakeup
+	not daytime
+	finished main loop
+	08h 20m
+	solar wakeup
+	not daytime
+	finished main loop
+		pool pump reached max runtime
+
+		already ran for 1800 seconds
+				08h 30m 01s
+				POOL: False
+	08h 31m
+	solar wakeup
+	not daytime
+	finished main loop
+	08h 42m
+	solar wakeup
+	not daytime
+	finished main loop
+	08h 53m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		09h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	09h 04m
+	solar wakeup
+	running main loop
+	solar temp average: 25.6 C
+	pool temp: 22.3 C
+	finished main loop
+	09h 15m
+	solar wakeup
+	running main loop
+	solar temp average: 26.7 C
+	pool temp: 22.2 C
+	finished main loop
+	09h 26m
+	solar wakeup
+	running main loop
+	solar temp average: 28.3 C
+	pool temp: 22.2 C
+	finished main loop
+	09h 37m
+	solar wakeup
+	running main loop
+	solar temp average: 28.3 C
+	pool temp: 22.2 C
+	finished main loop
+	09h 48m
+	solar wakeup
+	running main loop
+	solar temp average: 31.0 C
+	pool temp: 22.2 C
+	finished main loop
+	09h 59m
+	solar wakeup
+	running main loop
+	solar temp average: 30.9 C
+	pool temp: 22.2 C
+	finished main loop
+
+			10h 00m 00s
+			start hourly cycle
+
+		10h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		new hour, reset values
+		absolute runtime this hour: 1800.2148537635803
+		new hour, reset values
+		pool pump needs to be turned on
+				10h 00m 00s
+				POOL: True
+			10h 00m 20s
+			10h 07m 20s
+			10h 08m 20s
+			ORP: 322.8449999999999
+			pH: 7.0108999999999995
+			pumping chlorine for 300s
+				10h 08m 20s
+				CHLORINE: True
+				10h 09m 01s
+				CHLORINE: True
+				10h 10m 01s
+				CHLORINE: True
+	10h 10m
+	solar wakeup
+	blocked
+	finished main loop
+				10h 11m 01s
+				CHLORINE: True
+				10h 12m 01s
+				CHLORINE: True
+				10h 13m 01s
+				CHLORINE: True
+				10h 13m 20s
+				CHLORINE: False
+	10h 21m
+	solar wakeup
+	running main loop
+	solar temp average: 33.0 C
+	pool temp: 22.2 C
+	blocking pool: True
+
+		already ran for 1310 seconds
+				10h 21m 50s
+				POOL: False
+
+		pool blocked: True
+
+		10h 21m 50s
+		blocked: True, is_daytime: True, good_hour_modulo: True
+	replenishing solar
+				10h 21m 55s
+				SOLAR: True
+	Solar Sauna: 27.1, Solar Schuppen: 39.0, Pool: 22.2
+	Solar Sauna: 30.6, Solar Schuppen: 38.9, Pool: 24.4
+	Solar Sauna: 34.2, Solar Schuppen: 38.2, Pool: 26.1
+	Solar Sauna: 34.2, Solar Schuppen: 37.0, Pool: 26.7
+	Solar Sauna: 32.8, Solar Schuppen: 35.5, Pool: 26.8
+	Solar Sauna: 31.4, Solar Schuppen: 33.2, Pool: 26.9
+	Solar Sauna: 29.9, Solar Schuppen: 32.1, Pool: 26.9
+	Solar Sauna: 29.2, Solar Schuppen: 31.2, Pool: 27.0
+	Solar Sauna: 28.6, Solar Schuppen: 30.9, Pool: 27.0
+	replenished solar, interrupted: False
+				10h 23m 25s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		10h 23m 26s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		pool pump needs to be turned on
+				10h 23m 26s
+				POOL: True
+	finished main loop
+		pool pump reached max runtime
+
+		already ran for 1801 seconds
+				10h 31m 37s
+				POOL: False
+	10h 34m
+	solar wakeup
+	running main loop
+	solar temp average: 31.5 C
+	pool temp: 26.4 C
+	finished main loop
+	10h 45m
+	solar wakeup
+	running main loop
+	solar temp average: 32.2 C
+	pool temp: 26.2 C
+	finished main loop
+	10h 56m
+	solar wakeup
+	running main loop
+	solar temp average: 33.5 C
+	pool temp: 26.0 C
+	finished main loop
+
+		11h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	11h 07m
+	solar wakeup
+	running main loop
+	solar temp average: 33.9 C
+	pool temp: 25.8 C
+	finished main loop
+	11h 18m
+	solar wakeup
+	running main loop
+	solar temp average: 34.9 C
+	pool temp: 25.6 C
+	blocking pool: True
+
+		pool blocked: True
+
+		11h 18m 32s
+		blocked: True, is_daytime: True, good_hour_modulo: False
+	replenishing solar
+				11h 18m 36s
+				SOLAR: True
+	Solar Sauna: 28.4, Solar Schuppen: 41.4, Pool: 25.6
+	Solar Sauna: 30.2, Solar Schuppen: 41.2, Pool: 25.7
+	Solar Sauna: 35.0, Solar Schuppen: 40.2, Pool: 26.4
+	Solar Sauna: 36.8, Solar Schuppen: 38.9, Pool: 26.9
+	Solar Sauna: 36.4, Solar Schuppen: 37.6, Pool: 27.1
+	Solar Sauna: 35.2, Solar Schuppen: 35.6, Pool: 27.2
+	Solar Sauna: 34.2, Solar Schuppen: 34.2, Pool: 27.2
+	Solar Sauna: 32.9, Solar Schuppen: 32.9, Pool: 27.2
+	Solar Sauna: 32.1, Solar Schuppen: 32.2, Pool: 27.2
+	Solar Sauna: 31.2, Solar Schuppen: 31.5, Pool: 27.2
+	Solar Sauna: 30.7, Solar Schuppen: 31.1, Pool: 27.2
+	Solar Sauna: 30.1, Solar Schuppen: 30.7, Pool: 27.2
+	Solar Sauna: 29.8, Solar Schuppen: 30.4, Pool: 27.2
+	replenished solar, interrupted: False
+				11h 20m 47s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		11h 20m 47s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	finished main loop
+	11h 31m
+	solar wakeup
+	running main loop
+	solar temp average: 28.9 C
+	pool temp: 26.6 C
+	finished main loop
+	11h 42m
+	solar wakeup
+	running main loop
+	solar temp average: 31.3 C
+	pool temp: 26.4 C
+	finished main loop
+	11h 53m
+	solar wakeup
+	running main loop
+	solar temp average: 32.9 C
+	pool temp: 26.1 C
+	finished main loop
+
+			12h 00m 00s
+			start hourly cycle
+
+		12h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		new hour, reset values
+		absolute runtime this hour: 1800.820457458496
+		new hour, reset values
+		pool pump needs to be turned on
+				12h 00m 00s
+				POOL: True
+			12h 00m 20s
+	12h 04m
+	solar wakeup
+	blocked
+	finished main loop
+			12h 07m 20s
+			12h 08m 20s
+			ORP: 449.5578947368421
+			pH: 7.005375000000001
+			pumping chlorine for 300s
+				12h 08m 20s
+				CHLORINE: True
+				12h 09m 01s
+				CHLORINE: True
+				12h 10m 01s
+				CHLORINE: True
+				12h 11m 01s
+				CHLORINE: True
+				12h 12m 01s
+				CHLORINE: True
+				12h 13m 02s
+				CHLORINE: True
+				12h 13m 20s
+				CHLORINE: False
+	12h 15m
+	solar wakeup
+	running main loop
+	solar temp average: 32.9 C
+	pool temp: 25.8 C
+	finished main loop
+	12h 26m
+	solar wakeup
+	running main loop
+	solar temp average: 32.7 C
+	pool temp: 25.6 C
+	finished main loop
+		pool pump reached max runtime
+
+		already ran for 1801 seconds
+				12h 30m 01s
+				POOL: False
+	12h 37m
+	solar wakeup
+	running main loop
+	solar temp average: 39.0 C
+	pool temp: 25.4 C
+	blocking pool: True
+
+		pool blocked: True
+
+		12h 37m 54s
+		blocked: True, is_daytime: True, good_hour_modulo: True
+	replenishing solar
+				12h 37m 58s
+				SOLAR: True
+	Solar Sauna: 31.4, Solar Schuppen: 46.8, Pool: 25.4
+	Solar Sauna: 33.8, Solar Schuppen: 46.8, Pool: 25.9
+	Solar Sauna: 39.2, Solar Schuppen: 43.2, Pool: 26.8
+	Solar Sauna: 40.8, Solar Schuppen: 42.1, Pool: 27.1
+	Solar Sauna: 40.2, Solar Schuppen: 40.3, Pool: 27.2
+	Solar Sauna: 38.6, Solar Schuppen: 38.7, Pool: 27.3
+	Solar Sauna: 37.2, Solar Schuppen: 36.6, Pool: 27.3
+	Solar Sauna: 35.6, Solar Schuppen: 35.4, Pool: 27.3
+	Solar Sauna: 34.6, Solar Schuppen: 34.1, Pool: 27.3
+	Solar Sauna: 33.4, Solar Schuppen: 33.4, Pool: 27.3
+	Solar Sauna: 32.6, Solar Schuppen: 32.8, Pool: 27.3
+	Solar Sauna: 31.8, Solar Schuppen: 32.2, Pool: 27.4
+	Solar Sauna: 31.3, Solar Schuppen: 31.8, Pool: 27.3
+	Solar Sauna: 30.8, Solar Schuppen: 31.6, Pool: 27.4
+	Solar Sauna: 30.4, Solar Schuppen: 31.2, Pool: 27.4
+	Solar Sauna: 30.2, Solar Schuppen: 31.1, Pool: 27.4
+	Solar Sauna: 29.9, Solar Schuppen: 30.9, Pool: 27.4
+	Solar Sauna: 29.7, Solar Schuppen: 30.8, Pool: 27.4
+	replenished solar, interrupted: False
+				12h 40m 59s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		12h 41m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+	finished main loop
+	12h 52m
+	solar wakeup
+	running main loop
+	solar temp average: 32.4 C
+	pool temp: 26.8 C
+	finished main loop
+
+		13h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	13h 03m
+	solar wakeup
+	running main loop
+	solar temp average: 35.6 C
+	pool temp: 26.5 C
+	blocking pool: True
+
+		pool blocked: True
+
+		13h 03m 05s
+		blocked: True, is_daytime: True, good_hour_modulo: False
+	replenishing solar
+				13h 03m 10s
+				SOLAR: True
+	Solar Sauna: 27.9, Solar Schuppen: 43.3, Pool: 26.5
+	Solar Sauna: 30.2, Solar Schuppen: 43.2, Pool: 26.6
+	Solar Sauna: 35.7, Solar Schuppen: 40.5, Pool: 27.0
+	Solar Sauna: 37.4, Solar Schuppen: 39.5, Pool: 27.6
+	Solar Sauna: 37.1, Solar Schuppen: 38.1, Pool: 27.8
+	Solar Sauna: 35.8, Solar Schuppen: 36.6, Pool: 27.9
+	Solar Sauna: 34.8, Solar Schuppen: 34.9, Pool: 27.9
+	Solar Sauna: 33.4, Solar Schuppen: 33.8, Pool: 27.9
+	Solar Sauna: 32.6, Solar Schuppen: 32.8, Pool: 27.9
+	Solar Sauna: 31.7, Solar Schuppen: 32.2, Pool: 27.9
+	Solar Sauna: 31.1, Solar Schuppen: 31.7, Pool: 27.9
+	Solar Sauna: 30.5, Solar Schuppen: 31.4, Pool: 27.9
+	Solar Sauna: 30.1, Solar Schuppen: 31.0, Pool: 27.8
+	replenished solar, interrupted: False
+				13h 05m 20s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		13h 05m 21s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	finished main loop
+	13h 16m
+	solar wakeup
+	running main loop
+	solar temp average: 28.6 C
+	pool temp: 27.1 C
+	finished main loop
+	13h 27m
+	solar wakeup
+	running main loop
+	solar temp average: 30.8 C
+	pool temp: 26.8 C
+	finished main loop
+	13h 38m
+	solar wakeup
+	running main loop
+	solar temp average: 30.7 C
+	pool temp: 26.6 C
+	finished main loop
+	13h 49m
+	solar wakeup
+	running main loop
+	solar temp average: 32.5 C
+	pool temp: 26.4 C
+	finished main loop
+
+			14h 00m 00s
+			start hourly cycle
+
+		14h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		new hour, reset values
+		absolute runtime this hour: 1800.8303983211517
+		new hour, reset values
+		pool pump needs to be turned on
+				14h 00m 00s
+				POOL: True
+			14h 00m 20s
+	14h 00m
+	solar wakeup
+	blocked
+	finished main loop
+			14h 07m 20s
+			14h 08m 20s
+			ORP: 487.1300000000003
+			pH: 7.022875000000001
+			pumping chlorine for 300s
+				14h 08m 20s
+				CHLORINE: True
+				14h 09m 01s
+				CHLORINE: True
+				14h 10m 01s
+				CHLORINE: True
+				14h 11m 02s
+				CHLORINE: True
+	14h 11m
+	solar wakeup
+	blocked
+	finished main loop
+				14h 12m 02s
+				CHLORINE: True
+				14h 13m 02s
+				CHLORINE: True
+				14h 13m 20s
+				CHLORINE: False
+	14h 22m
+	solar wakeup
+	running main loop
+	solar temp average: 35.1 C
+	pool temp: 25.8 C
+	blocking pool: True
+
+		already ran for 1346 seconds
+				14h 22m 26s
+				POOL: False
+
+		pool blocked: True
+
+		14h 22m 26s
+		blocked: True, is_daytime: True, good_hour_modulo: True
+	replenishing solar
+				14h 22m 31s
+				SOLAR: True
+	Solar Sauna: 29.4, Solar Schuppen: 40.9, Pool: 25.8
+	Solar Sauna: 33.6, Solar Schuppen: 40.8, Pool: 26.4
+	Solar Sauna: 36.1, Solar Schuppen: 39.6, Pool: 27.1
+	Solar Sauna: 36.4, Solar Schuppen: 38.6, Pool: 27.4
+	Solar Sauna: 35.8, Solar Schuppen: 36.8, Pool: 27.5
+	Solar Sauna: 34.6, Solar Schuppen: 35.4, Pool: 27.5
+	Solar Sauna: 33.6, Solar Schuppen: 33.8, Pool: 27.5
+	Solar Sauna: 32.6, Solar Schuppen: 32.9, Pool: 27.6
+	Solar Sauna: 31.9, Solar Schuppen: 32.1, Pool: 27.6
+	Solar Sauna: 31.1, Solar Schuppen: 31.6, Pool: 27.6
+	Solar Sauna: 30.6, Solar Schuppen: 31.1, Pool: 27.6
+	Solar Sauna: 30.2, Solar Schuppen: 30.8, Pool: 27.6
+	replenished solar, interrupted: False
+				14h 24m 32s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		14h 24m 32s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		pool pump needs to be turned on
+				14h 24m 32s
+				POOL: True
+	finished main loop
+		pool pump reached max runtime
+
+		already ran for 1801 seconds
+				14h 32m 07s
+				POOL: False
+	14h 35m
+	solar wakeup
+	running main loop
+	solar temp average: 32.6 C
+	pool temp: 27.1 C
+	finished main loop
+	14h 46m
+	solar wakeup
+	running main loop
+	solar temp average: 35.7 C
+	pool temp: 26.8 C
+	finished main loop
+	14h 57m
+	solar wakeup
+	running main loop
+	solar temp average: 36.1 C
+	pool temp: 26.5 C
+	blocking pool: True
+
+		pool blocked: True
+
+		14h 57m 38s
+		blocked: True, is_daytime: True, good_hour_modulo: True
+	replenishing solar
+				14h 57m 43s
+				SOLAR: True
+	Solar Sauna: 29.2, Solar Schuppen: 43.0, Pool: 26.5
+	Solar Sauna: 31.6, Solar Schuppen: 42.8, Pool: 26.6
+	Solar Sauna: 36.4, Solar Schuppen: 42.0, Pool: 27.1
+	Solar Sauna: 38.1, Solar Schuppen: 40.6, Pool: 27.4
+	Solar Sauna: 37.8, Solar Schuppen: 39.1, Pool: 27.6
+	Solar Sauna: 36.6, Solar Schuppen: 36.8, Pool: 27.6
+	Solar Sauna: 35.4, Solar Schuppen: 35.3, Pool: 27.6
+	Solar Sauna: 33.9, Solar Schuppen: 34.1, Pool: 27.7
+	Solar Sauna: 33.1, Solar Schuppen: 33.1, Pool: 27.7
+	Solar Sauna: 32.1, Solar Schuppen: 32.4, Pool: 27.7
+	Solar Sauna: 31.4, Solar Schuppen: 31.9, Pool: 27.7
+	Solar Sauna: 30.8, Solar Schuppen: 31.4, Pool: 27.7
+	Solar Sauna: 30.4, Solar Schuppen: 31.1, Pool: 27.7
+	Solar Sauna: 29.9, Solar Schuppen: 30.8, Pool: 27.7
+
+		15h 00m 00s
+		blocked: True, is_daytime: True, good_hour_modulo: False
+	replenished solar, interrupted: False
+				15h 00m 03s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		15h 00m 04s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	finished main loop
+	15h 11m
+	solar wakeup
+	running main loop
+	solar temp average: 29.7 C
+	pool temp: 27.1 C
+	finished main loop
+	15h 22m
+	solar wakeup
+	running main loop
+	solar temp average: 31.1 C
+	pool temp: 26.8 C
+	finished main loop
+	15h 33m
+	solar wakeup
+	running main loop
+	solar temp average: 32.7 C
+	pool temp: 26.5 C
+	finished main loop
+	15h 44m
+	solar wakeup
+	running main loop
+	solar temp average: 33.6 C
+	pool temp: 26.2 C
+	finished main loop
+	15h 55m
+	solar wakeup
+	running main loop
+	solar temp average: 33.0 C
+	pool temp: 26.1 C
+	finished main loop
+
+			16h 00m 00s
+			start hourly cycle
+
+		16h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		new hour, reset values
+		absolute runtime this hour: 1800.9506969451904
+		new hour, reset values
+		pool pump needs to be turned on
+				16h 00m 00s
+				POOL: True
+			16h 00m 20s
+	16h 06m
+	solar wakeup
+	blocked
+	finished main loop
+			16h 07m 20s
+			16h 08m 20s
+			ORP: 313.49750000000006
+			pH: 7.0561250000000015
+			pumping chlorine for 300s
+				16h 08m 20s
+				CHLORINE: True
+				16h 09m 01s
+				CHLORINE: True
+				16h 10m 01s
+				CHLORINE: True
+				16h 11m 02s
+				CHLORINE: True
+				16h 12m 02s
+				CHLORINE: True
+				16h 13m 01s
+				CHLORINE: True
+				16h 13m 20s
+				CHLORINE: False
+			pumping acid for 120s
+				16h 14m 20s
+				ACID: True
+				16h 15m 01s
+				ACID: True
+				16h 16m 01s
+				ACID: True
+				16h 16m 20s
+				ACID: False
+	16h 17m
+	solar wakeup
+	running main loop
+	solar temp average: 36.1 C
+	pool temp: 25.7 C
+	blocking pool: True
+
+		already ran for 1029 seconds
+				16h 17m 09s
+				POOL: False
+
+		pool blocked: True
+
+		16h 17m 10s
+		blocked: True, is_daytime: True, good_hour_modulo: True
+	replenishing solar
+				16h 17m 15s
+				SOLAR: True
+	Solar Sauna: 29.7, Solar Schuppen: 42.6, Pool: 25.7
+	Solar Sauna: 33.9, Solar Schuppen: 42.6, Pool: 26.2
+	Solar Sauna: 37.8, Solar Schuppen: 41.9, Pool: 27.3
+	Solar Sauna: 38.8, Solar Schuppen: 40.8, Pool: 27.6
+	Solar Sauna: 38.9, Solar Schuppen: 39.3, Pool: 27.7
+	Solar Sauna: 38.1, Solar Schuppen: 37.1, Pool: 27.7
+	Solar Sauna: 37.2, Solar Schuppen: 35.7, Pool: 27.7
+	Solar Sauna: 35.9, Solar Schuppen: 34.3, Pool: 27.8
+	Solar Sauna: 35.1, Solar Schuppen: 33.6, Pool: 27.8
+	Solar Sauna: 34.0, Solar Schuppen: 32.8, Pool: 27.8
+	Solar Sauna: 33.3, Solar Schuppen: 32.3, Pool: 27.8
+	Solar Sauna: 32.6, Solar Schuppen: 31.8, Pool: 27.8
+	Solar Sauna: 32.0, Solar Schuppen: 31.6, Pool: 27.8
+	Solar Sauna: 31.5, Solar Schuppen: 31.2, Pool: 27.8
+	Solar Sauna: 31.1, Solar Schuppen: 31.1, Pool: 27.8
+	Solar Sauna: 30.8, Solar Schuppen: 30.9, Pool: 27.8
+	Solar Sauna: 30.5, Solar Schuppen: 30.8, Pool: 27.8
+	replenished solar, interrupted: False
+				16h 20m 05s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		16h 20m 06s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		pool pump needs to be turned on
+				16h 20m 06s
+				POOL: True
+	finished main loop
+	16h 31m
+	solar wakeup
+	running main loop
+	solar temp average: 31.5 C
+	pool temp: 27.2 C
+	finished main loop
+		pool pump reached max runtime
+
+		already ran for 1800 seconds
+				16h 32m 57s
+				POOL: False
+	16h 42m
+	solar wakeup
+	running main loop
+	solar temp average: 32.3 C
+	pool temp: 27.0 C
+	finished main loop
+	16h 53m
+	solar wakeup
+	running main loop
+	solar temp average: 31.2 C
+	pool temp: 26.8 C
+	finished main loop
+
+		17h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	17h 04m
+	solar wakeup
+	running main loop
+	solar temp average: 32.4 C
+	pool temp: 26.5 C
+	finished main loop
+	17h 15m
+	solar wakeup
+	running main loop
+	solar temp average: 33.9 C
+	pool temp: 26.2 C
+	finished main loop
+	17h 26m
+	solar wakeup
+	running main loop
+	solar temp average: 33.5 C
+	pool temp: 26.0 C
+	finished main loop
+	17h 37m
+	solar wakeup
+	running main loop
+	solar temp average: 32.6 C
+	pool temp: 25.8 C
+	finished main loop
+	17h 48m
+	solar wakeup
+	running main loop
+	solar temp average: 32.7 C
+	pool temp: 25.6 C
+	finished main loop
+	17h 59m
+	solar wakeup
+	running main loop
+	solar temp average: 34.2 C
+	pool temp: 25.4 C
+	finished main loop
+
+			18h 00m 00s
+			start hourly cycle
+
+		18h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		new hour, reset values
+		absolute runtime this hour: 1800.3171005249023
+		new hour, reset values
+		pool pump needs to be turned on
+				18h 00m 00s
+				POOL: True
+			18h 00m 20s
+			18h 07m 20s
+			18h 08m 20s
+			ORP: 303.91249999999997
+			pH: 7.043175
+			pumping chlorine for 300s
+				18h 08m 20s
+				CHLORINE: True
+				18h 09m 02s
+				CHLORINE: True
+				18h 10m 02s
+				CHLORINE: True
+	18h 10m
+	solar wakeup
+	blocked
+	finished main loop
+				18h 11m 02s
+				CHLORINE: True
+				18h 12m 01s
+				CHLORINE: True
+				18h 13m 01s
+				CHLORINE: True
+				18h 13m 20s
+				CHLORINE: False
+	18h 21m
+	solar wakeup
+	running main loop
+	solar temp average: 32.3 C
+	pool temp: 25.1 C
+	finished main loop
+		pool pump reached max runtime
+
+		already ran for 1801 seconds
+				18h 30m 01s
+				POOL: False
+	18h 32m
+	solar wakeup
+	running main loop
+	solar temp average: 32.7 C
+	pool temp: 24.9 C
+	finished main loop
+	18h 43m
+	solar wakeup
+	running main loop
+	solar temp average: 30.9 C
+	pool temp: 24.8 C
+	finished main loop
+	18h 54m
+	solar wakeup
+	running main loop
+	solar temp average: 31.0 C
+	pool temp: 24.7 C
+	finished main loop
+
+		19h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	19h 05m
+	solar wakeup
+	running main loop
+	solar temp average: 30.3 C
+	pool temp: 24.5 C
+	finished main loop
+	19h 16m
+	solar wakeup
+	running main loop
+	solar temp average: 29.2 C
+	pool temp: 24.4 C
+	finished main loop
+	19h 27m
+	solar wakeup
+	running main loop
+	solar temp average: 28.3 C
+	pool temp: 24.2 C
+	finished main loop
+	19h 38m
+	solar wakeup
+	running main loop
+	solar temp average: 27.9 C
+	pool temp: 24.1 C
+	finished main loop
+	19h 49m
+	solar wakeup
+	running main loop
+	solar temp average: 27.8 C
+	pool temp: 24.0 C
+	finished main loop
+
+			20h 00m 00s
+			start hourly cycle
+
+		20h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		new hour, reset values
+		absolute runtime this hour: 1800.8409316539764
+		new hour, reset values
+		pool pump needs to be turned on
+				20h 00m 00s
+				POOL: True
+	20h 00m
+	solar wakeup
+	blocked
+	finished main loop
+			20h 00m 20s
+			20h 07m 20s
+			20h 08m 20s
+			ORP: 303.78947368421063
+			pH: 7.061175000000001
+			pumping chlorine for 300s
+				20h 08m 20s
+				CHLORINE: True
+				20h 09m 02s
+				CHLORINE: True
+				20h 10m 02s
+				CHLORINE: True
+				20h 11m 02s
+				CHLORINE: True
+	20h 11m
+	solar wakeup
+	blocked
+	finished main loop
+				20h 12m 01s
+				CHLORINE: True
+				20h 13m 01s
+				CHLORINE: True
+				20h 13m 20s
+				CHLORINE: False
+			pumping acid for 120s
+				20h 14m 20s
+				ACID: True
+				20h 15m 01s
+				ACID: True
+				20h 16m 01s
+				ACID: True
+				20h 16m 20s
+				ACID: False
+	20h 22m
+	solar wakeup
+	running main loop
+	solar temp average: 26.5 C
+	pool temp: 23.7 C
+	finished main loop
+		pool pump reached max runtime
+
+		already ran for 1800 seconds
+				20h 30m 01s
+				POOL: False
+	20h 33m
+	solar wakeup
+	running main loop
+	solar temp average: 25.8 C
+	pool temp: 23.6 C
+	finished main loop
+	20h 44m
+	solar wakeup
+	running main loop
+	solar temp average: 24.9 C
+	pool temp: 23.6 C
+	finished main loop
+	20h 55m
+	solar wakeup
+	running main loop
+	solar temp average: 24.1 C
+	pool temp: 23.4 C
+	finished main loop
+
+		21h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: False
+	21h 06m
+	solar wakeup
+	running main loop
+	solar temp average: 23.4 C
+	pool temp: 23.4 C
+	finished main loop
+	21h 17m
+	solar wakeup
+	running main loop
+	solar temp average: 22.8 C
+	pool temp: 23.3 C
+	finished main loop
+	21h 28m
+	solar wakeup
+	running main loop
+	solar temp average: 22.2 C
+	pool temp: 23.2 C
+	finished main loop
+	21h 39m
+	solar wakeup
+	running main loop
+	solar temp average: 21.6 C
+	pool temp: 23.1 C
+	finished main loop
+	21h 50m
+	solar wakeup
+	running main loop
+	solar temp average: 21.0 C
+	pool temp: 23.1 C
+	finished main loop
+
+		22h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: True
+	22h 01m
+	solar wakeup
+	not daytime
+	finished main loop
+	22h 12m
+	solar wakeup
+	not daytime
+	finished main loop
+	22h 23m
+	solar wakeup
+	not daytime
+	finished main loop
+	22h 34m
+	solar wakeup
+	not daytime
+	finished main loop
+	22h 45m
+	solar wakeup
+	not daytime
+	finished main loop
+	22h 56m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		23h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: False
+	23h 07m
+	solar wakeup
+	not daytime
+	finished main loop
+	23h 18m
+	solar wakeup
+	not daytime
+	finished main loop
+	23h 29m
+	solar wakeup
+	not daytime
+	finished main loop
+	23h 40m
+	solar wakeup
+	not daytime
+	finished main loop
+	23h 51m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		00h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: True
+	00h 02m
+	solar wakeup
+	not daytime
+	finished main loop
+	00h 13m
+	solar wakeup
+	not daytime
+	finished main loop
+	00h 24m
+	solar wakeup
+	not daytime
+	finished main loop
+	00h 35m
+	solar wakeup
+	not daytime
+	finished main loop
+	00h 46m
+	solar wakeup
+	not daytime
+	finished main loop
+	00h 57m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		01h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: False
+	01h 08m
+	solar wakeup
+	not daytime
+	finished main loop
+	01h 19m
+	solar wakeup
+	not daytime
+	finished main loop
+	01h 30m
+	solar wakeup
+	not daytime
+	finished main loop
+	01h 41m
+	solar wakeup
+	not daytime
+	finished main loop
+	01h 52m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		02h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: True
+	02h 03m
+	solar wakeup
+	not daytime
+	finished main loop
+	02h 14m
+	solar wakeup
+	not daytime
+	finished main loop
+	02h 25m
+	solar wakeup
+	not daytime
+	finished main loop
+	02h 36m
+	solar wakeup
+	not daytime
+	finished main loop
+	02h 47m
+	solar wakeup
+	not daytime
+	finished main loop
+	02h 58m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		03h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: False
+	03h 09m
+	solar wakeup
+	not daytime
+	finished main loop
+	03h 20m
+	solar wakeup
+	not daytime
+	finished main loop
+	03h 31m
+	solar wakeup
+	not daytime
+	finished main loop
+	03h 42m
+	solar wakeup
+	not daytime
+	finished main loop
+	03h 53m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		04h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: True
+	04h 04m
+	solar wakeup
+	not daytime
+	finished main loop
+	04h 15m
+	solar wakeup
+	not daytime
+	finished main loop
+	04h 26m
+	solar wakeup
+	not daytime
+	finished main loop
+	04h 37m
+	solar wakeup
+	not daytime
+	finished main loop
+	04h 48m
+	solar wakeup
+	not daytime
+	finished main loop
+	04h 59m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		05h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: False
+	05h 10m
+	solar wakeup
+	not daytime
+	finished main loop
+	05h 21m
+	solar wakeup
+	not daytime
+	finished main loop
+	05h 32m
+	solar wakeup
+	not daytime
+	finished main loop
+	05h 43m
+	solar wakeup
+	not daytime
+	finished main loop
+	05h 54m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		06h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: True
+	06h 05m
+	solar wakeup
+	not daytime
+	finished main loop
+	06h 16m
+	solar wakeup
+	not daytime
+	finished main loop
+	06h 27m
+	solar wakeup
+	not daytime
+	finished main loop
+	06h 38m
+	solar wakeup
+	not daytime
+	finished main loop
+	06h 49m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		07h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: False
+	07h 00m
+	solar wakeup
+	not daytime
+	finished main loop
+	07h 11m
+	solar wakeup
+	not daytime
+	finished main loop
+	07h 22m
+	solar wakeup
+	not daytime
+	finished main loop
+	07h 33m
+	solar wakeup
+	not daytime
+	finished main loop
+	07h 44m
+	solar wakeup
+	not daytime
+	finished main loop
+	07h 55m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		08h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		new hour, reset values
+		absolute runtime this hour: 1800.3063282966614
+		new hour, reset values
+		pool pump needs to be turned on
+				08h 00m 00s
+				POOL: True
+	08h 06m
+	solar wakeup
+	not daytime
+	finished main loop
+	08h 17m
+	solar wakeup
+	not daytime
+	finished main loop
+	08h 28m
+	solar wakeup
+	not daytime
+	finished main loop
+		pool pump reached max runtime
+
+		already ran for 1800 seconds
+				08h 30m 00s
+				POOL: False
+	08h 39m
+	solar wakeup
+	not daytime
+	finished main loop
+	08h 50m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		09h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	09h 01m
+	solar wakeup
+	running main loop
+	solar temp average: 26.0 C
+	pool temp: 20.1 C
+	finished main loop
+	09h 12m
+	solar wakeup
+	running main loop
+	solar temp average: 26.2 C
+	pool temp: 20.1 C
+	finished main loop
+	09h 23m
+	solar wakeup
+	running main loop
+	solar temp average: 26.7 C
+	pool temp: 20.1 C
+	finished main loop
+	09h 34m
+	solar wakeup
+	running main loop
+	solar temp average: 28.6 C
+	pool temp: 20.1 C
+	finished main loop
+	09h 45m
+	solar wakeup
+	running main loop
+	solar temp average: 30.7 C
+	pool temp: 20.1 C
+	blocking pool: True
+
+		pool blocked: True
+
+		09h 45m 26s
+		blocked: True, is_daytime: True, good_hour_modulo: False
+	replenishing solar
+				09h 45m 30s
+				SOLAR: True
+	Solar Sauna: 24.1, Solar Schuppen: 37.4, Pool: 20.1
+	Solar Sauna: 25.4, Solar Schuppen: 37.3, Pool: 21.2
+	Solar Sauna: 31.3, Solar Schuppen: 36.7, Pool: 24.2
+	Solar Sauna: 31.6, Solar Schuppen: 35.8, Pool: 25.1
+	Solar Sauna: 30.6, Solar Schuppen: 34.6, Pool: 25.4
+	Solar Sauna: 29.0, Solar Schuppen: 33.0, Pool: 25.6
+	Solar Sauna: 27.9, Solar Schuppen: 31.2, Pool: 25.6
+	Solar Sauna: 27.0, Solar Schuppen: 30.5, Pool: 25.6
+	Solar Sauna: 26.6, Solar Schuppen: 29.9, Pool: 25.6
+	replenished solar, interrupted: False
+				09h 47m 00s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		09h 47m 01s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	finished main loop
+	09h 58m
+	solar wakeup
+	running main loop
+	solar temp average: 29.7 C
+	pool temp: 24.9 C
+	finished main loop
+
+			10h 00m 00s
+			start hourly cycle
+
+		10h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		new hour, reset values
+		absolute runtime this hour: 1800.133516550064
+		new hour, reset values
+		pool pump needs to be turned on
+				10h 00m 00s
+				POOL: True
+			10h 00m 20s
+			10h 07m 20s
+			10h 08m 20s
+			ORP: 315.2200000000002
+			pH: 7.055750000000001
+			pumping chlorine for 300s
+				10h 08m 20s
+				CHLORINE: True
+				10h 09m 01s
+				CHLORINE: True
+	10h 09m
+	solar wakeup
+	blocked
+	finished main loop
+				10h 10m 01s
+				CHLORINE: True
+				10h 11m 01s
+				CHLORINE: True
+				10h 12m 01s
+				CHLORINE: True
+				10h 13m 01s
+				CHLORINE: True
+				10h 13m 20s
+				CHLORINE: False
+			pumping acid for 120s
+				10h 14m 20s
+				ACID: True
+				10h 15m 02s
+				ACID: True
+				10h 16m 02s
+				ACID: True
+				10h 16m 20s
+				ACID: False
+	10h 20m
+	solar wakeup
+	running main loop
+	solar temp average: 34.6 C
+	pool temp: 24.6 C
+	blocking pool: True
+
+		already ran for 1206 seconds
+				10h 20m 06s
+				POOL: False
+
+		pool blocked: True
+
+		10h 20m 07s
+		blocked: True, is_daytime: True, good_hour_modulo: True
+	replenishing solar
+				10h 20m 11s
+				SOLAR: True
+	Solar Sauna: 28.1, Solar Schuppen: 41.2, Pool: 24.6
+	Solar Sauna: 31.7, Solar Schuppen: 41.2, Pool: 25.1
+	Solar Sauna: 36.0, Solar Schuppen: 40.7, Pool: 25.6
+	Solar Sauna: 36.4, Solar Schuppen: 39.7, Pool: 25.8
+	Solar Sauna: 35.1, Solar Schuppen: 38.4, Pool: 25.8
+	Solar Sauna: 33.7, Solar Schuppen: 36.3, Pool: 25.8
+	Solar Sauna: 32.1, Solar Schuppen: 34.9, Pool: 25.9
+	Solar Sauna: 31.1, Solar Schuppen: 33.4, Pool: 25.9
+	Solar Sauna: 30.1, Solar Schuppen: 32.6, Pool: 25.9
+	Solar Sauna: 29.6, Solar Schuppen: 31.8, Pool: 25.9
+	Solar Sauna: 29.0, Solar Schuppen: 31.2, Pool: 25.9
+	Solar Sauna: 28.7, Solar Schuppen: 30.7, Pool: 25.9
+	Solar Sauna: 28.4, Solar Schuppen: 30.4, Pool: 25.9
+	Solar Sauna: 28.1, Solar Schuppen: 30.1, Pool: 25.9
+	Solar Sauna: 27.9, Solar Schuppen: 29.9, Pool: 25.9
+	replenished solar, interrupted: False
+				10h 22m 42s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		10h 22m 42s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		pool pump needs to be turned on
+				10h 22m 42s
+				POOL: True
+	finished main loop
+		pool pump reached max runtime
+
+		already ran for 1800 seconds
+				10h 32m 37s
+				POOL: False
+	10h 33m
+	solar wakeup
+	running main loop
+	solar temp average: 33.0 C
+	pool temp: 25.4 C
+	finished main loop
+	10h 44m
+	solar wakeup
+	running main loop
+	solar temp average: 35.5 C
+	pool temp: 25.1 C
+	blocking pool: True
+
+		10h 44m 47s
+
+		pool blocked: True
+		blocked: True, is_daytime: True, good_hour_modulo: True
+	replenishing solar
+				10h 44m 52s
+				SOLAR: True
+	Solar Sauna: 29.7, Solar Schuppen: 41.4, Pool: 25.1
+	Solar Sauna: 31.4, Solar Schuppen: 41.4, Pool: 25.2
+	Solar Sauna: 36.0, Solar Schuppen: 40.8, Pool: 25.6
+	Solar Sauna: 36.9, Solar Schuppen: 40.1, Pool: 25.8
+	Solar Sauna: 36.1, Solar Schuppen: 38.5, Pool: 25.9
+	Solar Sauna: 34.5, Solar Schuppen: 36.9, Pool: 25.9
+	Solar Sauna: 33.4, Solar Schuppen: 35.0, Pool: 26.0
+	Solar Sauna: 32.4, Solar Schuppen: 33.9, Pool: 26.0
+	Solar Sauna: 31.3, Solar Schuppen: 32.8, Pool: 26.0
+	Solar Sauna: 30.7, Solar Schuppen: 32.1, Pool: 26.0
+	Solar Sauna: 30.0, Solar Schuppen: 31.5, Pool: 26.0
+	Solar Sauna: 29.6, Solar Schuppen: 31.1, Pool: 26.0
+	Solar Sauna: 29.1, Solar Schuppen: 30.8, Pool: 26.0
+	Solar Sauna: 28.8, Solar Schuppen: 30.4, Pool: 26.0
+	Solar Sauna: 28.6, Solar Schuppen: 30.2, Pool: 26.0
+	Solar Sauna: 28.4, Solar Schuppen: 30.0, Pool: 26.0
+	Solar Sauna: 28.2, Solar Schuppen: 29.9, Pool: 26.0
+	Solar Sauna: 28.0, Solar Schuppen: 29.8, Pool: 26.0
+	replenished solar, interrupted: False
+				10h 47m 53s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		10h 47m 53s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+	finished main loop
+	10h 58m
+	solar wakeup
+	running main loop
+	solar temp average: 32.4 C
+	pool temp: 25.4 C
+	finished main loop
+
+		11h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	11h 09m
+	solar wakeup
+	running main loop
+	solar temp average: 36.0 C
+	pool temp: 25.1 C
+	blocking pool: True
+
+		pool blocked: True
+
+		11h 09m 58s
+		blocked: True, is_daytime: True, good_hour_modulo: False
+	replenishing solar
+				11h 10m 03s
+				SOLAR: True
+	Solar Sauna: 28.8, Solar Schuppen: 43.3, Pool: 25.1
+	Solar Sauna: 29.6, Solar Schuppen: 43.3, Pool: 25.2
+	Solar Sauna: 37.1, Solar Schuppen: 42.8, Pool: 25.6
+	Solar Sauna: 38.4, Solar Schuppen: 41.5, Pool: 26.0
+	Solar Sauna: 37.9, Solar Schuppen: 40.1, Pool: 26.1
+	Solar Sauna: 36.8, Solar Schuppen: 37.8, Pool: 26.1
+	Solar Sauna: 35.1, Solar Schuppen: 36.2, Pool: 26.1
+	Solar Sauna: 33.9, Solar Schuppen: 34.4, Pool: 26.1
+	Solar Sauna: 32.6, Solar Schuppen: 33.5, Pool: 26.1
+	Solar Sauna: 31.8, Solar Schuppen: 32.6, Pool: 26.2
+	Solar Sauna: 31.0, Solar Schuppen: 32.1, Pool: 26.3
+	Solar Sauna: 30.5, Solar Schuppen: 31.5, Pool: 26.3
+	Solar Sauna: 30.1, Solar Schuppen: 31.1, Pool: 26.4
+	Solar Sauna: 29.6, Solar Schuppen: 30.8, Pool: 26.4
+	Solar Sauna: 29.2, Solar Schuppen: 30.6, Pool: 26.5
+	Solar Sauna: 29.0, Solar Schuppen: 30.4, Pool: 26.6
+	Solar Sauna: 28.8, Solar Schuppen: 30.3, Pool: 26.6
+	replenished solar, interrupted: False
+				11h 12m 54s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		11h 12m 55s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	finished main loop
+	11h 23m
+	solar wakeup
+	running main loop
+	solar temp average: 32.8 C
+	pool temp: 25.9 C
+	finished main loop
+	11h 34m
+	solar wakeup
+	running main loop
+	solar temp average: 36.2 C
+	pool temp: 25.6 C
+	blocking pool: True
+
+		pool blocked: True
+
+		11h 35m 00s
+		blocked: True, is_daytime: True, good_hour_modulo: False
+	replenishing solar
+				11h 35m 04s
+				SOLAR: True
+	Solar Sauna: 28.7, Solar Schuppen: 43.8, Pool: 25.6
+	Solar Sauna: 29.4, Solar Schuppen: 43.6, Pool: 25.6
+	Solar Sauna: 37.0, Solar Schuppen: 41.6, Pool: 25.9
+	Solar Sauna: 38.4, Solar Schuppen: 40.2, Pool: 26.5
+	Solar Sauna: 37.9, Solar Schuppen: 38.7, Pool: 26.6
+	Solar Sauna: 36.8, Solar Schuppen: 36.6, Pool: 26.5
+	Solar Sauna: 35.4, Solar Schuppen: 34.9, Pool: 26.5
+	Solar Sauna: 33.8, Solar Schuppen: 33.8, Pool: 26.5
+	Solar Sauna: 32.9, Solar Schuppen: 32.8, Pool: 26.5
+	Solar Sauna: 31.9, Solar Schuppen: 32.2, Pool: 26.5
+	Solar Sauna: 31.3, Solar Schuppen: 31.6, Pool: 26.6
+	Solar Sauna: 30.6, Solar Schuppen: 31.0, Pool: 26.6
+	Solar Sauna: 30.1, Solar Schuppen: 30.8, Pool: 26.6
+	Solar Sauna: 29.6, Solar Schuppen: 30.4, Pool: 26.6
+	Solar Sauna: 29.2, Solar Schuppen: 30.1, Pool: 26.6
+	Solar Sauna: 28.9, Solar Schuppen: 29.9, Pool: 26.6
+	replenished solar, interrupted: False
+				11h 37m 45s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		11h 37m 46s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	finished main loop
+	11h 48m
+	solar wakeup
+	running main loop
+	solar temp average: 29.2 C
+	pool temp: 25.9 C
+	finished main loop
+	11h 59m
+	solar wakeup
+	running main loop
+	solar temp average: 31.1 C
+	pool temp: 25.6 C
+	finished main loop
+
+			12h 00m 00s
+			start hourly cycle
+
+		12h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		new hour, reset values
+		absolute runtime this hour: 1800.2761363983154
+		new hour, reset values
+		pool pump needs to be turned on
+				12h 00m 00s
+				POOL: True
+			12h 00m 20s
+			12h 07m 20s
+			12h 08m 20s
+			ORP: 416.4775000000001
+			pH: 7.007124999999999
+			pumping chlorine for 300s
+				12h 08m 20s
+				CHLORINE: True
+				12h 09m 01s
+				CHLORINE: True
+				12h 10m 01s
+				CHLORINE: True
+	12h 10m
+	solar wakeup
+	blocked
+	finished main loop
+				12h 11m 01s
+				CHLORINE: True
+				12h 12m 01s
+				CHLORINE: True
+				12h 13m 02s
+				CHLORINE: True
+				12h 13m 20s
+				CHLORINE: False
+	12h 21m
+	solar wakeup
+	running main loop
+	solar temp average: 30.6 C
+	pool temp: 25.3 C
+	finished main loop
+		pool pump reached max runtime
+
+		already ran for 1801 seconds
+				12h 30m 01s
+				POOL: False
+	12h 32m
+	solar wakeup
+	running main loop
+	solar temp average: 32.6 C
+	pool temp: 25.1 C
+	finished main loop
+	12h 43m
+	solar wakeup
+	running main loop
+	solar temp average: 32.8 C
+	pool temp: 24.9 C
+	finished main loop
+	12h 54m
+	solar wakeup
+	running main loop
+	solar temp average: 34.1 C
+	pool temp: 24.8 C
+	blocking pool: True
+
+		pool blocked: True
+
+		12h 54m 51s
+		blocked: True, is_daytime: True, good_hour_modulo: True
+	replenishing solar
+				12h 54m 56s
+				SOLAR: True
+	Solar Sauna: 27.8, Solar Schuppen: 40.5, Pool: 24.8
+	Solar Sauna: 28.0, Solar Schuppen: 40.8, Pool: 25.1
+	Solar Sauna: 36.2, Solar Schuppen: 39.2, Pool: 25.7
+	Solar Sauna: 37.6, Solar Schuppen: 38.9, Pool: 26.1
+	Solar Sauna: 37.2, Solar Schuppen: 37.8, Pool: 26.3
+	Solar Sauna: 36.2, Solar Schuppen: 36.4, Pool: 26.4
+	Solar Sauna: 34.9, Solar Schuppen: 34.6, Pool: 26.4
+	Solar Sauna: 33.9, Solar Schuppen: 33.5, Pool: 26.4
+	Solar Sauna: 32.7, Solar Schuppen: 32.4, Pool: 26.4
+	Solar Sauna: 32.0, Solar Schuppen: 31.9, Pool: 26.4
+	Solar Sauna: 31.2, Solar Schuppen: 31.2, Pool: 26.4
+	Solar Sauna: 30.7, Solar Schuppen: 30.9, Pool: 26.4
+	Solar Sauna: 30.1, Solar Schuppen: 30.6, Pool: 26.4
+	Solar Sauna: 29.8, Solar Schuppen: 30.4, Pool: 26.4
+	Solar Sauna: 29.4, Solar Schuppen: 30.1, Pool: 26.4
+	Solar Sauna: 29.2, Solar Schuppen: 29.9, Pool: 26.4
+	Solar Sauna: 28.9, Solar Schuppen: 29.8, Pool: 26.4
+	replenished solar, interrupted: False
+				12h 57m 47s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		12h 57m 48s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+	finished main loop
+
+		13h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	13h 08m
+	solar wakeup
+	running main loop
+	solar temp average: 34.3 C
+	pool temp: 25.9 C
+	finished main loop
+	13h 19m
+	solar wakeup
+	running main loop
+	solar temp average: 34.2 C
+	pool temp: 25.6 C
+	finished main loop
+	13h 30m
+	solar wakeup
+	running main loop
+	solar temp average: 37.5 C
+	pool temp: 25.4 C
+	blocking pool: True
+
+		pool blocked: True
+
+		13h 30m 53s
+		blocked: True, is_daytime: True, good_hour_modulo: False
+	replenishing solar
+				13h 30m 58s
+				SOLAR: True
+	Solar Sauna: 28.2, Solar Schuppen: 46.9, Pool: 25.4
+	Solar Sauna: 30.8, Solar Schuppen: 46.8, Pool: 25.4
+	Solar Sauna: 38.3, Solar Schuppen: 45.2, Pool: 26.1
+	Solar Sauna: 40.8, Solar Schuppen: 43.8, Pool: 26.6
+	Solar Sauna: 40.3, Solar Schuppen: 42.4, Pool: 26.7
+	Solar Sauna: 38.7, Solar Schuppen: 39.8, Pool: 26.7
+	Solar Sauna: 37.3, Solar Schuppen: 37.9, Pool: 26.7
+	Solar Sauna: 35.6, Solar Schuppen: 36.1, Pool: 26.7
+	Solar Sauna: 34.2, Solar Schuppen: 35.1, Pool: 26.7
+	Solar Sauna: 33.3, Solar Schuppen: 34.0, Pool: 26.7
+	Solar Sauna: 32.3, Solar Schuppen: 33.4, Pool: 26.7
+	Solar Sauna: 31.6, Solar Schuppen: 32.6, Pool: 26.7
+	Solar Sauna: 30.9, Solar Schuppen: 32.2, Pool: 26.7
+	Solar Sauna: 30.5, Solar Schuppen: 31.8, Pool: 26.7
+	Solar Sauna: 30.0, Solar Schuppen: 31.5, Pool: 26.7
+	Solar Sauna: 29.8, Solar Schuppen: 31.2, Pool: 26.7
+	Solar Sauna: 29.5, Solar Schuppen: 31.1, Pool: 26.8
+	Solar Sauna: 29.2, Solar Schuppen: 30.9, Pool: 26.8
+	Solar Sauna: 29.1, Solar Schuppen: 30.8, Pool: 27.0
+	replenished solar, interrupted: False
+				13h 34m 08s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		13h 34m 09s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	finished main loop
+	13h 45m
+	solar wakeup
+	running main loop
+	solar temp average: 30.4 C
+	pool temp: 26.4 C
+	finished main loop
+	13h 56m
+	solar wakeup
+	running main loop
+	solar temp average: 30.1 C
+	pool temp: 26.1 C
+	finished main loop
+
+			14h 00m 00s
+			start hourly cycle
+
+		14h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		new hour, reset values
+		absolute runtime this hour: 1800.9239737987518
+		new hour, reset values
+		pool pump needs to be turned on
+				14h 00m 00s
+				POOL: True
+			14h 00m 20s
+	14h 07m
+	solar wakeup
+	blocked
+	finished main loop
+			14h 07m 20s
+			14h 08m 20s
+			ORP: 504.8575000000002
+			pH: 6.995050000000001
+			pumping chlorine for 300s
+				14h 08m 20s
+				CHLORINE: True
+				14h 09m 01s
+				CHLORINE: True
+				14h 10m 01s
+				CHLORINE: True
+				14h 11m 01s
+				CHLORINE: True
+				14h 12m 01s
+				CHLORINE: True
+				14h 13m 02s
+				CHLORINE: True
+				14h 13m 20s
+				CHLORINE: False
+	14h 18m
+	solar wakeup
+	running main loop
+	solar temp average: 32.3 C
+	pool temp: 25.8 C
+	finished main loop
+	14h 29m
+	solar wakeup
+	running main loop
+	solar temp average: 37.1 C
+	pool temp: 25.6 C
+	blocking pool: True
+
+		already ran for 1754 seconds
+				14h 29m 14s
+				POOL: False
+
+		pool blocked: True
+
+		14h 29m 14s
+		blocked: True, is_daytime: True, good_hour_modulo: True
+	replenishing solar
+				14h 29m 19s
+				SOLAR: True
+	Solar Sauna: 28.0, Solar Schuppen: 46.2, Pool: 25.6
+	Solar Sauna: 33.6, Solar Schuppen: 46.1, Pool: 25.9
+	Solar Sauna: 38.8, Solar Schuppen: 45.4, Pool: 26.6
+	Solar Sauna: 40.6, Solar Schuppen: 44.1, Pool: 26.6
+	Solar Sauna: 39.9, Solar Schuppen: 42.4, Pool: 26.7
+	Solar Sauna: 38.2, Solar Schuppen: 39.7, Pool: 26.7
+	Solar Sauna: 36.8, Solar Schuppen: 37.9, Pool: 26.8
+	Solar Sauna: 35.1, Solar Schuppen: 36.0, Pool: 26.8
+	Solar Sauna: 34.1, Solar Schuppen: 34.9, Pool: 26.8
+	Solar Sauna: 32.9, Solar Schuppen: 33.9, Pool: 26.8
+	Solar Sauna: 32.2, Solar Schuppen: 33.2, Pool: 26.8
+	Solar Sauna: 31.4, Solar Schuppen: 32.6, Pool: 26.8
+	Solar Sauna: 30.9, Solar Schuppen: 32.2, Pool: 26.8
+	Solar Sauna: 30.4, Solar Schuppen: 31.8, Pool: 26.8
+	Solar Sauna: 30.1, Solar Schuppen: 31.6, Pool: 26.8
+	Solar Sauna: 29.7, Solar Schuppen: 31.2, Pool: 26.8
+	Solar Sauna: 29.5, Solar Schuppen: 31.1, Pool: 26.8
+	Solar Sauna: 29.2, Solar Schuppen: 30.9, Pool: 26.8
+	Solar Sauna: 29.1, Solar Schuppen: 30.8, Pool: 26.8
+	Solar Sauna: 28.9, Solar Schuppen: 30.6, Pool: 26.8
+	Solar Sauna: 28.8, Solar Schuppen: 30.5, Pool: 26.8
+	replenished solar, interrupted: False
+				14h 32m 50s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		14h 32m 51s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		pool pump needs to be turned on
+				14h 32m 51s
+				POOL: True
+	finished main loop
+		pool pump reached max runtime
+
+		already ran for 1801 seconds
+				14h 33m 37s
+				POOL: False
+	14h 43m
+	solar wakeup
+	running main loop
+	solar temp average: 33.0 C
+	pool temp: 26.3 C
+	finished main loop
+	14h 54m
+	solar wakeup
+	running main loop
+	solar temp average: 37.8 C
+	pool temp: 26.1 C
+	blocking pool: True
+
+		pool blocked: True
+
+		14h 54m 56s
+		blocked: True, is_daytime: True, good_hour_modulo: True
+	replenishing solar
+				14h 55m 00s
+				SOLAR: True
+	Solar Sauna: 28.8, Solar Schuppen: 46.9, Pool: 26.1
+	Solar Sauna: 31.6, Solar Schuppen: 46.6, Pool: 26.1
+	Solar Sauna: 38.4, Solar Schuppen: 45.8, Pool: 26.4
+	Solar Sauna: 40.9, Solar Schuppen: 44.7, Pool: 26.9
+	Solar Sauna: 40.2, Solar Schuppen: 42.2, Pool: 27.0
+	Solar Sauna: 38.4, Solar Schuppen: 40.2, Pool: 27.0
+	Solar Sauna: 36.9, Solar Schuppen: 37.6, Pool: 27.0
+	Solar Sauna: 35.2, Solar Schuppen: 36.1, Pool: 27.0
+	Solar Sauna: 34.1, Solar Schuppen: 34.7, Pool: 27.1
+	Solar Sauna: 32.8, Solar Schuppen: 33.8, Pool: 27.1
+	Solar Sauna: 32.0, Solar Schuppen: 32.9, Pool: 27.0
+	Solar Sauna: 31.1, Solar Schuppen: 32.4, Pool: 27.0
+	Solar Sauna: 30.6, Solar Schuppen: 31.9, Pool: 27.0
+	Solar Sauna: 30.0, Solar Schuppen: 31.5, Pool: 27.1
+	Solar Sauna: 29.6, Solar Schuppen: 31.1, Pool: 27.1
+	Solar Sauna: 29.2, Solar Schuppen: 30.9, Pool: 27.1
+	Solar Sauna: 29.0, Solar Schuppen: 30.6, Pool: 27.1
+	replenished solar, interrupted: False
+				14h 57m 51s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		14h 57m 51s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+	finished main loop
+
+		15h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	15h 08m
+	solar wakeup
+	running main loop
+	solar temp average: 31.8 C
+	pool temp: 26.6 C
+	finished main loop
+	15h 19m
+	solar wakeup
+	running main loop
+	solar temp average: 37.2 C
+	pool temp: 26.4 C
+	blocking pool: True
+
+		pool blocked: True
+
+		15h 19m 57s
+		blocked: True, is_daytime: True, good_hour_modulo: False
+	replenishing solar
+				15h 20m 01s
+				SOLAR: True
+	Solar Sauna: 28.2, Solar Schuppen: 46.1, Pool: 26.4
+	Solar Sauna: 30.9, Solar Schuppen: 46.1, Pool: 26.4
+	Solar Sauna: 37.8, Solar Schuppen: 45.0, Pool: 26.8
+	Solar Sauna: 40.8, Solar Schuppen: 44.2, Pool: 27.3
+	Solar Sauna: 40.7, Solar Schuppen: 42.2, Pool: 27.4
+	Solar Sauna: 39.2, Solar Schuppen: 40.4, Pool: 27.4
+	Solar Sauna: 37.8, Solar Schuppen: 37.8, Pool: 27.4
+	Solar Sauna: 36.5, Solar Schuppen: 36.3, Pool: 27.4
+	Solar Sauna: 35.0, Solar Schuppen: 35.0, Pool: 27.4
+	Solar Sauna: 34.1, Solar Schuppen: 34.1, Pool: 27.4
+	Solar Sauna: 33.0, Solar Schuppen: 33.3, Pool: 27.4
+	Solar Sauna: 32.3, Solar Schuppen: 32.8, Pool: 27.5
+	Solar Sauna: 31.5, Solar Schuppen: 32.2, Pool: 27.5
+	Solar Sauna: 31.0, Solar Schuppen: 31.8, Pool: 27.5
+	Solar Sauna: 30.5, Solar Schuppen: 31.4, Pool: 27.5
+	Solar Sauna: 30.1, Solar Schuppen: 31.2, Pool: 27.5
+	Solar Sauna: 29.8, Solar Schuppen: 30.9, Pool: 27.5
+	replenished solar, interrupted: False
+				15h 22m 52s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		15h 22m 52s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	finished main loop
+	15h 33m
+	solar wakeup
+	running main loop
+	solar temp average: 31.4 C
+	pool temp: 26.9 C
+	finished main loop
+	15h 44m
+	solar wakeup
+	running main loop
+	solar temp average: 35.6 C
+	pool temp: 26.6 C
+	blocking pool: True
+
+		pool blocked: True
+
+		15h 44m 58s
+		blocked: True, is_daytime: True, good_hour_modulo: False
+	replenishing solar
+				15h 45m 03s
+				SOLAR: True
+	Solar Sauna: 27.9, Solar Schuppen: 43.2, Pool: 26.6
+	Solar Sauna: 28.8, Solar Schuppen: 42.9, Pool: 26.6
+	Solar Sauna: 36.6, Solar Schuppen: 41.7, Pool: 26.9
+	Solar Sauna: 38.4, Solar Schuppen: 40.9, Pool: 27.5
+	Solar Sauna: 38.5, Solar Schuppen: 39.2, Pool: 27.5
+	Solar Sauna: 37.7, Solar Schuppen: 37.6, Pool: 27.5
+	Solar Sauna: 36.2, Solar Schuppen: 35.6, Pool: 27.5
+	Solar Sauna: 35.1, Solar Schuppen: 34.4, Pool: 27.5
+	Solar Sauna: 33.9, Solar Schuppen: 33.2, Pool: 27.4
+	Solar Sauna: 33.1, Solar Schuppen: 32.6, Pool: 27.4
+	Solar Sauna: 32.1, Solar Schuppen: 31.9, Pool: 27.4
+	Solar Sauna: 31.6, Solar Schuppen: 31.6, Pool: 27.4
+	Solar Sauna: 30.9, Solar Schuppen: 31.1, Pool: 27.4
+	Solar Sauna: 30.6, Solar Schuppen: 30.9, Pool: 27.4
+	Solar Sauna: 30.1, Solar Schuppen: 30.6, Pool: 27.4
+	replenished solar, interrupted: False
+				15h 47m 33s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		15h 47m 34s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	finished main loop
+	15h 58m
+	solar wakeup
+	running main loop
+	solar temp average: 29.9 C
+	pool temp: 26.9 C
+	finished main loop
+
+			16h 00m 00s
+			start hourly cycle
+
+		16h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		new hour, reset values
+		absolute runtime this hour: 1800.5719928741455
+		new hour, reset values
+		pool pump needs to be turned on
+				16h 00m 00s
+				POOL: True
+			16h 00m 20s
+			16h 07m 20s
+			16h 08m 20s
+			ORP: 573.6666666666665
+			pH: 6.979125000000002
+	16h 09m
+	solar wakeup
+	running main loop
+	solar temp average: 30.9 C
+	pool temp: 26.7 C
+	finished main loop
+	16h 20m
+	solar wakeup
+	running main loop
+	solar temp average: 34.1 C
+	pool temp: 26.6 C
+	finished main loop
+		pool pump reached max runtime
+
+		already ran for 1800 seconds
+				16h 30m 01s
+				POOL: False
+	16h 31m
+	solar wakeup
+	running main loop
+	solar temp average: 39.6 C
+	pool temp: 26.4 C
+	blocking pool: True
+
+		pool blocked: True
+
+		16h 31m 39s
+		blocked: True, is_daytime: True, good_hour_modulo: True
+	replenishing solar
+				16h 31m 44s
+				SOLAR: True
+	Solar Sauna: 35.8, Solar Schuppen: 43.4, Pool: 26.4
+	Solar Sauna: 36.9, Solar Schuppen: 43.5, Pool: 26.7
+	Solar Sauna: 39.7, Solar Schuppen: 42.9, Pool: 27.1
+	Solar Sauna: 40.9, Solar Schuppen: 42.2, Pool: 27.2
+	Solar Sauna: 40.8, Solar Schuppen: 40.6, Pool: 27.3
+	Solar Sauna: 39.5, Solar Schuppen: 38.9, Pool: 27.3
+	Solar Sauna: 38.2, Solar Schuppen: 36.6, Pool: 27.3
+	Solar Sauna: 36.6, Solar Schuppen: 35.3, Pool: 27.3
+	Solar Sauna: 35.4, Solar Schuppen: 33.9, Pool: 27.3
+	Solar Sauna: 34.1, Solar Schuppen: 33.1, Pool: 27.3
+	Solar Sauna: 33.2, Solar Schuppen: 32.5, Pool: 27.3
+	Solar Sauna: 32.4, Solar Schuppen: 31.8, Pool: 27.3
+	Solar Sauna: 31.7, Solar Schuppen: 31.4, Pool: 27.3
+	Solar Sauna: 31.2, Solar Schuppen: 31.1, Pool: 27.3
+	Solar Sauna: 30.8, Solar Schuppen: 30.9, Pool: 27.3
+	Solar Sauna: 30.4, Solar Schuppen: 30.6, Pool: 27.3
+	Solar Sauna: 30.1, Solar Schuppen: 30.5, Pool: 27.3
+	replenished solar, interrupted: False
+				16h 34m 35s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		16h 34m 35s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+	finished main loop
+	16h 45m
+	solar wakeup
+	running main loop
+	solar temp average: 29.5 C
+	pool temp: 26.9 C
+	finished main loop
+	16h 56m
+	solar wakeup
+	running main loop
+	solar temp average: 29.6 C
+	pool temp: 26.6 C
+	finished main loop
+
+		17h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	17h 07m
+	solar wakeup
+	running main loop
+	solar temp average: 29.4 C
+	pool temp: 26.4 C
+	finished main loop
+	17h 18m
+	solar wakeup
+	running main loop
+	solar temp average: 29.2 C
+	pool temp: 26.2 C
+	finished main loop
+	17h 29m
+	solar wakeup
+	running main loop
+	solar temp average: 29.6 C
+	pool temp: 26.0 C
+	finished main loop
+	17h 40m
+	solar wakeup
+	running main loop
+	solar temp average: 29.9 C
+	pool temp: 25.8 C
+	finished main loop
+	17h 51m
+	solar wakeup
+	running main loop
+	solar temp average: 30.3 C
+	pool temp: 25.7 C
+	finished main loop
+
+			18h 00m 00s
+			start hourly cycle
+
+		18h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		new hour, reset values
+		absolute runtime this hour: 1800.4287838935852
+		new hour, reset values
+		pool pump needs to be turned on
+				18h 00m 00s
+				POOL: True
+			18h 00m 20s
+	18h 02m
+	solar wakeup
+	blocked
+	finished main loop
+			18h 07m 20s
+			18h 08m 20s
+			ORP: 522.53125
+			pH: 6.991925
+			pumping chlorine for 300s
+				18h 08m 20s
+				CHLORINE: True
+				18h 09m 01s
+				CHLORINE: True
+				18h 10m 02s
+				CHLORINE: True
+				18h 11m 02s
+				CHLORINE: True
+				18h 12m 02s
+				CHLORINE: True
+				18h 13m 01s
+				CHLORINE: True
+				18h 13m 20s
+				CHLORINE: False
+	18h 13m
+	solar wakeup
+	blocked
+	finished main loop
+	18h 24m
+	solar wakeup
+	running main loop
+	solar temp average: 28.4 C
+	pool temp: 25.2 C
+	finished main loop
+		pool pump reached max runtime
+
+		already ran for 1801 seconds
+				18h 30m 01s
+				POOL: False
+	18h 35m
+	solar wakeup
+	running main loop
+	solar temp average: 28.6 C
+	pool temp: 25.1 C
+	finished main loop
+	18h 46m
+	solar wakeup
+	running main loop
+	solar temp average: 28.7 C
+	pool temp: 24.9 C
+	finished main loop
+	18h 57m
+	solar wakeup
+	running main loop
+	solar temp average: 28.9 C
+	pool temp: 24.8 C
+	finished main loop
+
+		19h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	19h 08m
+	solar wakeup
+	running main loop
+	solar temp average: 29.0 C
+	pool temp: 24.7 C
+	finished main loop
+	19h 19m
+	solar wakeup
+	running main loop
+	solar temp average: 29.0 C
+	pool temp: 24.6 C
+	finished main loop
+	19h 30m
+	solar wakeup
+	running main loop
+	solar temp average: 28.8 C
+	pool temp: 24.4 C
+	finished main loop
+	19h 41m
+	solar wakeup
+	running main loop
+	solar temp average: 28.3 C
+	pool temp: 24.3 C
+	finished main loop
+	19h 52m
+	solar wakeup
+	running main loop
+	solar temp average: 27.6 C
+	pool temp: 24.2 C
+	finished main loop
+
+			20h 00m 00s
+			start hourly cycle
+
+		20h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		new hour, reset values
+		absolute runtime this hour: 1800.8057889938354
+		new hour, reset values
+		pool pump needs to be turned on
+				20h 00m 00s
+				POOL: True
+			20h 00m 20s
+	20h 03m
+	solar wakeup
+	blocked
+	finished main loop
+			20h 07m 20s
+			20h 08m 20s
+			ORP: 627.4024999999998
+			pH: 6.915900000000002
+	20h 14m
+	solar wakeup
+	running main loop
+	solar temp average: 27.0 C
+	pool temp: 23.9 C
+	finished main loop
+	20h 25m
+	solar wakeup
+	running main loop
+	solar temp average: 26.7 C
+	pool temp: 23.8 C
+	finished main loop
+		pool pump reached max runtime
+
+		already ran for 1800 seconds
+				20h 30m 00s
+				POOL: False
+	20h 36m
+	solar wakeup
+	running main loop
+	solar temp average: 26.0 C
+	pool temp: 23.6 C
+	finished main loop
+	20h 47m
+	solar wakeup
+	running main loop
+	solar temp average: 25.2 C
+	pool temp: 23.5 C
+	finished main loop
+	20h 58m
+	solar wakeup
+	running main loop
+	solar temp average: 24.4 C
+	pool temp: 23.4 C
+	finished main loop
+
+		21h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: False
+	21h 09m
+	solar wakeup
+	running main loop
+	solar temp average: 23.6 C
+	pool temp: 23.2 C
+	finished main loop
+	21h 20m
+	solar wakeup
+	running main loop
+	solar temp average: 22.8 C
+	pool temp: 23.1 C
+	finished main loop
+	21h 31m
+	solar wakeup
+	running main loop
+	solar temp average: 22.1 C
+	pool temp: 22.9 C
+	finished main loop
+	21h 42m
+	solar wakeup
+	running main loop
+	solar temp average: 21.3 C
+	pool temp: 22.8 C
+	finished main loop
+	21h 53m
+	solar wakeup
+	running main loop
+	solar temp average: 20.9 C
+	pool temp: 22.6 C
+	finished main loop
+
+		22h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: True
+	22h 04m
+	solar wakeup
+	not daytime
+	finished main loop
+	22h 15m
+	solar wakeup
+	not daytime
+	finished main loop
+	22h 26m
+	solar wakeup
+	not daytime
+	finished main loop
+	22h 37m
+	solar wakeup
+	not daytime
+	finished main loop
+	22h 48m
+	solar wakeup
+	not daytime
+	finished main loop
+	22h 59m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		23h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: False
+	23h 10m
+	solar wakeup
+	not daytime
+	finished main loop
+	23h 21m
+	solar wakeup
+	not daytime
+	finished main loop
+	23h 32m
+	solar wakeup
+	not daytime
+	finished main loop
+	23h 43m
+	solar wakeup
+	not daytime
+	finished main loop
+	23h 54m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		00h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: True
+	00h 05m
+	solar wakeup
+	not daytime
+	finished main loop
+	00h 16m
+	solar wakeup
+	not daytime
+	finished main loop
+	00h 27m
+	solar wakeup
+	not daytime
+	finished main loop
+	00h 38m
+	solar wakeup
+	not daytime
+	finished main loop
+	00h 49m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		01h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: False
+	01h 00m
+	solar wakeup
+	not daytime
+	finished main loop
+	01h 11m
+	solar wakeup
+	not daytime
+	finished main loop
+	01h 22m
+	solar wakeup
+	not daytime
+	finished main loop
+	01h 33m
+	solar wakeup
+	not daytime
+	finished main loop
+	01h 44m
+	solar wakeup
+	not daytime
+	finished main loop
+	01h 55m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		02h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: True
+	02h 06m
+	solar wakeup
+	not daytime
+	finished main loop
+	02h 17m
+	solar wakeup
+	not daytime
+	finished main loop
+	02h 28m
+	solar wakeup
+	not daytime
+	finished main loop
+	02h 39m
+	solar wakeup
+	not daytime
+	finished main loop
+	02h 50m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		03h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: False
+	03h 01m
+	solar wakeup
+	not daytime
+	finished main loop
+	03h 12m
+	solar wakeup
+	not daytime
+	finished main loop
+	03h 23m
+	solar wakeup
+	not daytime
+	finished main loop
+	03h 34m
+	solar wakeup
+	not daytime
+	finished main loop
+	03h 45m
+	solar wakeup
+	not daytime
+	finished main loop
+	03h 56m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		04h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: True
+	04h 07m
+	solar wakeup
+	not daytime
+	finished main loop
+	04h 18m
+	solar wakeup
+	not daytime
+	finished main loop
+	04h 29m
+	solar wakeup
+	not daytime
+	finished main loop
+	04h 40m
+	solar wakeup
+	not daytime
+	finished main loop
+	04h 51m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		05h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: False
+	05h 02m
+	solar wakeup
+	not daytime
+	finished main loop
+	05h 13m
+	solar wakeup
+	not daytime
+	finished main loop
+	05h 24m
+	solar wakeup
+	not daytime
+	finished main loop
+	05h 35m
+	solar wakeup
+	not daytime
+	finished main loop
+	05h 46m
+	solar wakeup
+	not daytime
+	finished main loop
+	05h 57m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		06h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: True
+	06h 08m
+	solar wakeup
+	not daytime
+	finished main loop
+	06h 19m
+	solar wakeup
+	not daytime
+	finished main loop
+	06h 30m
+	solar wakeup
+	not daytime
+	finished main loop
+	06h 41m
+	solar wakeup
+	not daytime
+	finished main loop
+	06h 52m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		07h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: False
+	07h 03m
+	solar wakeup
+	not daytime
+	finished main loop
+	07h 14m
+	solar wakeup
+	not daytime
+	finished main loop
+	07h 25m
+	solar wakeup
+	not daytime
+	finished main loop
+	07h 36m
+	solar wakeup
+	not daytime
+	finished main loop
+	07h 47m
+	solar wakeup
+	not daytime
+	finished main loop
+	07h 58m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		08h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		new hour, reset values
+		absolute runtime this hour: 1800.3941326141357
+		new hour, reset values
+		pool pump needs to be turned on
+				08h 00m 00s
+				POOL: True
+	08h 09m
+	solar wakeup
+	not daytime
+	finished main loop
+	08h 20m
+	solar wakeup
+	not daytime
+	finished main loop
+		pool pump reached max runtime
+
+		already ran for 1800 seconds
+				08h 30m 01s
+				POOL: False
+	08h 31m
+	solar wakeup
+	not daytime
+	finished main loop
+	08h 42m
+	solar wakeup
+	not daytime
+	finished main loop
+	08h 53m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		09h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	09h 04m
+	solar wakeup
+	running main loop
+	solar temp average: 26.7 C
+	pool temp: 20.6 C
+	finished main loop
+	09h 15m
+	solar wakeup
+	running main loop
+	solar temp average: 28.3 C
+	pool temp: 20.6 C
+	finished main loop
+	09h 26m
+	solar wakeup
+	running main loop
+	solar temp average: 30.2 C
+	pool temp: 20.6 C
+	blocking pool: True
+
+		pool blocked: True
+
+		09h 26m 56s
+		blocked: True, is_daytime: True, good_hour_modulo: False
+	replenishing solar
+				09h 27m 00s
+				SOLAR: True
+	Solar Sauna: 23.9, Solar Schuppen: 36.4, Pool: 20.6
+	Solar Sauna: 24.8, Solar Schuppen: 36.2, Pool: 22.6
+	Solar Sauna: 30.4, Solar Schuppen: 35.4, Pool: 24.6
+	Solar Sauna: 30.4, Solar Schuppen: 34.7, Pool: 25.8
+	Solar Sauna: 28.6, Solar Schuppen: 33.7, Pool: 26.0
+	Solar Sauna: 27.1, Solar Schuppen: 31.8, Pool: 26.1
+	Solar Sauna: 25.8, Solar Schuppen: 30.7, Pool: 26.2
+	replenished solar, interrupted: False
+				09h 28m 10s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		09h 28m 10s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	finished main loop
+	09h 39m
+	solar wakeup
+	running main loop
+	solar temp average: 29.3 C
+	pool temp: 25.5 C
+	finished main loop
+	09h 50m
+	solar wakeup
+	running main loop
+	solar temp average: 31.1 C
+	pool temp: 25.2 C
+	finished main loop
+
+			10h 00m 00s
+			start hourly cycle
+
+		10h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		new hour, reset values
+		absolute runtime this hour: 1800.1989991664886
+		new hour, reset values
+		pool pump needs to be turned on
+				10h 00m 00s
+				POOL: True
+			10h 00m 20s
+	10h 01m
+	solar wakeup
+	blocked
+	finished main loop
+			10h 07m 20s
+			10h 08m 20s
+			ORP: 614.6175000000001
+			pH: 6.952525
+	10h 12m
+	solar wakeup
+	running main loop
+	solar temp average: 34.9 C
+	pool temp: 24.8 C
+	blocking pool: True
+
+		already ran for 736 seconds
+				10h 12m 16s
+				POOL: False
+
+		pool blocked: True
+
+		10h 12m 16s
+		blocked: True, is_daytime: True, good_hour_modulo: True
+	replenishing solar
+				10h 12m 21s
+				SOLAR: True
+	Solar Sauna: 29.1, Solar Schuppen: 40.9, Pool: 24.8
+	Solar Sauna: 33.2, Solar Schuppen: 40.8, Pool: 25.4
+	Solar Sauna: 36.1, Solar Schuppen: 40.1, Pool: 26.1
+	Solar Sauna: 36.3, Solar Schuppen: 39.6, Pool: 26.2
+	Solar Sauna: 35.2, Solar Schuppen: 37.9, Pool: 26.4
+	Solar Sauna: 33.5, Solar Schuppen: 36.4, Pool: 26.4
+	Solar Sauna: 32.4, Solar Schuppen: 34.6, Pool: 26.4
+	Solar Sauna: 31.4, Solar Schuppen: 33.4, Pool: 26.4
+	Solar Sauna: 30.4, Solar Schuppen: 32.6, Pool: 26.4
+	Solar Sauna: 29.9, Solar Schuppen: 31.8, Pool: 26.4
+	Solar Sauna: 29.3, Solar Schuppen: 31.3, Pool: 26.4
+	Solar Sauna: 28.9, Solar Schuppen: 30.8, Pool: 26.4
+	Solar Sauna: 28.6, Solar Schuppen: 30.5, Pool: 26.4
+	Solar Sauna: 28.4, Solar Schuppen: 30.1, Pool: 26.4
+	replenished solar, interrupted: False
+				10h 14m 42s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		10h 14m 42s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		pool pump needs to be turned on
+				10h 14m 42s
+				POOL: True
+	finished main loop
+	10h 25m
+	solar wakeup
+	running main loop
+	solar temp average: 31.5 C
+	pool temp: 25.9 C
+	finished main loop
+		pool pump reached max runtime
+
+		already ran for 1800 seconds
+				10h 32m 27s
+				POOL: False
+	10h 36m
+	solar wakeup
+	running main loop
+	solar temp average: 35.6 C
+	pool temp: 25.6 C
+	blocking pool: True
+
+		pool blocked: True
+
+		10h 36m 47s
+		blocked: True, is_daytime: True, good_hour_modulo: True
+	replenishing solar
+				10h 36m 52s
+				SOLAR: True
+	Solar Sauna: 31.9, Solar Schuppen: 39.3, Pool: 25.6
+	Solar Sauna: 32.9, Solar Schuppen: 39.4, Pool: 25.8
+	Solar Sauna: 35.9, Solar Schuppen: 39.1, Pool: 26.2
+	Solar Sauna: 36.6, Solar Schuppen: 38.4, Pool: 26.4
+	Solar Sauna: 35.8, Solar Schuppen: 37.4, Pool: 26.5
+	Solar Sauna: 34.4, Solar Schuppen: 35.6, Pool: 26.5
+	Solar Sauna: 33.4, Solar Schuppen: 34.4, Pool: 26.5
+	Solar Sauna: 32.2, Solar Schuppen: 33.1, Pool: 26.5
+	Solar Sauna: 31.5, Solar Schuppen: 32.3, Pool: 26.6
+	Solar Sauna: 30.7, Solar Schuppen: 31.6, Pool: 26.5
+	Solar Sauna: 30.2, Solar Schuppen: 31.1, Pool: 26.6
+	Solar Sauna: 29.6, Solar Schuppen: 30.6, Pool: 26.5
+	Solar Sauna: 29.3, Solar Schuppen: 30.3, Pool: 26.5
+	Solar Sauna: 28.9, Solar Schuppen: 30.0, Pool: 26.6
+	replenished solar, interrupted: False
+				10h 39m 13s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		10h 39m 13s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+	finished main loop
+	10h 50m
+	solar wakeup
+	running main loop
+	solar temp average: 30.6 C
+	pool temp: 25.9 C
+	finished main loop
+
+		11h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	11h 01m
+	solar wakeup
+	running main loop
+	solar temp average: 33.3 C
+	pool temp: 25.6 C
+	finished main loop
+	11h 12m
+	solar wakeup
+	running main loop
+	solar temp average: 35.4 C
+	pool temp: 25.3 C
+	blocking pool: True
+
+		pool blocked: True
+
+		11h 12m 19s
+		blocked: True, is_daytime: True, good_hour_modulo: False
+	replenishing solar
+				11h 12m 23s
+				SOLAR: True
+	Solar Sauna: 28.8, Solar Schuppen: 41.9, Pool: 25.3
+	Solar Sauna: 31.2, Solar Schuppen: 41.9, Pool: 25.4
+	Solar Sauna: 36.3, Solar Schuppen: 41.2, Pool: 26.1
+	Solar Sauna: 38.0, Solar Schuppen: 40.4, Pool: 26.6
+	Solar Sauna: 37.6, Solar Schuppen: 38.7, Pool: 26.7
+	Solar Sauna: 36.3, Solar Schuppen: 37.1, Pool: 26.8
+	Solar Sauna: 35.1, Solar Schuppen: 35.1, Pool: 26.8
+	Solar Sauna: 33.7, Solar Schuppen: 33.9, Pool: 26.8
+	Solar Sauna: 32.8, Solar Schuppen: 32.7, Pool: 26.8
+	Solar Sauna: 31.8, Solar Schuppen: 32.1, Pool: 26.8
+	Solar Sauna: 31.2, Solar Schuppen: 31.4, Pool: 26.8
+	Solar Sauna: 30.6, Solar Schuppen: 31.1, Pool: 26.8
+	Solar Sauna: 30.1, Solar Schuppen: 30.7, Pool: 26.8
+	Solar Sauna: 29.8, Solar Schuppen: 30.4, Pool: 26.8
+	Solar Sauna: 29.4, Solar Schuppen: 30.1, Pool: 26.8
+	replenished solar, interrupted: False
+				11h 14m 54s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		11h 14m 55s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	finished main loop
+	11h 25m
+	solar wakeup
+	running main loop
+	solar temp average: 32.5 C
+	pool temp: 26.1 C
+	finished main loop
+	11h 36m
+	solar wakeup
+	running main loop
+	solar temp average: 35.7 C
+	pool temp: 25.8 C
+	blocking pool: True
+
+		pool blocked: True
+
+		11h 37m 00s
+		blocked: True, is_daytime: True, good_hour_modulo: False
+	replenishing solar
+				11h 37m 04s
+				SOLAR: True
+	Solar Sauna: 29.0, Solar Schuppen: 42.3, Pool: 25.8
+	Solar Sauna: 32.0, Solar Schuppen: 42.4, Pool: 25.9
+	Solar Sauna: 37.2, Solar Schuppen: 41.1, Pool: 26.2
+	Solar Sauna: 38.8, Solar Schuppen: 39.9, Pool: 27.2
+	Solar Sauna: 38.4, Solar Schuppen: 38.1, Pool: 27.2
+	Solar Sauna: 37.1, Solar Schuppen: 36.6, Pool: 27.2
+	Solar Sauna: 35.9, Solar Schuppen: 34.8, Pool: 27.2
+	Solar Sauna: 34.4, Solar Schuppen: 33.8, Pool: 27.2
+	Solar Sauna: 33.5, Solar Schuppen: 32.8, Pool: 27.2
+	Solar Sauna: 32.6, Solar Schuppen: 32.2, Pool: 27.2
+	Solar Sauna: 31.9, Solar Schuppen: 31.7, Pool: 27.2
+	Solar Sauna: 31.3, Solar Schuppen: 31.3, Pool: 27.2
+	Solar Sauna: 30.9, Solar Schuppen: 31.0, Pool: 27.2
+	Solar Sauna: 30.4, Solar Schuppen: 30.8, Pool: 27.2
+	Solar Sauna: 30.1, Solar Schuppen: 30.5, Pool: 27.2
+	Solar Sauna: 29.8, Solar Schuppen: 30.4, Pool: 27.2
+	replenished solar, interrupted: False
+				11h 39m 45s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		11h 39m 46s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	finished main loop
+	11h 50m
+	solar wakeup
+	running main loop
+	solar temp average: 31.3 C
+	pool temp: 26.4 C
+	finished main loop
+
+			12h 00m 00s
+			start hourly cycle
+
+		12h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		new hour, reset values
+		absolute runtime this hour: 1800.3802926540375
+		new hour, reset values
+		pool pump needs to be turned on
+				12h 00m 00s
+				POOL: True
+			12h 00m 20s
+	12h 01m
+	solar wakeup
+	blocked
+	finished main loop
+			12h 07m 20s
+			12h 08m 20s
+			ORP: 624.225
+			pH: 6.9544
+	12h 12m
+	solar wakeup
+	running main loop
+	solar temp average: 35.1 C
+	pool temp: 25.9 C
+	blocking pool: True
+
+		already ran for 770 seconds
+				12h 12m 51s
+				POOL: False
+
+		pool blocked: True
+
+		12h 12m 51s
+		blocked: True, is_daytime: True, good_hour_modulo: True
+	replenishing solar
+				12h 12m 56s
+				SOLAR: True
+	Solar Sauna: 29.2, Solar Schuppen: 40.9, Pool: 25.9
+	Solar Sauna: 33.9, Solar Schuppen: 41.6, Pool: 26.2
+	Solar Sauna: 38.4, Solar Schuppen: 40.2, Pool: 26.7
+	Solar Sauna: 39.9, Solar Schuppen: 39.5, Pool: 26.8
+	Solar Sauna: 39.4, Solar Schuppen: 38.2, Pool: 26.8
+	Solar Sauna: 38.1, Solar Schuppen: 36.9, Pool: 26.8
+	Solar Sauna: 36.9, Solar Schuppen: 35.1, Pool: 26.9
+	Solar Sauna: 35.4, Solar Schuppen: 34.0, Pool: 26.9
+	Solar Sauna: 34.5, Solar Schuppen: 32.9, Pool: 26.9
+	Solar Sauna: 33.4, Solar Schuppen: 32.2, Pool: 26.9
+	Solar Sauna: 32.8, Solar Schuppen: 31.6, Pool: 26.9
+	Solar Sauna: 31.9, Solar Schuppen: 31.2, Pool: 26.9
+	Solar Sauna: 31.4, Solar Schuppen: 30.8, Pool: 26.9
+	Solar Sauna: 30.8, Solar Schuppen: 30.6, Pool: 26.9
+	Solar Sauna: 30.4, Solar Schuppen: 30.3, Pool: 26.9
+	Solar Sauna: 30.1, Solar Schuppen: 30.2, Pool: 26.9
+	Solar Sauna: 29.8, Solar Schuppen: 30.0, Pool: 26.9
+	replenished solar, interrupted: False
+				12h 15m 46s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		12h 15m 47s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		pool pump needs to be turned on
+				12h 15m 47s
+				POOL: True
+	finished main loop
+	12h 26m
+	solar wakeup
+	running main loop
+	solar temp average: 32.4 C
+	pool temp: 26.4 C
+	finished main loop
+		pool pump reached max runtime
+
+		already ran for 1801 seconds
+				12h 32m 57s
+				POOL: False
+	12h 37m
+	solar wakeup
+	running main loop
+	solar temp average: 37.2 C
+	pool temp: 26.1 C
+	blocking pool: True
+
+		pool blocked: True
+
+		12h 37m 52s
+		blocked: True, is_daytime: True, good_hour_modulo: True
+	replenishing solar
+				12h 37m 57s
+				SOLAR: True
+	Solar Sauna: 31.4, Solar Schuppen: 42.9, Pool: 26.1
+	Solar Sauna: 32.0, Solar Schuppen: 42.9, Pool: 26.4
+	Solar Sauna: 39.0, Solar Schuppen: 40.5, Pool: 26.8
+	Solar Sauna: 40.2, Solar Schuppen: 39.9, Pool: 26.9
+	Solar Sauna: 39.6, Solar Schuppen: 38.6, Pool: 27.0
+	Solar Sauna: 38.6, Solar Schuppen: 37.2, Pool: 27.1
+	Solar Sauna: 37.0, Solar Schuppen: 35.5, Pool: 27.1
+	Solar Sauna: 35.9, Solar Schuppen: 34.4, Pool: 27.1
+	Solar Sauna: 34.6, Solar Schuppen: 33.4, Pool: 27.1
+	Solar Sauna: 33.8, Solar Schuppen: 32.8, Pool: 27.1
+	Solar Sauna: 32.8, Solar Schuppen: 32.1, Pool: 27.1
+	Solar Sauna: 32.2, Solar Schuppen: 31.7, Pool: 27.1
+	Solar Sauna: 31.6, Solar Schuppen: 31.3, Pool: 27.1
+	Solar Sauna: 31.1, Solar Schuppen: 31.1, Pool: 27.1
+	Solar Sauna: 30.6, Solar Schuppen: 30.8, Pool: 27.1
+	Solar Sauna: 30.3, Solar Schuppen: 30.6, Pool: 27.1
+	Solar Sauna: 29.9, Solar Schuppen: 30.4, Pool: 27.1
+	Solar Sauna: 29.8, Solar Schuppen: 30.2, Pool: 27.1
+	replenished solar, interrupted: False
+				12h 40m 58s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		12h 40m 58s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+	finished main loop
+	12h 52m
+	solar wakeup
+	running main loop
+	solar temp average: 33.0 C
+	pool temp: 26.4 C
+	finished main loop
+
+		13h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	13h 03m
+	solar wakeup
+	running main loop
+	solar temp average: 34.7 C
+	pool temp: 26.1 C
+	finished main loop
+	13h 14m
+	solar wakeup
+	running main loop
+	solar temp average: 38.2 C
+	pool temp: 25.9 C
+	blocking pool: True
+
+		pool blocked: True
+
+		13h 14m 04s
+		blocked: True, is_daytime: True, good_hour_modulo: False
+	replenishing solar
+				13h 14m 08s
+				SOLAR: True
+	Solar Sauna: 28.9, Solar Schuppen: 47.6, Pool: 25.9
+	Solar Sauna: 29.6, Solar Schuppen: 47.6, Pool: 26.0
+	Solar Sauna: 39.8, Solar Schuppen: 45.0, Pool: 26.5
+	Solar Sauna: 41.6, Solar Schuppen: 44.1, Pool: 27.2
+	Solar Sauna: 40.9, Solar Schuppen: 42.2, Pool: 27.3
+	Solar Sauna: 39.6, Solar Schuppen: 40.3, Pool: 27.3
+	Solar Sauna: 37.8, Solar Schuppen: 37.8, Pool: 27.3
+	Solar Sauna: 36.4, Solar Schuppen: 36.2, Pool: 27.3
+	Solar Sauna: 34.8, Solar Schuppen: 34.8, Pool: 27.3
+	Solar Sauna: 33.8, Solar Schuppen: 33.9, Pool: 27.3
+	Solar Sauna: 32.6, Solar Schuppen: 33.1, Pool: 27.4
+	Solar Sauna: 31.8, Solar Schuppen: 32.6, Pool: 27.3
+	Solar Sauna: 31.2, Solar Schuppen: 32.0, Pool: 27.3
+	Solar Sauna: 30.6, Solar Schuppen: 31.6, Pool: 27.3
+	Solar Sauna: 30.2, Solar Schuppen: 31.3, Pool: 27.3
+	Solar Sauna: 30.0, Solar Schuppen: 31.1, Pool: 27.3
+	Solar Sauna: 29.7, Solar Schuppen: 30.8, Pool: 27.3
+	replenished solar, interrupted: False
+				13h 16m 59s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		13h 17m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	finished main loop
+	13h 28m
+	solar wakeup
+	running main loop
+	solar temp average: 33.7 C
+	pool temp: 26.6 C
+	finished main loop
+	13h 39m
+	solar wakeup
+	running main loop
+	solar temp average: 37.0 C
+	pool temp: 26.3 C
+	blocking pool: True
+
+		pool blocked: True
+
+		13h 39m 05s
+		blocked: True, is_daytime: True, good_hour_modulo: False
+	replenishing solar
+				13h 39m 09s
+				SOLAR: True
+	Solar Sauna: 29.2, Solar Schuppen: 44.7, Pool: 26.2
+	Solar Sauna: 30.0, Solar Schuppen: 44.6, Pool: 26.4
+	Solar Sauna: 37.6, Solar Schuppen: 42.8, Pool: 26.8
+	Solar Sauna: 38.8, Solar Schuppen: 41.9, Pool: 27.6
+	Solar Sauna: 38.2, Solar Schuppen: 40.2, Pool: 27.7
+	Solar Sauna: 36.9, Solar Schuppen: 38.5, Pool: 27.7
+	Solar Sauna: 35.7, Solar Schuppen: 36.4, Pool: 27.7
+	Solar Sauna: 34.2, Solar Schuppen: 35.1, Pool: 27.7
+	Solar Sauna: 33.4, Solar Schuppen: 33.9, Pool: 27.7
+	Solar Sauna: 32.4, Solar Schuppen: 33.2, Pool: 27.7
+	Solar Sauna: 31.8, Solar Schuppen: 32.6, Pool: 27.7
+	Solar Sauna: 31.2, Solar Schuppen: 32.2, Pool: 27.7
+	Solar Sauna: 30.9, Solar Schuppen: 31.8, Pool: 27.7
+	Solar Sauna: 30.6, Solar Schuppen: 31.6, Pool: 27.6
+	Solar Sauna: 30.3, Solar Schuppen: 31.4, Pool: 27.7
+	Solar Sauna: 30.1, Solar Schuppen: 31.2, Pool: 27.7
+	replenished solar, interrupted: False
+				13h 41m 50s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		13h 41m 50s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	finished main loop
+	13h 52m
+	solar wakeup
+	running main loop
+	solar temp average: 33.5 C
+	pool temp: 26.8 C
+	finished main loop
+
+			14h 00m 00s
+			start hourly cycle
+
+		14h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		new hour, reset values
+		absolute runtime this hour: 1800.6874628067017
+		new hour, reset values
+		pool pump needs to be turned on
+				14h 00m 00s
+				POOL: True
+			14h 00m 20s
+	14h 03m
+	solar wakeup
+	blocked
+	finished main loop
+			14h 07m 20s
+			14h 08m 20s
+			ORP: 627.575
+			pH: 6.951924999999998
+	14h 14m
+	solar wakeup
+	running main loop
+	solar temp average: 38.7 C
+	pool temp: 26.4 C
+	blocking pool: True
+
+		already ran for 895 seconds
+				14h 14m 55s
+				POOL: False
+
+		pool blocked: True
+
+		14h 14m 56s
+		blocked: True, is_daytime: True, good_hour_modulo: True
+	replenishing solar
+				14h 15m 01s
+				SOLAR: True
+	Solar Sauna: 30.4, Solar Schuppen: 46.9, Pool: 26.4
+	Solar Sauna: 34.8, Solar Schuppen: 46.7, Pool: 26.9
+	Solar Sauna: 40.7, Solar Schuppen: 45.8, Pool: 27.4
+	Solar Sauna: 41.6, Solar Schuppen: 44.6, Pool: 27.6
+	Solar Sauna: 40.8, Solar Schuppen: 43.1, Pool: 27.6
+	Solar Sauna: 38.9, Solar Schuppen: 40.2, Pool: 27.6
+	Solar Sauna: 37.6, Solar Schuppen: 38.3, Pool: 27.5
+	Solar Sauna: 35.9, Solar Schuppen: 36.4, Pool: 27.5
+	Solar Sauna: 34.8, Solar Schuppen: 35.4, Pool: 27.5
+	Solar Sauna: 33.7, Solar Schuppen: 34.3, Pool: 27.4
+	Solar Sauna: 32.9, Solar Schuppen: 33.7, Pool: 27.5
+	Solar Sauna: 32.1, Solar Schuppen: 33.0, Pool: 27.5
+	Solar Sauna: 31.6, Solar Schuppen: 32.6, Pool: 27.5
+	Solar Sauna: 31.1, Solar Schuppen: 32.1, Pool: 27.5
+	Solar Sauna: 30.7, Solar Schuppen: 31.8, Pool: 27.5
+	Solar Sauna: 30.2, Solar Schuppen: 31.6, Pool: 27.5
+	Solar Sauna: 29.9, Solar Schuppen: 31.2, Pool: 27.5
+	Solar Sauna: 29.7, Solar Schuppen: 31.0, Pool: 27.5
+	replenished solar, interrupted: False
+				14h 18m 01s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		14h 18m 02s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		pool pump needs to be turned on
+				14h 18m 02s
+				POOL: True
+	finished main loop
+	14h 29m
+	solar wakeup
+	running main loop
+	solar temp average: 30.6 C
+	pool temp: 26.9 C
+	finished main loop
+		pool pump reached max runtime
+
+		already ran for 1800 seconds
+				14h 33m 07s
+				POOL: False
+	14h 40m
+	solar wakeup
+	running main loop
+	solar temp average: 36.0 C
+	pool temp: 26.6 C
+	blocking pool: True
+
+		pool blocked: True
+
+		14h 40m 07s
+		blocked: True, is_daytime: True, good_hour_modulo: True
+	replenishing solar
+				14h 40m 12s
+				SOLAR: True
+	Solar Sauna: 30.6, Solar Schuppen: 41.6, Pool: 26.7
+	Solar Sauna: 32.4, Solar Schuppen: 41.7, Pool: 26.9
+	Solar Sauna: 36.4, Solar Schuppen: 41.2, Pool: 27.3
+	Solar Sauna: 37.8, Solar Schuppen: 40.8, Pool: 27.5
+	Solar Sauna: 37.2, Solar Schuppen: 39.2, Pool: 27.6
+	Solar Sauna: 35.9, Solar Schuppen: 37.8, Pool: 27.7
+	Solar Sauna: 34.9, Solar Schuppen: 35.9, Pool: 27.7
+	Solar Sauna: 33.7, Solar Schuppen: 34.9, Pool: 27.7
+	Solar Sauna: 32.9, Solar Schuppen: 33.8, Pool: 27.7
+	Solar Sauna: 32.2, Solar Schuppen: 33.2, Pool: 27.7
+	Solar Sauna: 31.7, Solar Schuppen: 32.6, Pool: 27.7
+	Solar Sauna: 31.2, Solar Schuppen: 32.2, Pool: 27.7
+	Solar Sauna: 30.9, Solar Schuppen: 31.9, Pool: 27.7
+	Solar Sauna: 30.5, Solar Schuppen: 31.7, Pool: 27.7
+	Solar Sauna: 30.3, Solar Schuppen: 31.4, Pool: 27.7
+	Solar Sauna: 30.1, Solar Schuppen: 31.2, Pool: 27.7
+	replenished solar, interrupted: False
+				14h 42m 52s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		14h 42m 53s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+	finished main loop
+	14h 53m
+	solar wakeup
+	running main loop
+	solar temp average: 34.7 C
+	pool temp: 27.1 C
+	finished main loop
+
+		15h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	15h 04m
+	solar wakeup
+	running main loop
+	solar temp average: 34.2 C
+	pool temp: 26.7 C
+	finished main loop
+	15h 15m
+	solar wakeup
+	running main loop
+	solar temp average: 34.1 C
+	pool temp: 26.4 C
+	finished main loop
+	15h 26m
+	solar wakeup
+	running main loop
+	solar temp average: 37.4 C
+	pool temp: 26.1 C
+	blocking pool: True
+
+		pool blocked: True
+
+		15h 26m 59s
+		blocked: True, is_daytime: True, good_hour_modulo: False
+	replenishing solar
+				15h 27m 03s
+				SOLAR: True
+	Solar Sauna: 30.1, Solar Schuppen: 44.7, Pool: 26.1
+	Solar Sauna: 31.0, Solar Schuppen: 44.7, Pool: 26.2
+	Solar Sauna: 38.3, Solar Schuppen: 43.9, Pool: 26.9
+	Solar Sauna: 40.0, Solar Schuppen: 43.1, Pool: 27.8
+	Solar Sauna: 39.9, Solar Schuppen: 41.2, Pool: 27.9
+	Solar Sauna: 38.9, Solar Schuppen: 39.3, Pool: 28.0
+	Solar Sauna: 37.3, Solar Schuppen: 37.1, Pool: 28.0
+	Solar Sauna: 36.1, Solar Schuppen: 35.8, Pool: 28.0
+	Solar Sauna: 34.8, Solar Schuppen: 34.6, Pool: 28.1
+	Solar Sauna: 34.0, Solar Schuppen: 33.9, Pool: 28.1
+	Solar Sauna: 33.1, Solar Schuppen: 33.2, Pool: 28.1
+	Solar Sauna: 32.5, Solar Schuppen: 32.8, Pool: 28.1
+	Solar Sauna: 31.9, Solar Schuppen: 32.4, Pool: 28.1
+	Solar Sauna: 31.5, Solar Schuppen: 32.0, Pool: 28.1
+	Solar Sauna: 31.1, Solar Schuppen: 31.8, Pool: 28.1
+	Solar Sauna: 30.8, Solar Schuppen: 31.6, Pool: 28.2
+	replenished solar, interrupted: False
+				15h 29m 44s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		15h 29m 45s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	finished main loop
+	15h 40m
+	solar wakeup
+	running main loop
+	solar temp average: 34.1 C
+	pool temp: 27.4 C
+	finished main loop
+	15h 51m
+	solar wakeup
+	running main loop
+	solar temp average: 35.8 C
+	pool temp: 27.0 C
+	finished main loop
+
+			16h 00m 00s
+			start hourly cycle
+
+		16h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		new hour, reset values
+		absolute runtime this hour: 1800.1310555934906
+		new hour, reset values
+		pool pump needs to be turned on
+				16h 00m 00s
+				POOL: True
+			16h 00m 20s
+	16h 02m
+	solar wakeup
+	blocked
+	finished main loop
+			16h 07m 20s
+			16h 08m 20s
+			ORP: 629.8549999999998
+			pH: 6.949725000000001
+	16h 13m
+	solar wakeup
+	running main loop
+	solar temp average: 41.2 C
+	pool temp: 26.6 C
+	blocking pool: True
+
+		already ran for 829 seconds
+				16h 13m 50s
+				POOL: False
+
+		pool blocked: True
+
+		16h 13m 50s
+		blocked: True, is_daytime: True, good_hour_modulo: True
+	replenishing solar
+				16h 13m 55s
+				SOLAR: True
+	Solar Sauna: 32.4, Solar Schuppen: 50.1, Pool: 26.6
+	Solar Sauna: 37.7, Solar Schuppen: 49.6, Pool: 26.9
+	Solar Sauna: 42.9, Solar Schuppen: 48.7, Pool: 27.6
+	Solar Sauna: 44.4, Solar Schuppen: 47.3, Pool: 27.8
+	Solar Sauna: 44.6, Solar Schuppen: 45.1, Pool: 27.8
+	Solar Sauna: 43.7, Solar Schuppen: 42.9, Pool: 27.9
+	Solar Sauna: 41.8, Solar Schuppen: 40.1, Pool: 27.9
+	Solar Sauna: 39.9, Solar Schuppen: 38.4, Pool: 27.9
+	Solar Sauna: 38.6, Solar Schuppen: 36.7, Pool: 27.9
+	Solar Sauna: 37.0, Solar Schuppen: 35.7, Pool: 27.9
+	Solar Sauna: 36.0, Solar Schuppen: 34.7, Pool: 27.9
+	Solar Sauna: 34.9, Solar Schuppen: 34.1, Pool: 27.9
+	Solar Sauna: 34.1, Solar Schuppen: 33.5, Pool: 27.9
+	Solar Sauna: 33.3, Solar Schuppen: 33.1, Pool: 27.9
+	Solar Sauna: 32.8, Solar Schuppen: 32.7, Pool: 27.9
+	Solar Sauna: 32.1, Solar Schuppen: 32.4, Pool: 27.9
+	Solar Sauna: 31.8, Solar Schuppen: 32.2, Pool: 27.9
+	Solar Sauna: 31.4, Solar Schuppen: 31.9, Pool: 27.9
+	Solar Sauna: 31.1, Solar Schuppen: 31.8, Pool: 27.9
+	Solar Sauna: 30.9, Solar Schuppen: 31.6, Pool: 27.9
+	Solar Sauna: 30.7, Solar Schuppen: 31.5, Pool: 27.9
+	Solar Sauna: 30.6, Solar Schuppen: 31.3, Pool: 28.0
+	replenished solar, interrupted: False
+				16h 17m 35s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		16h 17m 36s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		pool pump needs to be turned on
+				16h 17m 36s
+				POOL: True
+	finished main loop
+	16h 28m
+	solar wakeup
+	running main loop
+	solar temp average: 34.1 C
+	pool temp: 27.6 C
+	finished main loop
+		pool pump reached max runtime
+
+		already ran for 1800 seconds
+				16h 33m 47s
+				POOL: False
+	16h 39m
+	solar wakeup
+	running main loop
+	solar temp average: 38.8 C
+	pool temp: 27.2 C
+	blocking pool: True
+
+		pool blocked: True
+
+		16h 39m 41s
+		blocked: True, is_daytime: True, good_hour_modulo: True
+	replenishing solar
+				16h 39m 46s
+				SOLAR: True
+	Solar Sauna: 33.7, Solar Schuppen: 43.9, Pool: 27.2
+	Solar Sauna: 34.8, Solar Schuppen: 43.9, Pool: 27.4
+	Solar Sauna: 39.4, Solar Schuppen: 43.4, Pool: 27.8
+	Solar Sauna: 40.6, Solar Schuppen: 42.5, Pool: 28.0
+	Solar Sauna: 40.8, Solar Schuppen: 41.2, Pool: 28.1
+	Solar Sauna: 40.1, Solar Schuppen: 39.0, Pool: 28.2
+	Solar Sauna: 38.6, Solar Schuppen: 37.4, Pool: 28.2
+	Solar Sauna: 37.5, Solar Schuppen: 35.6, Pool: 28.2
+	Solar Sauna: 36.0, Solar Schuppen: 34.6, Pool: 28.2
+	Solar Sauna: 35.1, Solar Schuppen: 33.6, Pool: 28.2
+	Solar Sauna: 34.0, Solar Schuppen: 33.0, Pool: 28.1
+	Solar Sauna: 33.2, Solar Schuppen: 32.4, Pool: 28.2
+	Solar Sauna: 32.4, Solar Schuppen: 32.0, Pool: 28.2
+	Solar Sauna: 31.9, Solar Schuppen: 31.6, Pool: 28.2
+	Solar Sauna: 31.4, Solar Schuppen: 31.4, Pool: 28.2
+	Solar Sauna: 31.0, Solar Schuppen: 31.1, Pool: 28.2
+	replenished solar, interrupted: False
+				16h 42m 27s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		16h 42m 27s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+	finished main loop
+	16h 53m
+	solar wakeup
+	running main loop
+	solar temp average: 30.7 C
+	pool temp: 27.5 C
+	finished main loop
+
+		17h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	17h 04m
+	solar wakeup
+	running main loop
+	solar temp average: 34.4 C
+	pool temp: 27.1 C
+	finished main loop
+	17h 15m
+	solar wakeup
+	running main loop
+	solar temp average: 36.7 C
+	pool temp: 26.8 C
+	blocking pool: True
+
+		pool blocked: True
+
+		17h 15m 33s
+		blocked: True, is_daytime: True, good_hour_modulo: False
+	replenishing solar
+				17h 15m 37s
+				SOLAR: True
+	Solar Sauna: 29.5, Solar Schuppen: 43.9, Pool: 26.9
+	Solar Sauna: 30.3, Solar Schuppen: 43.9, Pool: 26.9
+	Solar Sauna: 38.1, Solar Schuppen: 43.5, Pool: 27.5
+	Solar Sauna: 40.3, Solar Schuppen: 42.8, Pool: 28.1
+	Solar Sauna: 41.1, Solar Schuppen: 41.6, Pool: 28.2
+	Solar Sauna: 40.6, Solar Schuppen: 39.4, Pool: 28.2
+	Solar Sauna: 39.2, Solar Schuppen: 37.7, Pool: 28.2
+	Solar Sauna: 38.1, Solar Schuppen: 35.9, Pool: 28.2
+	Solar Sauna: 36.7, Solar Schuppen: 35.0, Pool: 28.2
+	Solar Sauna: 35.8, Solar Schuppen: 34.0, Pool: 28.2
+	Solar Sauna: 34.6, Solar Schuppen: 33.4, Pool: 28.2
+	Solar Sauna: 33.9, Solar Schuppen: 32.9, Pool: 28.2
+	Solar Sauna: 33.1, Solar Schuppen: 32.5, Pool: 28.2
+	Solar Sauna: 32.6, Solar Schuppen: 32.1, Pool: 28.2
+	Solar Sauna: 32.0, Solar Schuppen: 31.9, Pool: 28.3
+	Solar Sauna: 31.7, Solar Schuppen: 31.6, Pool: 28.3
+	Solar Sauna: 31.3, Solar Schuppen: 31.5, Pool: 28.3
+	Solar Sauna: 31.1, Solar Schuppen: 31.3, Pool: 28.3
+	replenished solar, interrupted: False
+				17h 18m 38s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		17h 18m 39s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	finished main loop
+	17h 29m
+	solar wakeup
+	running main loop
+	solar temp average: 32.8 C
+	pool temp: 27.7 C
+	finished main loop
+	17h 40m
+	solar wakeup
+	running main loop
+	solar temp average: 34.7 C
+	pool temp: 27.2 C
+	finished main loop
+	17h 51m
+	solar wakeup
+	running main loop
+	solar temp average: 34.2 C
+	pool temp: 27.0 C
+	finished main loop
+
+			18h 00m 00s
+			start hourly cycle
+
+		18h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		new hour, reset values
+		absolute runtime this hour: 1800.4930362701416
+		new hour, reset values
+		pool pump needs to be turned on
+				18h 00m 00s
+				POOL: True
+			18h 00m 20s
+	18h 02m
+	solar wakeup
+	blocked
+	finished main loop
+			18h 07m 20s
+			18h 08m 20s
+			ORP: 625.5949999999999
+			pH: 6.947275
+	18h 13m
+	solar wakeup
+	running main loop
+	solar temp average: 33.4 C
+	pool temp: 26.6 C
+	finished main loop
+	18h 24m
+	solar wakeup
+	running main loop
+	solar temp average: 33.2 C
+	pool temp: 26.4 C
+	finished main loop
+		pool pump reached max runtime
+
+		already ran for 1800 seconds
+				18h 30m 00s
+				POOL: False
+	18h 35m
+	solar wakeup
+	running main loop
+	solar temp average: 35.9 C
+	pool temp: 26.1 C
+	blocking pool: True
+
+		pool blocked: True
+
+		18h 35m 45s
+		blocked: True, is_daytime: True, good_hour_modulo: True
+	replenishing solar
+				18h 35m 49s
+				SOLAR: True
+	Solar Sauna: 32.8, Solar Schuppen: 39.1, Pool: 26.1
+	Solar Sauna: 33.2, Solar Schuppen: 39.2, Pool: 26.9
+	Solar Sauna: 36.4, Solar Schuppen: 39.1, Pool: 27.7
+	Solar Sauna: 37.6, Solar Schuppen: 38.6, Pool: 28.1
+	Solar Sauna: 37.9, Solar Schuppen: 37.9, Pool: 28.2
+	Solar Sauna: 37.5, Solar Schuppen: 36.3, Pool: 28.2
+	Solar Sauna: 36.4, Solar Schuppen: 35.1, Pool: 28.2
+	Solar Sauna: 35.6, Solar Schuppen: 33.8, Pool: 28.2
+	Solar Sauna: 34.5, Solar Schuppen: 33.0, Pool: 28.2
+	Solar Sauna: 33.8, Solar Schuppen: 32.3, Pool: 28.2
+	Solar Sauna: 32.9, Solar Schuppen: 31.9, Pool: 28.2
+	Solar Sauna: 32.4, Solar Schuppen: 31.4, Pool: 28.3
+	Solar Sauna: 31.8, Solar Schuppen: 31.1, Pool: 28.3
+	Solar Sauna: 31.4, Solar Schuppen: 30.9, Pool: 28.3
+	replenished solar, interrupted: False
+				18h 38m 10s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		18h 38m 11s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+	finished main loop
+	18h 49m
+	solar wakeup
+	running main loop
+	solar temp average: 30.6 C
+	pool temp: 27.6 C
+	finished main loop
+
+		19h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	19h 00m
+	solar wakeup
+	running main loop
+	solar temp average: 31.2 C
+	pool temp: 27.4 C
+	finished main loop
+	19h 11m
+	solar wakeup
+	running main loop
+	solar temp average: 31.3 C
+	pool temp: 27.2 C
+	finished main loop
+	19h 22m
+	solar wakeup
+	running main loop
+	solar temp average: 31.1 C
+	pool temp: 27.0 C
+	finished main loop
+	19h 33m
+	solar wakeup
+	running main loop
+	solar temp average: 31.1 C
+	pool temp: 26.8 C
+	finished main loop
+	19h 44m
+	solar wakeup
+	running main loop
+	solar temp average: 30.9 C
+	pool temp: 26.6 C
+	finished main loop
+	19h 55m
+	solar wakeup
+	running main loop
+	solar temp average: 30.8 C
+	pool temp: 26.4 C
+	finished main loop
+
+			20h 00m 00s
+			start hourly cycle
+
+		20h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		new hour, reset values
+		absolute runtime this hour: 1800.455898284912
+		new hour, reset values
+		pool pump needs to be turned on
+				20h 00m 00s
+				POOL: True
+			20h 00m 20s
+	20h 06m
+	solar wakeup
+	blocked
+	finished main loop
+			20h 07m 20s
+			20h 08m 20s
+			ORP: 606.9925000000001
+			pH: 6.954124999999998
+	20h 17m
+	solar wakeup
+	running main loop
+	solar temp average: 30.2 C
+	pool temp: 26.0 C
+	finished main loop
+	20h 28m
+	solar wakeup
+	running main loop
+	solar temp average: 29.5 C
+	pool temp: 25.8 C
+	finished main loop
+		pool pump reached max runtime
+
+		already ran for 1800 seconds
+				20h 30m 00s
+				POOL: False
+	20h 39m
+	solar wakeup
+	running main loop
+	solar temp average: 28.8 C
+	pool temp: 25.7 C
+	finished main loop
+	20h 50m
+	solar wakeup
+	running main loop
+	solar temp average: 27.9 C
+	pool temp: 25.5 C
+	finished main loop
+
+		21h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: False
+	21h 01m
+	solar wakeup
+	running main loop
+	solar temp average: 27.2 C
+	pool temp: 25.4 C
+	finished main loop
+	21h 12m
+	solar wakeup
+	running main loop
+	solar temp average: 26.7 C
+	pool temp: 25.2 C
+	finished main loop
+	21h 23m
+	solar wakeup
+	running main loop
+	solar temp average: 26.0 C
+	pool temp: 25.0 C
+	finished main loop
+	21h 34m
+	solar wakeup
+	running main loop
+	solar temp average: 25.3 C
+	pool temp: 24.8 C
+	finished main loop
+	21h 45m
+	solar wakeup
+	running main loop
+	solar temp average: 24.7 C
+	pool temp: 24.7 C
+	finished main loop
+	21h 56m
+	solar wakeup
+	running main loop
+	solar temp average: 24.1 C
+	pool temp: 24.5 C
+	finished main loop
+
+		22h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: True
+	22h 07m
+	solar wakeup
+	not daytime
+	finished main loop
+	22h 18m
+	solar wakeup
+	not daytime
+	finished main loop
+	22h 29m
+	solar wakeup
+	not daytime
+	finished main loop
+	22h 40m
+	solar wakeup
+	not daytime
+	finished main loop
+	22h 51m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		23h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: False
+	23h 02m
+	solar wakeup
+	not daytime
+	finished main loop
+	23h 13m
+	solar wakeup
+	not daytime
+	finished main loop
+	23h 24m
+	solar wakeup
+	not daytime
+	finished main loop
+	23h 35m
+	solar wakeup
+	not daytime
+	finished main loop
+	23h 46m
+	solar wakeup
+	not daytime
+	finished main loop
+	23h 57m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		00h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: True
+	00h 08m
+	solar wakeup
+	not daytime
+	finished main loop
+	00h 19m
+	solar wakeup
+	not daytime
+	finished main loop
+	00h 30m
+	solar wakeup
+	not daytime
+	finished main loop
+	00h 41m
+	solar wakeup
+	not daytime
+	finished main loop
+	00h 52m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		01h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: False
+	01h 03m
+	solar wakeup
+	not daytime
+	finished main loop
+	01h 14m
+	solar wakeup
+	not daytime
+	finished main loop
+	01h 25m
+	solar wakeup
+	not daytime
+	finished main loop
+	01h 36m
+	solar wakeup
+	not daytime
+	finished main loop
+	01h 47m
+	solar wakeup
+	not daytime
+	finished main loop
+	01h 58m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		02h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: True
+	02h 09m
+	solar wakeup
+	not daytime
+	finished main loop
+	02h 20m
+	solar wakeup
+	not daytime
+	finished main loop
+	02h 31m
+	solar wakeup
+	not daytime
+	finished main loop
+	02h 42m
+	solar wakeup
+	not daytime
+	finished main loop
+	02h 53m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		03h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: False
+	03h 04m
+	solar wakeup
+	not daytime
+	finished main loop
+	03h 15m
+	solar wakeup
+	not daytime
+	finished main loop
+	03h 26m
+	solar wakeup
+	not daytime
+	finished main loop
+	03h 37m
+	solar wakeup
+	not daytime
+	finished main loop
+	03h 48m
+	solar wakeup
+	not daytime
+	finished main loop
+	03h 59m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		04h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: True
+	04h 10m
+	solar wakeup
+	not daytime
+	finished main loop
+	04h 21m
+	solar wakeup
+	not daytime
+	finished main loop
+	04h 32m
+	solar wakeup
+	not daytime
+	finished main loop
+	04h 43m
+	solar wakeup
+	not daytime
+	finished main loop
+	04h 54m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		05h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: False
+	05h 05m
+	solar wakeup
+	not daytime
+	finished main loop
+	05h 16m
+	solar wakeup
+	not daytime
+	finished main loop
+	05h 27m
+	solar wakeup
+	not daytime
+	finished main loop
+	05h 38m
+	solar wakeup
+	not daytime
+	finished main loop
+	05h 49m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		06h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: True
+	06h 00m
+	solar wakeup
+	not daytime
+	finished main loop
+	06h 11m
+	solar wakeup
+	not daytime
+	finished main loop
+	06h 22m
+	solar wakeup
+	not daytime
+	finished main loop
+	06h 33m
+	solar wakeup
+	not daytime
+	finished main loop
+	06h 44m
+	solar wakeup
+	not daytime
+	finished main loop
+	06h 55m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		07h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: False
+	07h 06m
+	solar wakeup
+	not daytime
+	finished main loop
+	07h 17m
+	solar wakeup
+	not daytime
+	finished main loop
+	07h 28m
+	solar wakeup
+	not daytime
+	finished main loop
+	07h 39m
+	solar wakeup
+	not daytime
+	finished main loop
+	07h 50m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		08h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		new hour, reset values
+		absolute runtime this hour: 1800.3532121181488
+		new hour, reset values
+		pool pump needs to be turned on
+				08h 00m 01s
+				POOL: True
+	08h 01m
+	solar wakeup
+	not daytime
+	finished main loop
+	08h 12m
+	solar wakeup
+	not daytime
+	finished main loop
+	08h 23m
+	solar wakeup
+	not daytime
+	finished main loop
+		pool pump reached max runtime
+
+		already ran for 1800 seconds
+				08h 30m 01s
+				POOL: False
+	08h 34m
+	solar wakeup
+	not daytime
+	finished main loop
+	08h 45m
+	solar wakeup
+	not daytime
+	finished main loop
+	08h 56m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		09h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	09h 07m
+	solar wakeup
+	running main loop
+	solar temp average: 28.2 C
+	pool temp: 19.3 C
+	finished main loop
+	09h 18m
+	solar wakeup
+	running main loop
+	solar temp average: 30.3 C
+	pool temp: 19.4 C
+	blocking pool: True
+
+		pool blocked: True
+
+		09h 18m 28s
+		blocked: True, is_daytime: True, good_hour_modulo: False
+	replenishing solar
+				09h 18m 32s
+				SOLAR: True
+	Solar Sauna: 24.8, Solar Schuppen: 35.9, Pool: 19.4
+	Solar Sauna: 26.2, Solar Schuppen: 35.7, Pool: 21.2
+	Solar Sauna: 30.6, Solar Schuppen: 34.9, Pool: 25.0
+	Solar Sauna: 30.8, Solar Schuppen: 34.3, Pool: 26.0
+	Solar Sauna: 29.6, Solar Schuppen: 33.4, Pool: 26.4
+	Solar Sauna: 27.9, Solar Schuppen: 31.6, Pool: 26.6
+	Solar Sauna: 26.9, Solar Schuppen: 30.7, Pool: 26.6
+	replenished solar, interrupted: False
+				09h 19m 43s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		09h 19m 43s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	finished main loop
+	09h 30m
+	solar wakeup
+	running main loop
+	solar temp average: 30.1 C
+	pool temp: 25.9 C
+	finished main loop
+	09h 41m
+	solar wakeup
+	running main loop
+	solar temp average: 32.0 C
+	pool temp: 25.7 C
+	finished main loop
+	09h 52m
+	solar wakeup
+	running main loop
+	solar temp average: 34.3 C
+	pool temp: 25.4 C
+	finished main loop
+
+			10h 00m 00s
+			start hourly cycle
+
+		10h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		new hour, reset values
+		absolute runtime this hour: 1800.2260913848877
+		new hour, reset values
+		pool pump needs to be turned on
+				10h 00m 00s
+				POOL: True
+			10h 00m 20s
+	10h 03m
+	solar wakeup
+	blocked
+	finished main loop
+			10h 07m 20s
+			10h 08m 20s
+			ORP: 514.6147058823528
+			pH: 6.959275000000001
+			pumping chlorine for 300s
+				10h 08m 20s
+				CHLORINE: True
+				10h 09m 02s
+				CHLORINE: True
+				10h 10m 01s
+				CHLORINE: True
+				10h 11m 01s
+				CHLORINE: True
+				10h 12m 01s
+				CHLORINE: True
+				10h 13m 01s
+				CHLORINE: True
+				10h 13m 20s
+				CHLORINE: False
+	10h 14m
+	solar wakeup
+	running main loop
+	solar temp average: 37.6 C
+	pool temp: 25.0 C
+	blocking pool: True
+
+		already ran for 889 seconds
+				10h 14m 49s
+
+		10h 14m 49s
+				POOL: False
+		blocked: True, is_daytime: True, good_hour_modulo: True
+
+		pool blocked: True
+	replenishing solar
+				10h 14m 54s
+				SOLAR: True
+	Solar Sauna: 31.2, Solar Schuppen: 44.1, Pool: 25.0
+	Solar Sauna: 35.1, Solar Schuppen: 43.9, Pool: 25.6
+	Solar Sauna: 38.6, Solar Schuppen: 43.3, Pool: 26.6
+	Solar Sauna: 39.1, Solar Schuppen: 42.4, Pool: 26.9
+	Solar Sauna: 38.1, Solar Schuppen: 41.0, Pool: 26.9
+	Solar Sauna: 36.3, Solar Schuppen: 38.6, Pool: 27.0
+	Solar Sauna: 35.0, Solar Schuppen: 37.1, Pool: 27.0
+	Solar Sauna: 33.6, Solar Schuppen: 35.4, Pool: 27.0
+	Solar Sauna: 32.7, Solar Schuppen: 34.5, Pool: 27.1
+	Solar Sauna: 31.8, Solar Schuppen: 33.5, Pool: 27.1
+	Solar Sauna: 31.2, Solar Schuppen: 32.9, Pool: 27.1
+	Solar Sauna: 30.6, Solar Schuppen: 32.4, Pool: 27.1
+	Solar Sauna: 30.2, Solar Schuppen: 32.0, Pool: 27.1
+	Solar Sauna: 29.8, Solar Schuppen: 31.7, Pool: 27.1
+	Solar Sauna: 29.6, Solar Schuppen: 31.4, Pool: 27.1
+	Solar Sauna: 29.2, Solar Schuppen: 31.1, Pool: 27.1
+	Solar Sauna: 29.1, Solar Schuppen: 30.9, Pool: 27.1
+	replenished solar, interrupted: False
+				10h 17m 44s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		10h 17m 45s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		pool pump needs to be turned on
+				10h 17m 45s
+				POOL: True
+	finished main loop
+	10h 28m
+	solar wakeup
+	running main loop
+	solar temp average: 32.9 C
+	pool temp: 26.6 C
+	finished main loop
+		pool pump reached max runtime
+
+		already ran for 1801 seconds
+				10h 32m 57s
+				POOL: False
+	10h 39m
+	solar wakeup
+	running main loop
+	solar temp average: 37.8 C
+	pool temp: 26.3 C
+	blocking pool: True
+
+		pool blocked: True
+
+		10h 39m 50s
+		blocked: True, is_daytime: True, good_hour_modulo: True
+	replenishing solar
+				10h 39m 55s
+				SOLAR: True
+	Solar Sauna: 33.2, Solar Schuppen: 42.4, Pool: 26.3
+	Solar Sauna: 34.1, Solar Schuppen: 42.4, Pool: 26.5
+	Solar Sauna: 38.2, Solar Schuppen: 42.0, Pool: 26.9
+	Solar Sauna: 38.7, Solar Schuppen: 41.2, Pool: 27.1
+	Solar Sauna: 37.6, Solar Schuppen: 40.0, Pool: 27.1
+	Solar Sauna: 36.5, Solar Schuppen: 38.0, Pool: 27.2
+	Solar Sauna: 35.4, Solar Schuppen: 36.6, Pool: 27.2
+	Solar Sauna: 34.0, Solar Schuppen: 35.1, Pool: 27.2
+	Solar Sauna: 33.1, Solar Schuppen: 34.2, Pool: 27.2
+	Solar Sauna: 32.2, Solar Schuppen: 33.4, Pool: 27.2
+	Solar Sauna: 31.7, Solar Schuppen: 32.9, Pool: 27.2
+	Solar Sauna: 31.1, Solar Schuppen: 32.4, Pool: 27.2
+	Solar Sauna: 30.6, Solar Schuppen: 32.1, Pool: 27.2
+	Solar Sauna: 30.3, Solar Schuppen: 31.8, Pool: 27.2
+	Solar Sauna: 30.0, Solar Schuppen: 31.6, Pool: 27.2
+	Solar Sauna: 29.8, Solar Schuppen: 31.4, Pool: 27.2
+	Solar Sauna: 29.6, Solar Schuppen: 31.2, Pool: 27.2
+	Solar Sauna: 29.4, Solar Schuppen: 31.1, Pool: 27.2
+	replenished solar, interrupted: False
+				10h 42m 56s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		10h 42m 56s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+	finished main loop
+	10h 54m
+	solar wakeup
+	running main loop
+	solar temp average: 33.9 C
+	pool temp: 26.7 C
+	finished main loop
+
+		11h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	11h 05m
+	solar wakeup
+	running main loop
+	solar temp average: 38.1 C
+	pool temp: 26.4 C
+	blocking pool: True
+
+		pool blocked: True
+
+		11h 05m 02s
+		blocked: True, is_daytime: True, good_hour_modulo: False
+	replenishing solar
+				11h 05m 06s
+				SOLAR: True
+	Solar Sauna: 31.4, Solar Schuppen: 44.9, Pool: 26.4
+	Solar Sauna: 32.0, Solar Schuppen: 44.9, Pool: 26.4
+	Solar Sauna: 38.9, Solar Schuppen: 44.1, Pool: 26.8
+	Solar Sauna: 40.3, Solar Schuppen: 43.1, Pool: 27.2
+	Solar Sauna: 39.8, Solar Schuppen: 41.2, Pool: 27.2
+	Solar Sauna: 38.8, Solar Schuppen: 39.5, Pool: 27.3
+	Solar Sauna: 37.1, Solar Schuppen: 37.4, Pool: 27.3
+	Solar Sauna: 35.8, Solar Schuppen: 36.1, Pool: 27.4
+	Solar Sauna: 34.5, Solar Schuppen: 34.9, Pool: 27.4
+	Solar Sauna: 33.6, Solar Schuppen: 34.2, Pool: 27.4
+	Solar Sauna: 32.7, Solar Schuppen: 33.6, Pool: 27.4
+	Solar Sauna: 32.1, Solar Schuppen: 33.0, Pool: 27.4
+	Solar Sauna: 31.5, Solar Schuppen: 32.7, Pool: 27.4
+	Solar Sauna: 31.1, Solar Schuppen: 32.3, Pool: 27.4
+	Solar Sauna: 30.7, Solar Schuppen: 32.1, Pool: 27.4
+	Solar Sauna: 30.4, Solar Schuppen: 31.8, Pool: 27.4
+	Solar Sauna: 30.2, Solar Schuppen: 31.7, Pool: 27.4
+	Solar Sauna: 30.0, Solar Schuppen: 31.5, Pool: 27.4
+	Solar Sauna: 29.8, Solar Schuppen: 31.4, Pool: 27.4
+	Solar Sauna: 29.7, Solar Schuppen: 31.2, Pool: 27.4
+	Solar Sauna: 29.6, Solar Schuppen: 31.2, Pool: 27.4
+	replenished solar, interrupted: False
+				11h 08m 37s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		11h 08m 37s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	finished main loop
+	11h 19m
+	solar wakeup
+	running main loop
+	solar temp average: 34.2 C
+	pool temp: 26.9 C
+	finished main loop
+	11h 30m
+	solar wakeup
+	running main loop
+	solar temp average: 38.1 C
+	pool temp: 26.6 C
+	blocking pool: True
+
+		pool blocked: True
+
+		11h 30m 42s
+		blocked: True, is_daytime: True, good_hour_modulo: False
+	replenishing solar
+				11h 30m 47s
+				SOLAR: True
+	Solar Sauna: 31.2, Solar Schuppen: 44.9, Pool: 26.6
+	Solar Sauna: 32.1, Solar Schuppen: 45.1, Pool: 26.6
+	Solar Sauna: 39.7, Solar Schuppen: 44.2, Pool: 26.9
+	Solar Sauna: 41.1, Solar Schuppen: 42.4, Pool: 27.4
+	Solar Sauna: 40.6, Solar Schuppen: 40.9, Pool: 27.5
+	Solar Sauna: 39.5, Solar Schuppen: 38.7, Pool: 27.5
+	Solar Sauna: 37.8, Solar Schuppen: 37.2, Pool: 27.5
+	Solar Sauna: 36.5, Solar Schuppen: 35.6, Pool: 27.6
+	Solar Sauna: 35.1, Solar Schuppen: 34.8, Pool: 27.6
+	Solar Sauna: 34.3, Solar Schuppen: 33.9, Pool: 27.6
+	Solar Sauna: 33.3, Solar Schuppen: 33.4, Pool: 27.6
+	Solar Sauna: 32.8, Solar Schuppen: 32.8, Pool: 27.6
+	Solar Sauna: 32.1, Solar Schuppen: 32.5, Pool: 27.6
+	Solar Sauna: 31.6, Solar Schuppen: 32.2, Pool: 27.6
+	Solar Sauna: 31.1, Solar Schuppen: 31.9, Pool: 27.6
+	Solar Sauna: 30.9, Solar Schuppen: 31.7, Pool: 27.5
+	Solar Sauna: 30.6, Solar Schuppen: 31.6, Pool: 27.6
+	Solar Sauna: 30.4, Solar Schuppen: 31.4, Pool: 27.6
+	Solar Sauna: 30.2, Solar Schuppen: 31.3, Pool: 27.6
+	Solar Sauna: 30.0, Solar Schuppen: 31.2, Pool: 27.6
+	Solar Sauna: 29.9, Solar Schuppen: 31.1, Pool: 27.6
+	replenished solar, interrupted: False
+				11h 34m 18s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		11h 34m 19s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	finished main loop
+	11h 45m
+	solar wakeup
+	running main loop
+	solar temp average: 34.4 C
+	pool temp: 27.1 C
+	finished main loop
+	11h 56m
+	solar wakeup
+	running main loop
+	solar temp average: 34.4 C
+	pool temp: 26.8 C
+	finished main loop
+
+			12h 00m 00s
+			start hourly cycle
+
+		12h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		new hour, reset values
+		absolute runtime this hour: 1800.8731689453125
+		new hour, reset values
+		pool pump needs to be turned on
+				12h 00m 00s
+				POOL: True
+			12h 00m 20s
+			12h 07m 20s
+	12h 07m
+	solar wakeup
+	blocked
+	finished main loop
+			12h 08m 20s
+			ORP: 477.99722222222226
+			pH: 6.965575000000003
+			pumping chlorine for 300s
+				12h 08m 20s
+				CHLORINE: True
+				12h 09m 01s
+				CHLORINE: True
+				12h 10m 01s
+				CHLORINE: True
+				12h 11m 01s
+				CHLORINE: True
+				12h 12m 01s
+				CHLORINE: True
+				12h 13m 01s
+				CHLORINE: True
+				12h 13m 20s
+				CHLORINE: False
+	12h 18m
+	solar wakeup
+	running main loop
+	solar temp average: 39.0 C
+	pool temp: 26.5 C
+	blocking pool: True
+
+		already ran for 1103 seconds
+				12h 18m 24s
+				POOL: False
+
+		pool blocked: True
+
+		12h 18m 24s
+		blocked: True, is_daytime: True, good_hour_modulo: True
+	replenishing solar
+				12h 18m 29s
+				SOLAR: True
+	Solar Sauna: 32.2, Solar Schuppen: 45.8, Pool: 26.5
+	Solar Sauna: 37.1, Solar Schuppen: 46.1, Pool: 26.9
+	Solar Sauna: 41.8, Solar Schuppen: 44.0, Pool: 27.5
+	Solar Sauna: 43.2, Solar Schuppen: 42.4, Pool: 27.6
+	Solar Sauna: 42.6, Solar Schuppen: 41.2, Pool: 27.7
+	Solar Sauna: 40.8, Solar Schuppen: 39.1, Pool: 27.7
+	Solar Sauna: 39.4, Solar Schuppen: 37.6, Pool: 27.7
+	Solar Sauna: 37.6, Solar Schuppen: 36.0, Pool: 27.8
+	Solar Sauna: 36.4, Solar Schuppen: 35.1, Pool: 27.8
+	Solar Sauna: 35.1, Solar Schuppen: 34.1, Pool: 27.8
+	Solar Sauna: 34.4, Solar Schuppen: 33.6, Pool: 27.8
+	Solar Sauna: 33.4, Solar Schuppen: 33.1, Pool: 27.8
+	Solar Sauna: 32.8, Solar Schuppen: 32.6, Pool: 27.8
+	Solar Sauna: 32.2, Solar Schuppen: 32.3, Pool: 27.8
+	Solar Sauna: 31.5, Solar Schuppen: 32.0, Pool: 27.8
+	Solar Sauna: 31.1, Solar Schuppen: 31.8, Pool: 27.8
+	Solar Sauna: 30.6, Solar Schuppen: 31.5, Pool: 27.8
+	Solar Sauna: 30.4, Solar Schuppen: 31.3, Pool: 27.8
+	Solar Sauna: 30.1, Solar Schuppen: 31.2, Pool: 27.8
+	replenished solar, interrupted: False
+				12h 21m 39s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		12h 21m 40s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		pool pump needs to be turned on
+				12h 21m 40s
+				POOL: True
+	finished main loop
+	12h 32m
+	solar wakeup
+	running main loop
+	solar temp average: 34.1 C
+	pool temp: 27.4 C
+	finished main loop
+		pool pump reached max runtime
+
+		already ran for 1801 seconds
+				12h 33m 18s
+				POOL: False
+	12h 43m
+	solar wakeup
+	running main loop
+	solar temp average: 40.2 C
+	pool temp: 27.2 C
+	blocking pool: True
+
+		pool blocked: True
+
+		12h 43m 45s
+		blocked: True, is_daytime: True, good_hour_modulo: True
+	replenishing solar
+				12h 43m 50s
+				SOLAR: True
+	Solar Sauna: 32.2, Solar Schuppen: 48.2, Pool: 27.2
+	Solar Sauna: 33.7, Solar Schuppen: 47.7, Pool: 27.2
+	Solar Sauna: 41.2, Solar Schuppen: 44.8, Pool: 27.6
+	Solar Sauna: 42.5, Solar Schuppen: 43.2, Pool: 27.8
+	Solar Sauna: 41.8, Solar Schuppen: 41.9, Pool: 27.9
+	Solar Sauna: 40.6, Solar Schuppen: 39.9, Pool: 27.9
+	Solar Sauna: 38.9, Solar Schuppen: 38.3, Pool: 27.9
+	Solar Sauna: 37.6, Solar Schuppen: 36.7, Pool: 27.9
+	Solar Sauna: 36.2, Solar Schuppen: 35.8, Pool: 27.9
+	Solar Sauna: 35.4, Solar Schuppen: 34.8, Pool: 27.9
+	Solar Sauna: 34.4, Solar Schuppen: 34.3, Pool: 27.9
+	Solar Sauna: 33.8, Solar Schuppen: 33.7, Pool: 27.9
+	Solar Sauna: 33.0, Solar Schuppen: 33.4, Pool: 27.9
+	Solar Sauna: 32.6, Solar Schuppen: 33.0, Pool: 27.9
+	Solar Sauna: 32.1, Solar Schuppen: 32.8, Pool: 27.9
+	Solar Sauna: 31.7, Solar Schuppen: 32.5, Pool: 27.9
+	Solar Sauna: 31.3, Solar Schuppen: 32.4, Pool: 27.9
+	Solar Sauna: 31.1, Solar Schuppen: 32.2, Pool: 27.9
+	Solar Sauna: 30.8, Solar Schuppen: 32.1, Pool: 27.9
+	Solar Sauna: 30.7, Solar Schuppen: 31.9, Pool: 27.9
+	Solar Sauna: 30.6, Solar Schuppen: 31.9, Pool: 28.0
+	Solar Sauna: 30.4, Solar Schuppen: 31.8, Pool: 28.0
+	Solar Sauna: 30.4, Solar Schuppen: 31.8, Pool: 28.0
+	Solar Sauna: 30.3, Solar Schuppen: 31.7, Pool: 28.0
+	replenished solar, interrupted: False
+				12h 47m 51s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		12h 47m 51s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+	finished main loop
+	12h 58m
+	solar wakeup
+	running main loop
+	solar temp average: 35.1 C
+	pool temp: 27.6 C
+	finished main loop
+
+		13h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	13h 09m
+	solar wakeup
+	running main loop
+	solar temp average: 40.6 C
+	pool temp: 27.4 C
+	blocking pool: True
+
+		pool blocked: True
+
+		13h 09m 57s
+		blocked: True, is_daytime: True, good_hour_modulo: False
+	replenishing solar
+				13h 10m 01s
+				SOLAR: True
+	Solar Sauna: 31.2, Solar Schuppen: 50.1, Pool: 27.4
+	Solar Sauna: 34.3, Solar Schuppen: 50.2, Pool: 27.4
+	Solar Sauna: 41.4, Solar Schuppen: 47.1, Pool: 27.7
+	Solar Sauna: 43.8, Solar Schuppen: 46.1, Pool: 28.0
+	Solar Sauna: 43.2, Solar Schuppen: 44.2, Pool: 28.1
+	Solar Sauna: 41.5, Solar Schuppen: 42.4, Pool: 28.1
+	Solar Sauna: 40.1, Solar Schuppen: 39.9, Pool: 28.1
+	Solar Sauna: 38.2, Solar Schuppen: 38.4, Pool: 28.1
+	Solar Sauna: 37.0, Solar Schuppen: 36.8, Pool: 28.1
+	Solar Sauna: 35.6, Solar Schuppen: 35.9, Pool: 28.1
+	Solar Sauna: 34.7, Solar Schuppen: 35.1, Pool: 28.1
+	Solar Sauna: 33.7, Solar Schuppen: 34.5, Pool: 28.1
+	Solar Sauna: 33.1, Solar Schuppen: 33.9, Pool: 28.1
+	Solar Sauna: 32.4, Solar Schuppen: 33.5, Pool: 28.1
+	Solar Sauna: 32.0, Solar Schuppen: 33.1, Pool: 28.1
+	Solar Sauna: 31.5, Solar Schuppen: 32.9, Pool: 28.1
+	Solar Sauna: 31.1, Solar Schuppen: 32.6, Pool: 28.1
+	Solar Sauna: 30.8, Solar Schuppen: 32.4, Pool: 28.1
+	Solar Sauna: 30.6, Solar Schuppen: 32.2, Pool: 28.1
+	Solar Sauna: 30.4, Solar Schuppen: 32.1, Pool: 28.1
+	Solar Sauna: 30.2, Solar Schuppen: 31.9, Pool: 28.1
+	replenished solar, interrupted: False
+				13h 13m 32s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		13h 13m 33s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	finished main loop
+	13h 24m
+	solar wakeup
+	running main loop
+	solar temp average: 31.0 C
+	pool temp: 27.8 C
+	finished main loop
+	13h 35m
+	solar wakeup
+	running main loop
+	solar temp average: 32.8 C
+	pool temp: 27.6 C
+	finished main loop
+	13h 46m
+	solar wakeup
+	running main loop
+	solar temp average: 34.8 C
+	pool temp: 27.3 C
+	finished main loop
+	13h 57m
+	solar wakeup
+	running main loop
+	solar temp average: 36.9 C
+	pool temp: 27.1 C
+	blocking pool: True
+
+		pool blocked: True
+
+		13h 57m 39s
+		blocked: True, is_daytime: True, good_hour_modulo: False
+	replenishing solar
+				13h 57m 43s
+				SOLAR: True
+	Solar Sauna: 30.7, Solar Schuppen: 43.1, Pool: 27.1
+	Solar Sauna: 32.1, Solar Schuppen: 43.3, Pool: 27.0
+	Solar Sauna: 37.6, Solar Schuppen: 42.8, Pool: 27.6
+	Solar Sauna: 39.7, Solar Schuppen: 42.3, Pool: 28.0
+	Solar Sauna: 39.4, Solar Schuppen: 41.1, Pool: 28.2
+	Solar Sauna: 38.5, Solar Schuppen: 39.4, Pool: 28.2
+	Solar Sauna: 37.1, Solar Schuppen: 37.9, Pool: 28.2
+	Solar Sauna: 36.1, Solar Schuppen: 36.2, Pool: 28.2
+	Solar Sauna: 34.9, Solar Schuppen: 35.3, Pool: 28.2
+	Solar Sauna: 34.1, Solar Schuppen: 34.4, Pool: 28.2
+	Solar Sauna: 33.2, Solar Schuppen: 33.9, Pool: 28.2
+	Solar Sauna: 32.6, Solar Schuppen: 33.2, Pool: 28.2
+	Solar Sauna: 32.0, Solar Schuppen: 32.9, Pool: 28.2
+	Solar Sauna: 31.6, Solar Schuppen: 32.4, Pool: 28.2
+
+			14h 00m 00s
+			start hourly cycle
+
+		14h 00m 00s
+		blocked: True, is_daytime: True, good_hour_modulo: True
+	replenished solar, interrupted: True
+				14h 00m 04s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		14h 00m 04s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		new hour, reset values
+		absolute runtime this hour: 1800.6278195381165
+		new hour, reset values
+		pool pump needs to be turned on
+				14h 00m 04s
+				POOL: True
+	finished main loop
+			14h 00m 20s
+			14h 07m 20s
+			14h 08m 20s
+			ORP: 415.0897435897437
+			pH: 6.98155
+			pumping chlorine for 300s
+				14h 08m 20s
+				CHLORINE: True
+				14h 09m 01s
+				CHLORINE: True
+				14h 10m 01s
+				CHLORINE: True
+				14h 11m 01s
+				CHLORINE: True
+	14h 11m
+	solar wakeup
+	blocked
+	finished main loop
+				14h 12m 01s
+				CHLORINE: True
+				14h 13m 01s
+				CHLORINE: True
+				14h 13m 20s
+				CHLORINE: False
+	14h 22m
+	solar wakeup
+	running main loop
+	solar temp average: 37.3 C
+	pool temp: 27.8 C
+	blocking pool: True
+
+		already ran for 1325 seconds
+				14h 22m 09s
+				POOL: False
+
+		pool blocked: True
+
+		14h 22m 10s
+		blocked: True, is_daytime: True, good_hour_modulo: True
+	replenishing solar
+				14h 22m 14s
+				SOLAR: True
+	Solar Sauna: 30.9, Solar Schuppen: 43.7, Pool: 27.8
+	Solar Sauna: 34.9, Solar Schuppen: 43.8, Pool: 27.9
+	Solar Sauna: 39.2, Solar Schuppen: 43.3, Pool: 28.3
+	Solar Sauna: 40.2, Solar Schuppen: 42.8, Pool: 28.4
+	Solar Sauna: 39.8, Solar Schuppen: 41.2, Pool: 28.4
+	Solar Sauna: 38.4, Solar Schuppen: 39.8, Pool: 28.4
+	Solar Sauna: 37.3, Solar Schuppen: 37.9, Pool: 28.4
+	Solar Sauna: 35.9, Solar Schuppen: 36.7, Pool: 28.4
+	Solar Sauna: 35.1, Solar Schuppen: 35.5, Pool: 28.4
+	Solar Sauna: 34.1, Solar Schuppen: 34.8, Pool: 28.4
+	Solar Sauna: 33.4, Solar Schuppen: 34.1, Pool: 28.4
+	Solar Sauna: 32.9, Solar Schuppen: 33.6, Pool: 28.4
+	Solar Sauna: 32.4, Solar Schuppen: 33.2, Pool: 28.4
+	Solar Sauna: 32.0, Solar Schuppen: 32.9, Pool: 28.4
+	Solar Sauna: 31.6, Solar Schuppen: 32.6, Pool: 28.4
+	Solar Sauna: 31.3, Solar Schuppen: 32.4, Pool: 28.4
+	Solar Sauna: 31.0, Solar Schuppen: 32.2, Pool: 28.4
+	Solar Sauna: 30.8, Solar Schuppen: 32.1, Pool: 28.4
+	replenished solar, interrupted: False
+				14h 25m 15s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		14h 25m 15s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		pool pump needs to be turned on
+				14h 25m 15s
+				POOL: True
+	finished main loop
+		pool pump reached max runtime
+
+		already ran for 1801 seconds
+				14h 33m 11s
+				POOL: False
+	14h 36m
+	solar wakeup
+	running main loop
+	solar temp average: 37.4 C
+	pool temp: 28.1 C
+	finished main loop
+	14h 47m
+	solar wakeup
+	running main loop
+	solar temp average: 36.6 C
+	pool temp: 27.9 C
+	finished main loop
+	14h 58m
+	solar wakeup
+	running main loop
+	solar temp average: 37.3 C
+	pool temp: 27.8 C
+	blocking pool: True
+
+		pool blocked: True
+
+		14h 58m 20s
+		blocked: True, is_daytime: True, good_hour_modulo: True
+	replenishing solar
+				14h 58m 25s
+				SOLAR: True
+	Solar Sauna: 32.8, Solar Schuppen: 41.9, Pool: 27.7
+	Solar Sauna: 34.4, Solar Schuppen: 41.8, Pool: 27.8
+	Solar Sauna: 37.2, Solar Schuppen: 40.9, Pool: 27.9
+	Solar Sauna: 38.1, Solar Schuppen: 40.2, Pool: 28.4
+	Solar Sauna: 37.7, Solar Schuppen: 38.9, Pool: 28.4
+	Solar Sauna: 36.6, Solar Schuppen: 37.5, Pool: 28.5
+	Solar Sauna: 35.7, Solar Schuppen: 35.8, Pool: 28.5
+	Solar Sauna: 34.6, Solar Schuppen: 34.7, Pool: 28.5
+	Solar Sauna: 33.8, Solar Schuppen: 33.8, Pool: 28.5
+	Solar Sauna: 32.9, Solar Schuppen: 33.1, Pool: 28.5
+
+		15h 00m 00s
+		blocked: True, is_daytime: True, good_hour_modulo: False
+	Solar Sauna: 32.4, Solar Schuppen: 32.6, Pool: 28.5
+	Solar Sauna: 31.8, Solar Schuppen: 32.2, Pool: 28.5
+	Solar Sauna: 31.4, Solar Schuppen: 31.8, Pool: 28.5
+	Solar Sauna: 31.0, Solar Schuppen: 31.6, Pool: 28.5
+	replenished solar, interrupted: False
+				15h 00m 46s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		15h 00m 46s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	finished main loop
+	15h 11m
+	solar wakeup
+	running main loop
+	solar temp average: 34.2 C
+	pool temp: 28.2 C
+	finished main loop
+	15h 22m
+	solar wakeup
+	running main loop
+	solar temp average: 35.0 C
+	pool temp: 28.0 C
+	finished main loop
+	15h 33m
+	solar wakeup
+	running main loop
+	solar temp average: 37.3 C
+	pool temp: 27.8 C
+	blocking pool: True
+
+		pool blocked: True
+
+		15h 33m 52s
+		blocked: True, is_daytime: True, good_hour_modulo: False
+	replenishing solar
+				15h 33m 57s
+				SOLAR: True
+	Solar Sauna: 31.5, Solar Schuppen: 43.2, Pool: 27.8
+	Solar Sauna: 32.7, Solar Schuppen: 43.1, Pool: 27.7
+	Solar Sauna: 37.9, Solar Schuppen: 42.3, Pool: 28.0
+	Solar Sauna: 39.1, Solar Schuppen: 41.4, Pool: 28.4
+	Solar Sauna: 39.0, Solar Schuppen: 40.2, Pool: 28.6
+	Solar Sauna: 38.2, Solar Schuppen: 38.2, Pool: 28.6
+	Solar Sauna: 36.8, Solar Schuppen: 36.8, Pool: 28.6
+	Solar Sauna: 35.8, Solar Schuppen: 35.3, Pool: 28.6
+	Solar Sauna: 34.7, Solar Schuppen: 34.5, Pool: 28.6
+	Solar Sauna: 34.0, Solar Schuppen: 33.7, Pool: 28.6
+	Solar Sauna: 33.2, Solar Schuppen: 33.2, Pool: 28.6
+	Solar Sauna: 32.7, Solar Schuppen: 32.8, Pool: 28.6
+	Solar Sauna: 32.2, Solar Schuppen: 32.6, Pool: 28.6
+	Solar Sauna: 31.9, Solar Schuppen: 32.3, Pool: 28.6
+	Solar Sauna: 31.6, Solar Schuppen: 32.1, Pool: 28.6
+	Solar Sauna: 31.4, Solar Schuppen: 32.0, Pool: 28.6
+	Solar Sauna: 31.2, Solar Schuppen: 31.9, Pool: 28.6
+	replenished solar, interrupted: False
+				15h 36m 47s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		15h 36m 48s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	finished main loop
+	15h 47m
+	solar wakeup
+	running main loop
+	solar temp average: 34.1 C
+	pool temp: 28.3 C
+	finished main loop
+	15h 58m
+	solar wakeup
+	running main loop
+	solar temp average: 35.0 C
+	pool temp: 28.1 C
+	finished main loop
+
+			16h 00m 00s
+			start hourly cycle
+
+		16h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		new hour, reset values
+		absolute runtime this hour: 1800.9563341140747
+		new hour, reset values
+		pool pump needs to be turned on
+				16h 00m 00s
+				POOL: True
+			16h 00m 20s
+			16h 07m 20s
+			16h 08m 20s
+			ORP: 433.12
+			pH: 6.998974999999999
+			pumping chlorine for 300s
+				16h 08m 20s
+				CHLORINE: True
+				16h 09m 01s
+				CHLORINE: True
+	16h 09m
+	solar wakeup
+	blocked
+	finished main loop
+				16h 10m 01s
+				CHLORINE: True
+				16h 11m 01s
+				CHLORINE: True
+				16h 12m 01s
+				CHLORINE: True
+				16h 13m 02s
+				CHLORINE: True
+				16h 13m 20s
+				CHLORINE: False
+	16h 20m
+	solar wakeup
+	running main loop
+	solar temp average: 38.3 C
+	pool temp: 27.8 C
+	blocking pool: True
+
+		already ran for 1253 seconds
+				16h 20m 53s
+				POOL: False
+
+		pool blocked: True
+
+		16h 20m 54s
+		blocked: True, is_daytime: True, good_hour_modulo: True
+	replenishing solar
+				16h 20m 58s
+				SOLAR: True
+	Solar Sauna: 32.2, Solar Schuppen: 44.4, Pool: 27.8
+	Solar Sauna: 35.2, Solar Schuppen: 44.0, Pool: 28.0
+	Solar Sauna: 39.1, Solar Schuppen: 43.1, Pool: 28.6
+	Solar Sauna: 40.1, Solar Schuppen: 42.1, Pool: 28.6
+	Solar Sauna: 40.1, Solar Schuppen: 41.0, Pool: 28.7
+	Solar Sauna: 39.3, Solar Schuppen: 39.0, Pool: 28.7
+	Solar Sauna: 38.1, Solar Schuppen: 37.5, Pool: 28.7
+	Solar Sauna: 37.0, Solar Schuppen: 35.9, Pool: 28.7
+	Solar Sauna: 35.8, Solar Schuppen: 35.1, Pool: 28.7
+	Solar Sauna: 34.9, Solar Schuppen: 34.1, Pool: 28.7
+	Solar Sauna: 33.9, Solar Schuppen: 33.6, Pool: 28.7
+	Solar Sauna: 33.3, Solar Schuppen: 33.0, Pool: 28.7
+	Solar Sauna: 32.6, Solar Schuppen: 32.7, Pool: 28.7
+	Solar Sauna: 32.2, Solar Schuppen: 32.3, Pool: 28.7
+	Solar Sauna: 31.8, Solar Schuppen: 32.1, Pool: 28.7
+	Solar Sauna: 31.5, Solar Schuppen: 31.9, Pool: 28.7
+	Solar Sauna: 31.2, Solar Schuppen: 31.8, Pool: 28.7
+	replenished solar, interrupted: False
+				16h 23m 49s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		16h 23m 50s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		pool pump needs to be turned on
+				16h 23m 50s
+				POOL: True
+	finished main loop
+		pool pump reached max runtime
+
+		already ran for 1800 seconds
+				16h 32m 57s
+				POOL: False
+	16h 34m
+	solar wakeup
+	running main loop
+	solar temp average: 34.8 C
+	pool temp: 28.4 C
+	finished main loop
+	16h 45m
+	solar wakeup
+	running main loop
+	solar temp average: 35.6 C
+	pool temp: 28.2 C
+	finished main loop
+	16h 56m
+	solar wakeup
+	running main loop
+	solar temp average: 36.4 C
+	pool temp: 28.1 C
+	finished main loop
+
+		17h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	17h 07m
+	solar wakeup
+	running main loop
+	solar temp average: 36.6 C
+	pool temp: 27.8 C
+	finished main loop
+	17h 18m
+	solar wakeup
+	running main loop
+	solar temp average: 36.6 C
+	pool temp: 27.6 C
+	blocking pool: True
+
+		pool blocked: True
+
+		17h 18m 56s
+		blocked: True, is_daytime: True, good_hour_modulo: False
+	replenishing solar
+				17h 19m 00s
+				SOLAR: True
+	Solar Sauna: 32.4, Solar Schuppen: 40.7, Pool: 27.6
+	Solar Sauna: 33.5, Solar Schuppen: 40.4, Pool: 27.6
+	Solar Sauna: 36.1, Solar Schuppen: 39.8, Pool: 28.1
+	Solar Sauna: 37.3, Solar Schuppen: 39.1, Pool: 28.5
+	Solar Sauna: 37.4, Solar Schuppen: 38.3, Pool: 28.7
+	Solar Sauna: 36.9, Solar Schuppen: 36.8, Pool: 28.7
+	Solar Sauna: 36.1, Solar Schuppen: 35.6, Pool: 28.8
+	Solar Sauna: 35.1, Solar Schuppen: 34.3, Pool: 28.8
+	Solar Sauna: 34.4, Solar Schuppen: 33.6, Pool: 28.8
+	Solar Sauna: 33.6, Solar Schuppen: 33.0, Pool: 28.8
+	Solar Sauna: 33.0, Solar Schuppen: 32.6, Pool: 28.8
+	Solar Sauna: 32.4, Solar Schuppen: 32.2, Pool: 28.8
+	Solar Sauna: 32.0, Solar Schuppen: 31.9, Pool: 28.8
+	Solar Sauna: 31.6, Solar Schuppen: 31.7, Pool: 28.8
+	replenished solar, interrupted: False
+				17h 21m 21s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		17h 21m 21s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	finished main loop
+	17h 32m
+	solar wakeup
+	running main loop
+	solar temp average: 32.3 C
+	pool temp: 28.4 C
+	finished main loop
+	17h 43m
+	solar wakeup
+	running main loop
+	solar temp average: 33.9 C
+	pool temp: 28.2 C
+	finished main loop
+	17h 54m
+	solar wakeup
+	running main loop
+	solar temp average: 34.5 C
+	pool temp: 27.9 C
+	finished main loop
+
+			18h 00m 00s
+			start hourly cycle
+
+		18h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		new hour, reset values
+		absolute runtime this hour: 1800.187511920929
+		new hour, reset values
+		pool pump needs to be turned on
+				18h 00m 00s
+				POOL: True
+			18h 00m 20s
+	18h 05m
+	solar wakeup
+	blocked
+	finished main loop
+			18h 07m 20s
+			18h 08m 20s
+			ORP: 440.38055555555553
+			pH: 7.0128499999999985
+			pumping chlorine for 300s
+				18h 08m 20s
+				CHLORINE: True
+				18h 09m 01s
+				CHLORINE: True
+				18h 10m 01s
+				CHLORINE: True
+				18h 11m 01s
+				CHLORINE: True
+				18h 12m 02s
+				CHLORINE: True
+				18h 13m 02s
+				CHLORINE: True
+				18h 13m 20s
+				CHLORINE: False
+	18h 16m
+	solar wakeup
+	running main loop
+	solar temp average: 33.2 C
+	pool temp: 27.7 C
+	finished main loop
+	18h 27m
+	solar wakeup
+	running main loop
+	solar temp average: 32.5 C
+	pool temp: 27.6 C
+	finished main loop
+		pool pump reached max runtime
+
+		already ran for 1801 seconds
+				18h 30m 01s
+				POOL: False
+	18h 38m
+	solar wakeup
+	running main loop
+	solar temp average: 32.2 C
+	pool temp: 27.4 C
+	finished main loop
+	18h 49m
+	solar wakeup
+	running main loop
+	solar temp average: 31.8 C
+	pool temp: 27.2 C
+	finished main loop
+
+		19h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	19h 00m
+	solar wakeup
+	running main loop
+	solar temp average: 31.9 C
+	pool temp: 27.1 C
+	finished main loop
+	19h 11m
+	solar wakeup
+	running main loop
+	solar temp average: 32.2 C
+	pool temp: 27.0 C
+	finished main loop
+	19h 22m
+	solar wakeup
+	running main loop
+	solar temp average: 32.8 C
+	pool temp: 26.9 C
+	finished main loop
+	19h 33m
+	solar wakeup
+	running main loop
+	solar temp average: 33.7 C
+	pool temp: 26.8 C
+	finished main loop
+	19h 44m
+	solar wakeup
+	running main loop
+	solar temp average: 33.9 C
+	pool temp: 26.6 C
+	finished main loop
+	19h 55m
+	solar wakeup
+	running main loop
+	solar temp average: 34.0 C
+	pool temp: 26.5 C
+	finished main loop
+
+			20h 00m 00s
+			start hourly cycle
+
+		20h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		new hour, reset values
+		absolute runtime this hour: 1800.869579076767
+		new hour, reset values
+		pool pump needs to be turned on
+				20h 00m 00s
+				POOL: True
+			20h 00m 20s
+	20h 06m
+	solar wakeup
+	blocked
+	finished main loop
+			20h 07m 20s
+			20h 08m 20s
+			ORP: 456.82
+			pH: 7.02855
+			pumping chlorine for 300s
+				20h 08m 20s
+				CHLORINE: True
+				20h 09m 01s
+				CHLORINE: True
+				20h 10m 01s
+				CHLORINE: True
+				20h 11m 01s
+				CHLORINE: True
+				20h 12m 02s
+				CHLORINE: True
+				20h 13m 02s
+				CHLORINE: True
+				20h 13m 20s
+				CHLORINE: False
+	20h 17m
+	solar wakeup
+	running main loop
+	solar temp average: 33.6 C
+	pool temp: 26.3 C
+	finished main loop
+	20h 28m
+	solar wakeup
+	running main loop
+	solar temp average: 33.1 C
+	pool temp: 26.2 C
+	finished main loop
+		pool pump reached max runtime
+
+		already ran for 1801 seconds
+				20h 30m 01s
+				POOL: False
+	20h 39m
+	solar wakeup
+	running main loop
+	solar temp average: 33.0 C
+	pool temp: 26.1 C
+	finished main loop
+	20h 50m
+	solar wakeup
+	running main loop
+	solar temp average: 32.4 C
+	pool temp: 26.0 C
+	finished main loop
+
+		21h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: False
+	21h 01m
+	solar wakeup
+	running main loop
+	solar temp average: 31.5 C
+	pool temp: 25.9 C
+	finished main loop
+	21h 12m
+	solar wakeup
+	running main loop
+	solar temp average: 30.7 C
+	pool temp: 25.8 C
+	finished main loop
+	21h 23m
+	solar wakeup
+	running main loop
+	solar temp average: 29.8 C
+	pool temp: 25.7 C
+	finished main loop
+	21h 34m
+	solar wakeup
+	running main loop
+	solar temp average: 28.8 C
+	pool temp: 25.6 C
+	finished main loop
+	21h 45m
+	solar wakeup
+	running main loop
+	solar temp average: 28.1 C
+	pool temp: 25.4 C
+	finished main loop
+	21h 56m
+	solar wakeup
+	running main loop
+	solar temp average: 27.5 C
+	pool temp: 25.3 C
+	finished main loop
+
+		22h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: True
+	22h 07m
+	solar wakeup
+	not daytime
+	finished main loop
+	22h 18m
+	solar wakeup
+	not daytime
+	finished main loop
+	22h 29m
+	solar wakeup
+	not daytime
+	finished main loop
+	22h 40m
+	solar wakeup
+	not daytime
+	finished main loop
+	22h 51m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		23h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: False
+	23h 02m
+	solar wakeup
+	not daytime
+	finished main loop
+	23h 13m
+	solar wakeup
+	not daytime
+	finished main loop
+	23h 24m
+	solar wakeup
+	not daytime
+	finished main loop
+	23h 35m
+	solar wakeup
+	not daytime
+	finished main loop
+	23h 46m
+	solar wakeup
+	not daytime
+	finished main loop
+	23h 57m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		00h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: True
+	00h 08m
+	solar wakeup
+	not daytime
+	finished main loop
+	00h 19m
+	solar wakeup
+	not daytime
+	finished main loop
+	00h 30m
+	solar wakeup
+	not daytime
+	finished main loop
+	00h 41m
+	solar wakeup
+	not daytime
+	finished main loop
+	00h 52m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		01h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: False
+	01h 03m
+	solar wakeup
+	not daytime
+	finished main loop
+	01h 14m
+	solar wakeup
+	not daytime
+	finished main loop
+	01h 25m
+	solar wakeup
+	not daytime
+	finished main loop
+	01h 36m
+	solar wakeup
+	not daytime
+	finished main loop
+	01h 47m
+	solar wakeup
+	not daytime
+	finished main loop
+	01h 58m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		02h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: True
+	02h 09m
+	solar wakeup
+	not daytime
+	finished main loop
+	02h 20m
+	solar wakeup
+	not daytime
+	finished main loop
+	02h 31m
+	solar wakeup
+	not daytime
+	finished main loop
+	02h 42m
+	solar wakeup
+	not daytime
+	finished main loop
+	02h 53m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		03h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: False
+	03h 04m
+	solar wakeup
+	not daytime
+	finished main loop
+	03h 15m
+	solar wakeup
+	not daytime
+	finished main loop
+	03h 26m
+	solar wakeup
+	not daytime
+	finished main loop
+	03h 37m
+	solar wakeup
+	not daytime
+	finished main loop
+	03h 48m
+	solar wakeup
+	not daytime
+	finished main loop
+	03h 59m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		04h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: True
+	04h 10m
+	solar wakeup
+	not daytime
+	finished main loop
+	04h 21m
+	solar wakeup
+	not daytime
+	finished main loop
+	04h 32m
+	solar wakeup
+	not daytime
+	finished main loop
+	04h 43m
+	solar wakeup
+	not daytime
+	finished main loop
+	04h 54m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		05h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: False
+	05h 05m
+	solar wakeup
+	not daytime
+	finished main loop
+	05h 16m
+	solar wakeup
+	not daytime
+	finished main loop
+	05h 27m
+	solar wakeup
+	not daytime
+	finished main loop
+	05h 38m
+	solar wakeup
+	not daytime
+	finished main loop
+	05h 49m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		06h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: True
+	06h 00m
+	solar wakeup
+	not daytime
+	finished main loop
+	06h 11m
+	solar wakeup
+	not daytime
+	finished main loop
+	06h 22m
+	solar wakeup
+	not daytime
+	finished main loop
+	06h 33m
+	solar wakeup
+	not daytime
+	finished main loop
+	06h 44m
+	solar wakeup
+	not daytime
+	finished main loop
+	06h 55m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		07h 00m 00s
+		blocked: False, is_daytime: False, good_hour_modulo: False
+	07h 06m
+	solar wakeup
+	not daytime
+	finished main loop
+	07h 17m
+	solar wakeup
+	not daytime
+	finished main loop
+	07h 28m
+	solar wakeup
+	not daytime
+	finished main loop
+	07h 39m
+	solar wakeup
+	not daytime
+	finished main loop
+	07h 50m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		08h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		new hour, reset values
+		absolute runtime this hour: 1800.833512544632
+		new hour, reset values
+		pool pump needs to be turned on
+				08h 00m 00s
+				POOL: True
+	08h 01m
+	solar wakeup
+	not daytime
+	finished main loop
+	08h 12m
+	solar wakeup
+	not daytime
+	finished main loop
+	08h 23m
+	solar wakeup
+	not daytime
+	finished main loop
+		pool pump reached max runtime
+
+		already ran for 1800 seconds
+				08h 30m 00s
+				POOL: False
+	08h 34m
+	solar wakeup
+	not daytime
+	finished main loop
+	08h 45m
+	solar wakeup
+	not daytime
+	finished main loop
+	08h 56m
+	solar wakeup
+	not daytime
+	finished main loop
+
+		09h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	09h 07m
+	solar wakeup
+	running main loop
+	solar temp average: 30.9 C
+	pool temp: 22.4 C
+	finished main loop
+	09h 18m
+	solar wakeup
+	running main loop
+	solar temp average: 32.4 C
+	pool temp: 22.4 C
+	blocking pool: True
+
+		pool blocked: True
+
+		09h 18m 40s
+		blocked: True, is_daytime: True, good_hour_modulo: False
+	replenishing solar
+				09h 18m 44s
+				SOLAR: True
+	Solar Sauna: 26.8, Solar Schuppen: 38.1, Pool: 22.4
+	Solar Sauna: 28.4, Solar Schuppen: 37.9, Pool: 23.8
+	Solar Sauna: 32.4, Solar Schuppen: 37.0, Pool: 26.0
+	Solar Sauna: 32.1, Solar Schuppen: 36.7, Pool: 26.9
+	Solar Sauna: 30.8, Solar Schuppen: 35.3, Pool: 27.1
+	Solar Sauna: 29.2, Solar Schuppen: 33.9, Pool: 27.2
+	Solar Sauna: 28.0, Solar Schuppen: 32.8, Pool: 27.2
+	Solar Sauna: 27.4, Solar Schuppen: 31.9, Pool: 27.2
+	replenished solar, interrupted: False
+				09h 20m 05s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		09h 20m 05s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	finished main loop
+	09h 31m
+	solar wakeup
+	running main loop
+	solar temp average: 31.5 C
+	pool temp: 26.8 C
+	finished main loop
+	09h 42m
+	solar wakeup
+	running main loop
+	solar temp average: 33.8 C
+	pool temp: 26.6 C
+	finished main loop
+	09h 53m
+	solar wakeup
+	running main loop
+	solar temp average: 36.3 C
+	pool temp: 26.4 C
+	blocking pool: True
+
+		pool blocked: True
+
+		09h 53m 11s
+		blocked: True, is_daytime: True, good_hour_modulo: False
+	replenishing solar
+				09h 53m 15s
+				SOLAR: True
+	Solar Sauna: 30.2, Solar Schuppen: 42.4, Pool: 26.4
+	Solar Sauna: 32.5, Solar Schuppen: 42.5, Pool: 26.4
+	Solar Sauna: 36.6, Solar Schuppen: 41.6, Pool: 26.8
+	Solar Sauna: 37.1, Solar Schuppen: 41.1, Pool: 27.3
+	Solar Sauna: 36.1, Solar Schuppen: 39.4, Pool: 27.4
+	Solar Sauna: 34.7, Solar Schuppen: 38.0, Pool: 27.5
+	Solar Sauna: 33.2, Solar Schuppen: 36.2, Pool: 27.5
+	Solar Sauna: 32.3, Solar Schuppen: 35.1, Pool: 27.5
+	Solar Sauna: 31.4, Solar Schuppen: 34.1, Pool: 27.5
+	Solar Sauna: 30.7, Solar Schuppen: 33.4, Pool: 27.5
+	Solar Sauna: 30.2, Solar Schuppen: 32.8, Pool: 27.6
+	Solar Sauna: 29.9, Solar Schuppen: 32.5, Pool: 27.6
+	Solar Sauna: 29.6, Solar Schuppen: 32.1, Pool: 27.6
+	Solar Sauna: 29.4, Solar Schuppen: 31.9, Pool: 27.6
+	Solar Sauna: 29.2, Solar Schuppen: 31.6, Pool: 27.6
+	replenished solar, interrupted: False
+				09h 55m 46s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		09h 55m 47s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	finished main loop
+
+			10h 00m 00s
+			start hourly cycle
+
+		10h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		new hour, reset values
+		absolute runtime this hour: 1800.2584962844849
+		new hour, reset values
+		pool pump needs to be turned on
+				10h 00m 00s
+				POOL: True
+			10h 00m 20s
+	10h 06m
+	solar wakeup
+	blocked
+	finished main loop
+			10h 07m 20s
+			10h 08m 20s
+			ORP: 443.22222222222223
+			pH: 7.072024999999999
+			pumping chlorine for 300s
+				10h 08m 20s
+				CHLORINE: True
+				10h 09m 01s
+				CHLORINE: True
+				10h 10m 01s
+				CHLORINE: True
+				10h 11m 02s
+				CHLORINE: True
+				10h 12m 02s
+				CHLORINE: True
+				10h 13m 01s
+				CHLORINE: True
+				10h 13m 20s
+				CHLORINE: False
+			pumping acid for 120s
+				10h 14m 20s
+				ACID: True
+				10h 15m 01s
+				ACID: True
+				10h 16m 01s
+				ACID: True
+				10h 16m 20s
+				ACID: False
+	10h 17m
+	solar wakeup
+	running main loop
+	solar temp average: 36.7 C
+	pool temp: 26.9 C
+	blocking pool: True
+
+		already ran for 1071 seconds
+				10h 17m 51s
+				POOL: False
+
+		pool blocked: True
+
+		10h 17m 52s
+		blocked: True, is_daytime: True, good_hour_modulo: True
+	replenishing solar
+				10h 17m 56s
+				SOLAR: True
+	Solar Sauna: 31.1, Solar Schuppen: 42.3, Pool: 26.9
+	Solar Sauna: 34.2, Solar Schuppen: 42.4, Pool: 27.1
+	Solar Sauna: 37.4, Solar Schuppen: 41.8, Pool: 27.5
+	Solar Sauna: 37.9, Solar Schuppen: 41.2, Pool: 27.6
+	Solar Sauna: 37.1, Solar Schuppen: 39.8, Pool: 27.6
+	Solar Sauna: 35.6, Solar Schuppen: 38.4, Pool: 27.6
+	Solar Sauna: 34.6, Solar Schuppen: 36.6, Pool: 27.6
+	Solar Sauna: 33.4, Solar Schuppen: 35.6, Pool: 27.6
+	Solar Sauna: 32.7, Solar Schuppen: 34.5, Pool: 27.6
+	Solar Sauna: 31.9, Solar Schuppen: 33.9, Pool: 27.6
+	Solar Sauna: 31.4, Solar Schuppen: 33.2, Pool: 27.6
+	Solar Sauna: 30.9, Solar Schuppen: 32.8, Pool: 27.6
+	Solar Sauna: 30.6, Solar Schuppen: 32.4, Pool: 27.6
+	Solar Sauna: 30.2, Solar Schuppen: 32.2, Pool: 27.7
+	Solar Sauna: 29.9, Solar Schuppen: 31.9, Pool: 27.6
+	Solar Sauna: 29.8, Solar Schuppen: 31.8, Pool: 27.6
+	Solar Sauna: 29.6, Solar Schuppen: 31.6, Pool: 27.7
+	replenished solar, interrupted: False
+				10h 20m 47s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		10h 20m 47s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		pool pump needs to be turned on
+				10h 20m 47s
+				POOL: True
+	finished main loop
+	10h 31m
+	solar wakeup
+	running main loop
+	solar temp average: 34.0 C
+	pool temp: 27.2 C
+	finished main loop
+		pool pump reached max runtime
+
+		already ran for 1800 seconds
+				10h 32m 57s
+				POOL: False
+	10h 42m
+	solar wakeup
+	running main loop
+	solar temp average: 38.7 C
+	pool temp: 27.0 C
+	blocking pool: True
+
+		pool blocked: True
+
+		10h 42m 53s
+		blocked: True, is_daytime: True, good_hour_modulo: True
+	replenishing solar
+				10h 42m 57s
+				SOLAR: True
+	Solar Sauna: 33.6, Solar Schuppen: 43.8, Pool: 27.0
+	Solar Sauna: 34.0, Solar Schuppen: 43.8, Pool: 27.2
+	Solar Sauna: 39.0, Solar Schuppen: 43.2, Pool: 27.4
+	Solar Sauna: 39.8, Solar Schuppen: 42.5, Pool: 27.6
+	Solar Sauna: 38.8, Solar Schuppen: 40.9, Pool: 27.7
+	Solar Sauna: 37.7, Solar Schuppen: 39.2, Pool: 27.8
+	Solar Sauna: 36.1, Solar Schuppen: 37.3, Pool: 27.8
+	Solar Sauna: 35.1, Solar Schuppen: 36.1, Pool: 27.8
+	Solar Sauna: 33.9, Solar Schuppen: 35.0, Pool: 27.8
+	Solar Sauna: 33.2, Solar Schuppen: 34.4, Pool: 27.8
+	Solar Sauna: 32.4, Solar Schuppen: 33.6, Pool: 27.8
+	Solar Sauna: 31.9, Solar Schuppen: 33.2, Pool: 27.8
+	Solar Sauna: 31.4, Solar Schuppen: 32.8, Pool: 27.8
+	Solar Sauna: 31.0, Solar Schuppen: 32.5, Pool: 27.8
+	Solar Sauna: 30.7, Solar Schuppen: 32.3, Pool: 27.8
+	Solar Sauna: 30.5, Solar Schuppen: 32.1, Pool: 27.8
+	Solar Sauna: 30.2, Solar Schuppen: 31.9, Pool: 27.8
+	Solar Sauna: 30.1, Solar Schuppen: 31.8, Pool: 27.8
+	Solar Sauna: 29.9, Solar Schuppen: 31.7, Pool: 27.8
+	Solar Sauna: 29.9, Solar Schuppen: 31.6, Pool: 27.8
+	replenished solar, interrupted: False
+				10h 46m 18s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		10h 46m 19s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+	finished main loop
+	10h 57m
+	solar wakeup
+	running main loop
+	solar temp average: 34.7 C
+	pool temp: 27.4 C
+	finished main loop
+
+		11h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	11h 08m
+	solar wakeup
+	running main loop
+	solar temp average: 38.9 C
+	pool temp: 27.1 C
+	blocking pool: True
+
+		pool blocked: True
+
+		11h 08m 24s
+		blocked: True, is_daytime: True, good_hour_modulo: False
+	replenishing solar
+				11h 08m 29s
+				SOLAR: True
+	Solar Sauna: 32.4, Solar Schuppen: 45.6, Pool: 27.1
+	Solar Sauna: 34.4, Solar Schuppen: 45.7, Pool: 27.1
+	Solar Sauna: 39.3, Solar Schuppen: 44.8, Pool: 27.4
+	Solar Sauna: 40.9, Solar Schuppen: 43.8, Pool: 27.8
+	Solar Sauna: 40.4, Solar Schuppen: 41.9, Pool: 27.9
+	Solar Sauna: 38.9, Solar Schuppen: 40.1, Pool: 27.9
+	Solar Sauna: 37.6, Solar Schuppen: 38.0, Pool: 27.9
+	Solar Sauna: 36.1, Solar Schuppen: 36.8, Pool: 27.9
+	Solar Sauna: 35.4, Solar Schuppen: 35.5, Pool: 27.9
+	Solar Sauna: 33.9, Solar Schuppen: 34.8, Pool: 27.9
+	Solar Sauna: 33.3, Solar Schuppen: 34.1, Pool: 27.9
+	Solar Sauna: 32.6, Solar Schuppen: 33.6, Pool: 27.9
+	Solar Sauna: 32.1, Solar Schuppen: 33.2, Pool: 27.9
+	Solar Sauna: 31.6, Solar Schuppen: 32.9, Pool: 27.9
+	Solar Sauna: 31.3, Solar Schuppen: 32.6, Pool: 27.9
+	Solar Sauna: 31.0, Solar Schuppen: 32.4, Pool: 27.9
+	Solar Sauna: 30.8, Solar Schuppen: 32.2, Pool: 27.9
+	Solar Sauna: 30.6, Solar Schuppen: 32.1, Pool: 27.9
+	Solar Sauna: 30.4, Solar Schuppen: 32.0, Pool: 27.9
+	Solar Sauna: 30.2, Solar Schuppen: 31.9, Pool: 27.9
+	Solar Sauna: 30.2, Solar Schuppen: 31.8, Pool: 27.9
+	Solar Sauna: 30.1, Solar Schuppen: 31.7, Pool: 27.9
+	replenished solar, interrupted: False
+				11h 12m 09s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		11h 12m 10s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	finished main loop
+	11h 23m
+	solar wakeup
+	running main loop
+	solar temp average: 35.1 C
+	pool temp: 27.4 C
+	finished main loop
+	11h 34m
+	solar wakeup
+	running main loop
+	solar temp average: 38.8 C
+	pool temp: 27.1 C
+	blocking pool: True
+
+		pool blocked: True
+
+		11h 34m 16s
+		blocked: True, is_daytime: True, good_hour_modulo: False
+	replenishing solar
+				11h 34m 20s
+				SOLAR: True
+	Solar Sauna: 32.2, Solar Schuppen: 45.4, Pool: 27.1
+	Solar Sauna: 33.4, Solar Schuppen: 45.6, Pool: 27.1
+	Solar Sauna: 40.4, Solar Schuppen: 44.3, Pool: 27.6
+	Solar Sauna: 41.6, Solar Schuppen: 42.5, Pool: 27.9
+	Solar Sauna: 40.9, Solar Schuppen: 40.9, Pool: 28.0
+	Solar Sauna: 39.7, Solar Schuppen: 38.8, Pool: 28.0
+	Solar Sauna: 38.0, Solar Schuppen: 37.4, Pool: 28.1
+	Solar Sauna: 36.9, Solar Schuppen: 35.9, Pool: 28.1
+	Solar Sauna: 35.8, Solar Schuppen: 35.0, Pool: 28.1
+	Solar Sauna: 34.6, Solar Schuppen: 34.4, Pool: 28.1
+	Solar Sauna: 33.9, Solar Schuppen: 33.8, Pool: 28.1
+	Solar Sauna: 33.1, Solar Schuppen: 33.2, Pool: 28.1
+	Solar Sauna: 32.6, Solar Schuppen: 32.9, Pool: 28.1
+	Solar Sauna: 32.1, Solar Schuppen: 32.6, Pool: 28.1
+	Solar Sauna: 31.7, Solar Schuppen: 32.4, Pool: 28.1
+	Solar Sauna: 31.3, Solar Schuppen: 32.2, Pool: 28.1
+	Solar Sauna: 31.1, Solar Schuppen: 32.1, Pool: 28.1
+	Solar Sauna: 30.8, Solar Schuppen: 31.9, Pool: 28.1
+	Solar Sauna: 30.7, Solar Schuppen: 31.8, Pool: 28.1
+	Solar Sauna: 30.5, Solar Schuppen: 31.7, Pool: 28.1
+	Solar Sauna: 30.4, Solar Schuppen: 31.6, Pool: 28.1
+	replenished solar, interrupted: False
+				11h 37m 51s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		11h 37m 51s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	finished main loop
+	11h 48m
+	solar wakeup
+	running main loop
+	solar temp average: 35.2 C
+	pool temp: 27.6 C
+	finished main loop
+	11h 59m
+	solar wakeup
+	running main loop
+	solar temp average: 38.8 C
+	pool temp: 27.2 C
+	blocking pool: True
+
+		pool blocked: True
+
+		11h 59m 56s
+		blocked: True, is_daytime: True, good_hour_modulo: False
+
+			12h 00m 00s
+			start hourly cycle
+
+		12h 00m 00s
+		blocked: True, is_daytime: True, good_hour_modulo: True
+	replenishing solar
+				12h 00m 01s
+				SOLAR: True
+	replenished solar, interrupted: True
+				12h 00m 01s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		12h 00m 01s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		new hour, reset values
+		absolute runtime this hour: 1800.377576828003
+		new hour, reset values
+		pool pump needs to be turned on
+				12h 00m 01s
+				POOL: True
+	finished main loop
+			12h 00m 20s
+			12h 07m 20s
+			12h 08m 20s
+			ORP: 358.80625
+			pH: 7.081524999999999
+			pumping chlorine for 300s
+				12h 08m 20s
+				CHLORINE: True
+				12h 09m 01s
+				CHLORINE: True
+				12h 10m 02s
+				CHLORINE: True
+				12h 11m 02s
+				CHLORINE: True
+	12h 11m
+	solar wakeup
+	blocked
+	finished main loop
+				12h 12m 01s
+				CHLORINE: True
+				12h 13m 01s
+				CHLORINE: True
+				12h 13m 20s
+				CHLORINE: False
+			pumping acid for 120s
+				12h 14m 20s
+				ACID: True
+				12h 15m 01s
+				ACID: True
+				12h 16m 01s
+				ACID: True
+				12h 16m 20s
+				ACID: False
+	12h 22m
+	solar wakeup
+	running main loop
+	solar temp average: 41.1 C
+	pool temp: 26.9 C
+	blocking pool: True
+
+		already ran for 1325 seconds
+				12h 22m 06s
+				POOL: False
+
+		pool blocked: True
+
+		12h 22m 07s
+		blocked: True, is_daytime: True, good_hour_modulo: True
+	replenishing solar
+				12h 22m 11s
+				SOLAR: True
+	Solar Sauna: 34.1, Solar Schuppen: 48.1, Pool: 26.9
+	Solar Sauna: 39.3, Solar Schuppen: 48.7, Pool: 27.4
+	Solar Sauna: 43.4, Solar Schuppen: 45.4, Pool: 28.0
+	Solar Sauna: 44.3, Solar Schuppen: 44.1, Pool: 28.2
+	Solar Sauna: 43.4, Solar Schuppen: 42.2, Pool: 28.2
+	Solar Sauna: 41.5, Solar Schuppen: 40.7, Pool: 28.2
+	Solar Sauna: 39.9, Solar Schuppen: 38.5, Pool: 28.2
+	Solar Sauna: 38.1, Solar Schuppen: 37.2, Pool: 28.2
+	Solar Sauna: 36.9, Solar Schuppen: 35.9, Pool: 28.2
+	Solar Sauna: 35.9, Solar Schuppen: 35.1, Pool: 28.2
+	Solar Sauna: 34.8, Solar Schuppen: 34.3, Pool: 28.3
+	Solar Sauna: 34.1, Solar Schuppen: 33.9, Pool: 28.2
+	Solar Sauna: 33.2, Solar Schuppen: 33.4, Pool: 28.3
+	Solar Sauna: 32.8, Solar Schuppen: 33.1, Pool: 28.3
+	Solar Sauna: 32.2, Solar Schuppen: 32.8, Pool: 28.3
+	Solar Sauna: 31.8, Solar Schuppen: 32.6, Pool: 28.3
+	Solar Sauna: 31.6, Solar Schuppen: 32.4, Pool: 28.3
+	Solar Sauna: 31.3, Solar Schuppen: 32.3, Pool: 28.3
+	Solar Sauna: 31.1, Solar Schuppen: 32.2, Pool: 28.3
+	Solar Sauna: 30.9, Solar Schuppen: 32.1, Pool: 28.3
+	Solar Sauna: 30.8, Solar Schuppen: 32.0, Pool: 28.3
+	Solar Sauna: 30.7, Solar Schuppen: 31.9, Pool: 28.3
+	replenished solar, interrupted: False
+				12h 25m 52s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		12h 25m 53s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		pool pump needs to be turned on
+				12h 25m 53s
+				POOL: True
+	finished main loop
+		pool pump reached max runtime
+
+		already ran for 1801 seconds
+				12h 33m 49s
+				POOL: False
+	12h 36m
+	solar wakeup
+	running main loop
+	solar temp average: 36.9 C
+	pool temp: 27.9 C
+	blocking pool: True
+
+		pool blocked: True
+
+		12h 36m 58s
+		blocked: True, is_daytime: True, good_hour_modulo: True
+	replenishing solar
+				12h 37m 03s
+				SOLAR: True
+	Solar Sauna: 32.5, Solar Schuppen: 41.6, Pool: 27.9
+	Solar Sauna: 34.1, Solar Schuppen: 41.8, Pool: 28.0
+	Solar Sauna: 38.1, Solar Schuppen: 39.4, Pool: 28.2
+	Solar Sauna: 39.0, Solar Schuppen: 38.9, Pool: 28.4
+	Solar Sauna: 38.4, Solar Schuppen: 38.1, Pool: 28.4
+	Solar Sauna: 37.2, Solar Schuppen: 37.1, Pool: 28.4
+	Solar Sauna: 36.3, Solar Schuppen: 35.9, Pool: 28.4
+	Solar Sauna: 35.2, Solar Schuppen: 35.1, Pool: 28.4
+	Solar Sauna: 34.5, Solar Schuppen: 34.3, Pool: 28.4
+	Solar Sauna: 33.7, Solar Schuppen: 33.8, Pool: 28.4
+	Solar Sauna: 33.2, Solar Schuppen: 33.4, Pool: 28.4
+	Solar Sauna: 32.6, Solar Schuppen: 33.1, Pool: 28.4
+	Solar Sauna: 32.2, Solar Schuppen: 32.8, Pool: 28.5
+	Solar Sauna: 31.9, Solar Schuppen: 32.6, Pool: 28.4
+	Solar Sauna: 31.6, Solar Schuppen: 32.4, Pool: 28.5
+	Solar Sauna: 31.3, Solar Schuppen: 32.3, Pool: 28.5
+	Solar Sauna: 31.1, Solar Schuppen: 32.2, Pool: 28.5
+	Solar Sauna: 30.9, Solar Schuppen: 32.1, Pool: 28.5
+	Solar Sauna: 30.9, Solar Schuppen: 32.0, Pool: 28.5
+	replenished solar, interrupted: False
+				12h 40m 13s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		12h 40m 14s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+	finished main loop
+	12h 51m
+	solar wakeup
+	running main loop
+	solar temp average: 36.7 C
+	pool temp: 27.9 C
+	finished main loop
+
+		13h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	13h 02m
+	solar wakeup
+	running main loop
+	solar temp average: 41.3 C
+	pool temp: 27.6 C
+	blocking pool: True
+
+		pool blocked: True
+
+		13h 02m 19s
+		blocked: True, is_daytime: True, good_hour_modulo: False
+	replenishing solar
+				13h 02m 24s
+				SOLAR: True
+	Solar Sauna: 31.9, Solar Schuppen: 50.8, Pool: 27.6
+	Solar Sauna: 34.3, Solar Schuppen: 50.1, Pool: 27.6
+	Solar Sauna: 41.7, Solar Schuppen: 47.2, Pool: 28.1
+	Solar Sauna: 44.1, Solar Schuppen: 45.6, Pool: 28.4
+	Solar Sauna: 43.4, Solar Schuppen: 44.1, Pool: 28.5
+	Solar Sauna: 41.8, Solar Schuppen: 42.1, Pool: 28.6
+	Solar Sauna: 39.8, Solar Schuppen: 40.2, Pool: 28.6
+	Solar Sauna: 38.5, Solar Schuppen: 38.3, Pool: 28.6
+	Solar Sauna: 37.2, Solar Schuppen: 37.2, Pool: 28.6
+	Solar Sauna: 35.9, Solar Schuppen: 36.1, Pool: 28.6
+	Solar Sauna: 35.1, Solar Schuppen: 35.5, Pool: 28.6
+	Solar Sauna: 34.1, Solar Schuppen: 34.9, Pool: 28.6
+	Solar Sauna: 33.5, Solar Schuppen: 34.4, Pool: 28.6
+	Solar Sauna: 33.0, Solar Schuppen: 34.1, Pool: 28.6
+	Solar Sauna: 32.4, Solar Schuppen: 33.8, Pool: 28.6
+	Solar Sauna: 32.1, Solar Schuppen: 33.5, Pool: 28.6
+	Solar Sauna: 31.9, Solar Schuppen: 33.3, Pool: 28.6
+	Solar Sauna: 31.6, Solar Schuppen: 33.1, Pool: 28.6
+	Solar Sauna: 31.4, Solar Schuppen: 33.0, Pool: 28.6
+	Solar Sauna: 31.2, Solar Schuppen: 32.9, Pool: 28.6
+	Solar Sauna: 31.1, Solar Schuppen: 32.8, Pool: 28.7
+	Solar Sauna: 30.9, Solar Schuppen: 32.7, Pool: 28.7
+	Solar Sauna: 30.9, Solar Schuppen: 32.6, Pool: 28.7
+	Solar Sauna: 30.8, Solar Schuppen: 32.5, Pool: 28.7
+	replenished solar, interrupted: False
+				13h 06m 25s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		13h 06m 26s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	finished main loop
+	13h 17m
+	solar wakeup
+	running main loop
+	solar temp average: 37.3 C
+	pool temp: 28.1 C
+	finished main loop
+	13h 28m
+	solar wakeup
+	running main loop
+	solar temp average: 42.2 C
+	pool temp: 27.8 C
+	blocking pool: True
+
+		pool blocked: True
+
+		13h 28m 31s
+		blocked: True, is_daytime: True, good_hour_modulo: False
+	replenishing solar
+				13h 28m 35s
+				SOLAR: True
+	Solar Sauna: 32.6, Solar Schuppen: 52.0, Pool: 27.8
+	Solar Sauna: 34.3, Solar Schuppen: 51.8, Pool: 27.8
+	Solar Sauna: 43.2, Solar Schuppen: 49.5, Pool: 28.2
+	Solar Sauna: 44.5, Solar Schuppen: 47.8, Pool: 28.6
+	Solar Sauna: 43.3, Solar Schuppen: 46.1, Pool: 28.8
+	Solar Sauna: 41.8, Solar Schuppen: 43.4, Pool: 28.8
+	Solar Sauna: 39.8, Solar Schuppen: 41.5, Pool: 28.8
+	Solar Sauna: 38.4, Solar Schuppen: 39.4, Pool: 28.8
+	Solar Sauna: 36.8, Solar Schuppen: 38.2, Pool: 28.8
+	Solar Sauna: 35.8, Solar Schuppen: 37.1, Pool: 28.8
+	Solar Sauna: 34.8, Solar Schuppen: 36.4, Pool: 28.8
+	Solar Sauna: 34.1, Solar Schuppen: 35.6, Pool: 28.8
+	Solar Sauna: 33.4, Solar Schuppen: 35.2, Pool: 28.9
+	Solar Sauna: 32.9, Solar Schuppen: 34.8, Pool: 28.8
+	Solar Sauna: 32.4, Solar Schuppen: 34.5, Pool: 28.9
+	Solar Sauna: 32.2, Solar Schuppen: 34.2, Pool: 28.9
+	Solar Sauna: 31.9, Solar Schuppen: 33.9, Pool: 28.9
+	Solar Sauna: 31.7, Solar Schuppen: 33.8, Pool: 28.9
+	Solar Sauna: 31.5, Solar Schuppen: 33.6, Pool: 28.9
+	Solar Sauna: 31.3, Solar Schuppen: 33.5, Pool: 28.9
+	Solar Sauna: 31.2, Solar Schuppen: 33.4, Pool: 28.9
+	Solar Sauna: 31.1, Solar Schuppen: 33.2, Pool: 28.9
+	Solar Sauna: 31.0, Solar Schuppen: 33.2, Pool: 28.9
+	Solar Sauna: 30.9, Solar Schuppen: 33.1, Pool: 28.9
+	Solar Sauna: 30.9, Solar Schuppen: 33.0, Pool: 28.9
+	replenished solar, interrupted: False
+				13h 32m 46s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		13h 32m 46s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	finished main loop
+	13h 43m
+	solar wakeup
+	running main loop
+	solar temp average: 38.1 C
+	pool temp: 28.3 C
+	finished main loop
+	13h 54m
+	solar wakeup
+	running main loop
+	solar temp average: 42.9 C
+	pool temp: 28.0 C
+	finished main loop
+
+			14h 00m 00s
+			start hourly cycle
+
+		14h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		new hour, reset values
+		absolute runtime this hour: 1800.9192626476288
+		new hour, reset values
+		pool pump needs to be turned on
+				14h 00m 00s
+				POOL: True
+			14h 00m 20s
+	14h 05m
+	solar wakeup
+	blocked
+	finished main loop
+			14h 07m 20s
+			14h 08m 20s
+			ORP: 318.6228571428571
+			pH: 7.096200000000001
+			pumping chlorine for 300s
+				14h 08m 20s
+				CHLORINE: True
+				14h 09m 02s
+				CHLORINE: True
+				14h 10m 02s
+				CHLORINE: True
+				14h 11m 01s
+				CHLORINE: True
+				14h 12m 01s
+				CHLORINE: True
+				14h 13m 01s
+				CHLORINE: True
+				14h 13m 20s
+				CHLORINE: False
+			pumping acid for 120s
+				14h 14m 20s
+				ACID: True
+				14h 15m 01s
+				ACID: True
+				14h 16m 01s
+				ACID: True
+				14h 16m 20s
+				ACID: False
+	14h 16m
+	solar wakeup
+	running main loop
+	solar temp average: 50.8 C
+	pool temp: 27.6 C
+	blocking pool: True
+
+		already ran for 1012 seconds
+				14h 16m 52s
+				POOL: False
+
+		pool blocked: True
+
+		14h 16m 52s
+		blocked: True, is_daytime: True, good_hour_modulo: True
+	replenishing solar
+				14h 16m 57s
+				SOLAR: True
+	Solar Sauna: 40.7, Solar Schuppen: 60.9, Pool: 27.6
+	Solar Sauna: 48.8, Solar Schuppen: 60.6, Pool: 28.1
+	Solar Sauna: 53.6, Solar Schuppen: 57.9, Pool: 28.8
+	Solar Sauna: 54.8, Solar Schuppen: 56.0, Pool: 29.0
+	Solar Sauna: 53.6, Solar Schuppen: 52.4, Pool: 29.1
+	Solar Sauna: 50.5, Solar Schuppen: 48.4, Pool: 29.1
+	Solar Sauna: 48.1, Solar Schuppen: 45.9, Pool: 29.1
+	Solar Sauna: 45.1, Solar Schuppen: 43.2, Pool: 29.1
+	Solar Sauna: 43.1, Solar Schuppen: 41.7, Pool: 29.1
+	Solar Sauna: 40.9, Solar Schuppen: 40.1, Pool: 29.1
+	Solar Sauna: 39.6, Solar Schuppen: 39.2, Pool: 29.1
+	Solar Sauna: 38.1, Solar Schuppen: 38.4, Pool: 29.1
+	Solar Sauna: 37.0, Solar Schuppen: 37.5, Pool: 29.1
+	Solar Sauna: 35.9, Solar Schuppen: 37.0, Pool: 29.1
+	Solar Sauna: 35.1, Solar Schuppen: 36.4, Pool: 29.1
+	Solar Sauna: 34.4, Solar Schuppen: 36.1, Pool: 29.1
+	Solar Sauna: 33.9, Solar Schuppen: 35.7, Pool: 29.1
+	Solar Sauna: 33.3, Solar Schuppen: 35.4, Pool: 29.1
+	Solar Sauna: 33.0, Solar Schuppen: 35.1, Pool: 29.1
+	Solar Sauna: 32.6, Solar Schuppen: 34.9, Pool: 29.1
+	Solar Sauna: 32.4, Solar Schuppen: 34.8, Pool: 29.2
+	Solar Sauna: 32.2, Solar Schuppen: 34.6, Pool: 29.2
+	Solar Sauna: 32.1, Solar Schuppen: 34.4, Pool: 29.2
+	Solar Sauna: 31.9, Solar Schuppen: 34.4, Pool: 29.1
+	Solar Sauna: 31.8, Solar Schuppen: 34.2, Pool: 29.2
+	Solar Sauna: 31.7, Solar Schuppen: 34.2, Pool: 29.2
+	Solar Sauna: 31.6, Solar Schuppen: 34.1, Pool: 29.2
+	Solar Sauna: 31.6, Solar Schuppen: 34.0, Pool: 29.2
+	Solar Sauna: 31.5, Solar Schuppen: 33.9, Pool: 29.2
+	Solar Sauna: 31.4, Solar Schuppen: 33.9, Pool: 29.2
+	Solar Sauna: 31.4, Solar Schuppen: 33.8, Pool: 29.2
+	Solar Sauna: 31.4, Solar Schuppen: 33.8, Pool: 29.2
+	Solar Sauna: 31.4, Solar Schuppen: 33.8, Pool: 29.2
+	Solar Sauna: 31.3, Solar Schuppen: 33.8, Pool: 29.2
+	Solar Sauna: 31.3, Solar Schuppen: 33.7, Pool: 29.2
+	Solar Sauna: 31.3, Solar Schuppen: 33.6, Pool: 29.2
+	Solar Sauna: 31.3, Solar Schuppen: 33.6, Pool: 29.2
+	Solar Sauna: 31.2, Solar Schuppen: 33.6, Pool: 29.2
+	Solar Sauna: 31.2, Solar Schuppen: 33.6, Pool: 29.2
+	Solar Sauna: 31.2, Solar Schuppen: 33.5, Pool: 29.2
+	Solar Sauna: 31.2, Solar Schuppen: 33.5, Pool: 29.2
+	Solar Sauna: 31.2, Solar Schuppen: 33.4, Pool: 29.2
+	Solar Sauna: 31.2, Solar Schuppen: 33.4, Pool: 29.2
+	Solar Sauna: 31.2, Solar Schuppen: 33.4, Pool: 29.2
+	Solar Sauna: 31.2, Solar Schuppen: 33.4, Pool: 29.3
+	Solar Sauna: 31.2, Solar Schuppen: 33.4, Pool: 29.3
+	Solar Sauna: 31.2, Solar Schuppen: 33.4, Pool: 29.3
+	Solar Sauna: 31.2, Solar Schuppen: 33.3, Pool: 29.4
+	replenished solar, interrupted: False
+				14h 24m 58s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		14h 24m 59s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		pool pump needs to be turned on
+				14h 24m 59s
+				POOL: True
+	finished main loop
+	14h 36m
+	solar wakeup
+	running main loop
+	solar temp average: 38.0 C
+	pool temp: 28.9 C
+	finished main loop
+		pool pump reached max runtime
+
+		already ran for 1801 seconds
+				14h 38m 08s
+				POOL: False
+	14h 47m
+	solar wakeup
+	running main loop
+	solar temp average: 42.1 C
+	pool temp: 28.6 C
+	finished main loop
+	14h 58m
+	solar wakeup
+	running main loop
+	solar temp average: 41.4 C
+	pool temp: 28.3 C
+	finished main loop
+
+		15h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	15h 09m
+	solar wakeup
+	running main loop
+	solar temp average: 42.4 C
+	pool temp: 27.9 C
+	blocking pool: True
+
+		pool blocked: True
+
+		15h 09m 05s
+		blocked: True, is_daytime: True, good_hour_modulo: False
+	replenishing solar
+				15h 09m 09s
+				SOLAR: True
+	Solar Sauna: 36.1, Solar Schuppen: 48.6, Pool: 27.9
+	Solar Sauna: 37.2, Solar Schuppen: 48.6, Pool: 28.1
+	Solar Sauna: 43.4, Solar Schuppen: 47.8, Pool: 28.6
+	Solar Sauna: 44.6, Solar Schuppen: 46.6, Pool: 29.2
+	Solar Sauna: 44.1, Solar Schuppen: 45.1, Pool: 29.3
+	Solar Sauna: 43.0, Solar Schuppen: 42.4, Pool: 29.4
+	Solar Sauna: 41.1, Solar Schuppen: 40.6, Pool: 29.4
+	Solar Sauna: 39.8, Solar Schuppen: 38.7, Pool: 29.4
+	Solar Sauna: 38.2, Solar Schuppen: 37.6, Pool: 29.4
+	Solar Sauna: 37.2, Solar Schuppen: 36.6, Pool: 29.4
+	Solar Sauna: 36.1, Solar Schuppen: 35.9, Pool: 29.4
+	Solar Sauna: 35.2, Solar Schuppen: 35.2, Pool: 29.4
+	Solar Sauna: 34.6, Solar Schuppen: 34.8, Pool: 29.4
+	Solar Sauna: 33.9, Solar Schuppen: 34.4, Pool: 29.4
+	Solar Sauna: 33.5, Solar Schuppen: 34.1, Pool: 29.4
+	Solar Sauna: 33.0, Solar Schuppen: 33.8, Pool: 29.4
+	Solar Sauna: 32.8, Solar Schuppen: 33.6, Pool: 29.4
+	Solar Sauna: 32.4, Solar Schuppen: 33.4, Pool: 29.4
+	Solar Sauna: 32.2, Solar Schuppen: 33.3, Pool: 29.4
+	Solar Sauna: 32.0, Solar Schuppen: 33.1, Pool: 29.4
+	Solar Sauna: 31.9, Solar Schuppen: 33.0, Pool: 29.4
+	replenished solar, interrupted: False
+				15h 12m 40s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		15h 12m 40s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	finished main loop
+	15h 23m
+	solar wakeup
+	running main loop
+	solar temp average: 32.8 C
+	pool temp: 28.8 C
+	finished main loop
+	15h 34m
+	solar wakeup
+	running main loop
+	solar temp average: 33.1 C
+	pool temp: 28.4 C
+	finished main loop
+	15h 45m
+	solar wakeup
+	running main loop
+	solar temp average: 36.8 C
+	pool temp: 28.1 C
+	finished main loop
+	15h 56m
+	solar wakeup
+	running main loop
+	solar temp average: 37.7 C
+	pool temp: 27.8 C
+	blocking pool: True
+
+		pool blocked: True
+
+		15h 56m 47s
+		blocked: True, is_daytime: True, good_hour_modulo: False
+	replenishing solar
+				15h 56m 51s
+				SOLAR: True
+	Solar Sauna: 31.9, Solar Schuppen: 43.5, Pool: 27.8
+	Solar Sauna: 33.5, Solar Schuppen: 43.4, Pool: 27.9
+	Solar Sauna: 37.8, Solar Schuppen: 43.0, Pool: 28.8
+	Solar Sauna: 39.9, Solar Schuppen: 42.6, Pool: 29.2
+	Solar Sauna: 40.1, Solar Schuppen: 41.3, Pool: 29.4
+	Solar Sauna: 39.5, Solar Schuppen: 39.9, Pool: 29.4
+	Solar Sauna: 38.6, Solar Schuppen: 38.0, Pool: 29.4
+	Solar Sauna: 37.4, Solar Schuppen: 36.8, Pool: 29.4
+	Solar Sauna: 36.5, Solar Schuppen: 35.7, Pool: 29.4
+	Solar Sauna: 35.6, Solar Schuppen: 35.1, Pool: 29.5
+	Solar Sauna: 34.9, Solar Schuppen: 34.4, Pool: 29.5
+	Solar Sauna: 34.2, Solar Schuppen: 34.1, Pool: 29.5
+	Solar Sauna: 33.8, Solar Schuppen: 33.7, Pool: 29.5
+	Solar Sauna: 33.3, Solar Schuppen: 33.5, Pool: 29.5
+	Solar Sauna: 33.1, Solar Schuppen: 33.2, Pool: 29.5
+	Solar Sauna: 32.8, Solar Schuppen: 33.1, Pool: 29.5
+	Solar Sauna: 32.6, Solar Schuppen: 32.9, Pool: 29.5
+	Solar Sauna: 32.3, Solar Schuppen: 32.8, Pool: 29.5
+	Solar Sauna: 32.2, Solar Schuppen: 32.7, Pool: 29.5
+
+			16h 00m 00s
+			start hourly cycle
+
+		16h 00m 00s
+		blocked: True, is_daytime: True, good_hour_modulo: True
+	replenished solar, interrupted: True
+				16h 00m 02s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		16h 00m 02s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		new hour, reset values
+		absolute runtime this hour: 1800.9782586097717
+		new hour, reset values
+		pool pump needs to be turned on
+				16h 00m 02s
+				POOL: True
+	finished main loop
+			16h 00m 20s
+			16h 07m 20s
+			16h 08m 20s
+			ORP: 296.9161290322581
+			pH: 7.1095250000000005
+			pumping chlorine for 300s
+				16h 08m 20s
+				CHLORINE: True
+				16h 09m 02s
+				CHLORINE: True
+				16h 10m 01s
+				CHLORINE: True
+				16h 11m 01s
+				CHLORINE: True
+	16h 11m
+	solar wakeup
+	blocked
+	finished main loop
+				16h 12m 01s
+				CHLORINE: True
+				16h 13m 01s
+				CHLORINE: True
+				16h 13m 20s
+				CHLORINE: False
+			pumping acid for 240s
+				16h 14m 20s
+				ACID: True
+				16h 15m 01s
+				ACID: True
+				16h 16m 02s
+				ACID: True
+				16h 17m 02s
+				ACID: True
+				16h 18m 01s
+				ACID: True
+				16h 18m 20s
+				ACID: False
+	16h 22m
+	solar wakeup
+	running main loop
+	solar temp average: 39.0 C
+	pool temp: 28.7 C
+	finished main loop
+		pool pump reached max runtime
+
+		already ran for 1801 seconds
+				16h 30m 02s
+				POOL: False
+	16h 33m
+	solar wakeup
+	running main loop
+	solar temp average: 45.1 C
+	pool temp: 28.4 C
+	finished main loop
+	16h 44m
+	solar wakeup
+	running main loop
+	solar temp average: 45.9 C
+	pool temp: 28.2 C
+	finished main loop
+	16h 55m
+	solar wakeup
+	running main loop
+	solar temp average: 46.8 C
+	pool temp: 27.9 C
+	blocking pool: True
+
+		pool blocked: True
+
+		16h 55m 08s
+		blocked: True, is_daytime: True, good_hour_modulo: True
+	replenishing solar
+				16h 55m 12s
+				SOLAR: True
+	Solar Sauna: 37.9, Solar Schuppen: 55.6, Pool: 27.9
+	Solar Sauna: 40.5, Solar Schuppen: 55.3, Pool: 28.1
+	Solar Sauna: 47.2, Solar Schuppen: 54.4, Pool: 29.0
+	Solar Sauna: 50.6, Solar Schuppen: 53.1, Pool: 29.4
+	Solar Sauna: 51.2, Solar Schuppen: 51.2, Pool: 29.6
+	Solar Sauna: 50.1, Solar Schuppen: 48.6, Pool: 29.6
+	Solar Sauna: 48.2, Solar Schuppen: 44.9, Pool: 29.6
+	Solar Sauna: 46.2, Solar Schuppen: 42.8, Pool: 29.6
+	Solar Sauna: 43.8, Solar Schuppen: 40.6, Pool: 29.6
+	Solar Sauna: 42.2, Solar Schuppen: 39.4, Pool: 29.6
+	Solar Sauna: 40.4, Solar Schuppen: 38.1, Pool: 29.7
+	Solar Sauna: 39.2, Solar Schuppen: 37.3, Pool: 29.6
+	Solar Sauna: 37.9, Solar Schuppen: 36.5, Pool: 29.7
+	Solar Sauna: 37.1, Solar Schuppen: 36.0, Pool: 29.7
+	Solar Sauna: 36.0, Solar Schuppen: 35.4, Pool: 29.7
+	Solar Sauna: 35.4, Solar Schuppen: 35.1, Pool: 29.8
+	Solar Sauna: 34.7, Solar Schuppen: 34.8, Pool: 29.8
+	Solar Sauna: 34.2, Solar Schuppen: 34.5, Pool: 29.8
+	Solar Sauna: 33.8, Solar Schuppen: 34.2, Pool: 29.8
+	Solar Sauna: 33.3, Solar Schuppen: 34.1, Pool: 29.9
+	Solar Sauna: 33.1, Solar Schuppen: 33.9, Pool: 29.9
+	Solar Sauna: 32.9, Solar Schuppen: 33.8, Pool: 29.9
+	Solar Sauna: 32.7, Solar Schuppen: 33.6, Pool: 29.9
+	Solar Sauna: 32.5, Solar Schuppen: 33.6, Pool: 29.9
+	Solar Sauna: 32.4, Solar Schuppen: 33.4, Pool: 29.9
+	replenished solar, interrupted: False
+				16h 59m 23s
+				SOLAR: False
+	blocking pool: False
+
+		pool blocked: False
+
+		16h 59m 24s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+	finished main loop
+
+		17h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: False
+	17h 10m
+	solar wakeup
+	running main loop
+	solar temp average: 33.6 C
+	pool temp: 29.2 C
+	finished main loop
+	17h 21m
+	solar wakeup
+	running main loop
+	solar temp average: 35.7 C
+	pool temp: 29.0 C
+	finished main loop
+	17h 32m
+	solar wakeup
+	running main loop
+	solar temp average: 35.9 C
+	pool temp: 28.8 C
+	finished main loop
+	17h 43m
+	solar wakeup
+	running main loop
+	solar temp average: 35.5 C
+	pool temp: 28.6 C
+	finished main loop
+	17h 54m
+	solar wakeup
+	running main loop
+	solar temp average: 35.9 C
+	pool temp: 28.6 C
+	finished main loop
+
+			18h 00m 00s
+			start hourly cycle
+
+		18h 00m 00s
+		blocked: False, is_daytime: True, good_hour_modulo: True
+		new hour, reset values
+		absolute runtime this hour: 1800.62189078331
+		new hour, reset values
+		pool pump needs to be turned on
+				18h 00m 00s
+				POOL: True
+			18h 00m 20s

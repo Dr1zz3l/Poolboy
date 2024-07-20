@@ -116,10 +116,10 @@ class probes(threading.Thread):
             return 0
     
     def pH_correction_time(self, val): #determine how long the pump needs to run
-        if val > self.vars.probe_pH_t2_min_val:
-            return 3*60
-        elif val > self.vars.probe_pH_t1_min_val:
-            return 1*60
+        if val > self.vars.probe_pH_10_min_val:
+            return 10*60
+        elif val > self.vars.probe_pH_5_min_val:
+            return 5*60
         else:
             return 0
 

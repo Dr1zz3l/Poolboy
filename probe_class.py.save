@@ -1,0 +1,22 @@
+import threading
+import datetime
+import time
+import Atlas_I2C
+import pump_lib as pump
+import log_lib as log
+    
+class probes(threading.Thread):
+    def __init__(self, vars = None, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+
+        self.vars = vars
+        self.ORP = False
+        self.pH = False
+
+        devices = Atlas_I2C.get_devices()
+        module_ORP = "ORP"
+        module_pH = "pH"
+
+        for d in devices:
+            log.note("found d._module %s" % d._module, "probe")
+            if d._module == module_ORP: self.ORP = d
